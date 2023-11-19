@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "blockblitz:maple_leaves",
+    "blockblitz:apple_leaves",
+    "blockblitz:mulberry_leaves",
+    "blockblitz:gapple_leaves"
+  ]
+}

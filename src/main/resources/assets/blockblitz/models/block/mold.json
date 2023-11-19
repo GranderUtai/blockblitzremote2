@@ -1,0 +1,9 @@
+{
+  "parent": "blockblitz:custom/mold3",
+  "textures": {
+    "all": "blockblitz:block/moldtexture",
+    "particle": "blockblitz:block/moldtexture",
+    "0": "blockblitz:block/moldtexture"
+  },
+  "render_type": "cutout"
+}

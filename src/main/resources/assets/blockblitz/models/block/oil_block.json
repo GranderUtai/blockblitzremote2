@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blockblitz:block/oil",
+    "up": "blockblitz:block/oil",
+    "north": "blockblitz:block/oil",
+    "east": "blockblitz:block/oil",
+    "south": "blockblitz:block/oil",
+    "west": "blockblitz:block/oil",
+    "particle": "blockblitz:block/oil"
+  },
+  "render_type": "solid"
+}

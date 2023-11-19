@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "blockblitz:tungsten_ingot"
+    },
+    "1": {
+      "item": "blockblitz:tungsten_ingot"
+    },
+    "2": {
+      "item": "blockblitz:tungsten_ingot"
+    },
+    "3": {
+      "item": "blockblitz:tungsten_ingot"
+    },
+    "4": {
+      "item": "blockblitz:tungsten_ingot"
+    },
+    "5": {
+      "item": "blockblitz:tungsten_ingot"
+    },
+    "6": {
+      "item": "blockblitz:tungsten_ingot"
+    },
+    "7": {
+      "item": "blockblitz:tungsten_ingot"
+    },
+    "8": {
+      "item": "blockblitz:tungsten_ingot"
+    }
+  },
+  "result": {
+    "item": "blockblitz:block_of_tungsten",
+    "count": 1
+  }
+}

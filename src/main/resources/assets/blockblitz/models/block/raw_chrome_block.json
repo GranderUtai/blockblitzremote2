@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blockblitz:block/rawchromeblock",
+    "up": "blockblitz:block/rawchromeblock",
+    "north": "blockblitz:block/rawchromeblock",
+    "east": "blockblitz:block/rawchromeblock",
+    "south": "blockblitz:block/rawchromeblock",
+    "west": "blockblitz:block/rawchromeblock",
+    "particle": "blockblitz:block/rawchromeblock"
+  },
+  "render_type": "solid"
+}

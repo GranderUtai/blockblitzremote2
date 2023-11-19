@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 3,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:GappleLog"
+      },
+      {
+        "value": "CUSTOM:GappleLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GappleLog"
+      },
+      {
+        "value": "CUSTOM:GappleLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:GappleWood"
+    },
+    "name": "r_gapple_wood",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "blockblitz:custom/turfyellowcarpet",
+  "textures": {
+    "all": "blockblitz:block/turf_yellow",
+    "particle": "blockblitz:block/turf_yellow",
+    "17": "blockblitz:block/turf_yellow"
+  },
+  "render_type": "solid"
+}

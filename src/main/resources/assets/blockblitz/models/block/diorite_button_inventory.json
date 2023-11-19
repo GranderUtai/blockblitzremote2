@@ -1,0 +1,7 @@
+{
+  "parent": "block/button_inventory",
+  "textures": {
+    "texture": "blockblitz:block/diorite_texture_je4_be3"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:amethyst_block"
+    },
+    "1": {
+      "item": "minecraft:amethyst_block"
+    },
+    "2": {
+      "item": "minecraft:amethyst_block"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "blockblitz:amethyst_pickaxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blockblitz:block/rawniobiumblocktest2",
+    "up": "blockblitz:block/rawniobiumblocktest2",
+    "north": "blockblitz:block/rawniobiumblocktest2",
+    "east": "blockblitz:block/rawniobiumblocktest2",
+    "south": "blockblitz:block/rawniobiumblocktest2",
+    "west": "blockblitz:block/rawniobiumblocktest2",
+    "particle": "blockblitz:block/rawniobiumblocktest2"
+  },
+  "render_type": "solid"
+}

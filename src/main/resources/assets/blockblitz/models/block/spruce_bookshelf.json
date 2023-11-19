@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blockblitz:block/spruce_planks_texture_je4_be2",
+    "up": "blockblitz:block/spruce_planks_texture_je4_be2",
+    "north": "blockblitz:block/spruce_bookshelf",
+    "east": "blockblitz:block/spruce_bookshelf",
+    "south": "blockblitz:block/spruce_bookshelf",
+    "west": "blockblitz:block/spruce_bookshelf",
+    "particle": "blockblitz:block/spruce_planks_texture_je4_be2"
+  },
+  "render_type": "solid"
+}

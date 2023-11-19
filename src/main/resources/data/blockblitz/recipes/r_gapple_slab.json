@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "blockblitz:gapple_planks"
+    },
+    "1": {
+      "item": "blockblitz:gapple_planks"
+    },
+    "2": {
+      "item": "blockblitz:gapple_planks"
+    }
+  },
+  "result": {
+    "item": "blockblitz:gapple_slab",
+    "count": 6
+  }
+}

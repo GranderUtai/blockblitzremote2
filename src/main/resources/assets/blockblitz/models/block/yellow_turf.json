@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blockblitz:block/turf_yellow",
+    "up": "blockblitz:block/turf_yellow",
+    "north": "blockblitz:block/turf_yellow",
+    "east": "blockblitz:block/turf_yellow",
+    "south": "blockblitz:block/turf_yellow",
+    "west": "blockblitz:block/turf_yellow",
+    "particle": "blockblitz:block/turf_yellow"
+  },
+  "render_type": "solid"
+}

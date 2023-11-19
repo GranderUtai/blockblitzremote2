@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blockblitz:block/niobiumdeepslateore",
+    "up": "blockblitz:block/niobiumdeepslateore",
+    "north": "blockblitz:block/niobiumdeepslateore",
+    "east": "blockblitz:block/niobiumdeepslateore",
+    "south": "blockblitz:block/niobiumdeepslateore",
+    "west": "blockblitz:block/niobiumdeepslateore",
+    "particle": "blockblitz:block/niobiumdeepslateore"
+  },
+  "render_type": "solid"
+}

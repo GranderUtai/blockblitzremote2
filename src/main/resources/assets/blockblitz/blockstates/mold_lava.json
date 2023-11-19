@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "blockblitz:block/mold_lava"
+    },
+    "facing=east": {
+      "model": "blockblitz:block/mold_lava",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "blockblitz:block/mold_lava",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "blockblitz:block/mold_lava",
+      "y": 270
+    }
+  }
+}

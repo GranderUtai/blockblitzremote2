@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blockblitz:block/turf_gray2",
+    "up": "blockblitz:block/turf_gray2",
+    "north": "blockblitz:block/turf_gray2",
+    "east": "blockblitz:block/turf_gray2",
+    "south": "blockblitz:block/turf_gray2",
+    "west": "blockblitz:block/turf_gray2",
+    "particle": "blockblitz:block/turf_gray2"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "blockblitz:apple_planks"
+    },
+    "1": {
+      "item": "blockblitz:apple_planks"
+    },
+    "2": {
+      "item": "blockblitz:apple_planks"
+    }
+  },
+  "result": {
+    "item": "blockblitz:apple_slab",
+    "count": 6
+  }
+}

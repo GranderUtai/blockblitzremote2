@@ -1,0 +1,9 @@
+{
+  "parent": "blockblitz:custom/denimcarpet",
+  "textures": {
+    "all": "blockblitz:block/denim",
+    "particle": "blockblitz:block/denim",
+    "1": "blockblitz:block/denim"
+  },
+  "render_type": "solid"
+}

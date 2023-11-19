@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "blockblitz:mulberry_log"
+    }
+  ],
+  "result": {
+    "item": "blockblitz:mulberry_planks",
+    "count": 4
+  }
+}

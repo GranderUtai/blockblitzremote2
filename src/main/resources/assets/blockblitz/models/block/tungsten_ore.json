@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blockblitz:block/tungstenore",
+    "up": "blockblitz:block/tungstenore",
+    "north": "blockblitz:block/tungstenore",
+    "east": "blockblitz:block/tungstenore",
+    "south": "blockblitz:block/tungstenore",
+    "west": "blockblitz:block/tungstenore",
+    "particle": "blockblitz:block/tungstenore"
+  },
+  "render_type": "solid"
+}

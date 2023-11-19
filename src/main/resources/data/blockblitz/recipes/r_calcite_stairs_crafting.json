@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:calcite"
+    },
+    "3": {
+      "item": "minecraft:calcite"
+    },
+    "4": {
+      "item": "minecraft:calcite"
+    },
+    "6": {
+      "item": "minecraft:calcite"
+    },
+    "7": {
+      "item": "minecraft:calcite"
+    },
+    "8": {
+      "item": "minecraft:calcite"
+    }
+  },
+  "result": {
+    "item": "blockblitz:calcite_stairs",
+    "count": 4
+  }
+}

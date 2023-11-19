@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blockblitz:block/cherry_planks_pre-release_texture",
+    "up": "blockblitz:block/cherry_planks_pre-release_texture",
+    "north": "blockblitz:block/cherry_bookshelf",
+    "east": "blockblitz:block/cherry_bookshelf",
+    "south": "blockblitz:block/cherry_bookshelf",
+    "west": "blockblitz:block/cherry_bookshelf",
+    "particle": "blockblitz:block/cherry_planks_pre-release_texture"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "blockblitz:block/calcitebricks",
+    "top": "blockblitz:block/calcitebricks",
+    "side": "blockblitz:block/calcitebricks"
+  },
+  "render_type": "solid"
+}

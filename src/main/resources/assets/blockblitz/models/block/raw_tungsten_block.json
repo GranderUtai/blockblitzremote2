@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blockblitz:block/rawtungstenblock",
+    "up": "blockblitz:block/rawtungstenblock",
+    "north": "blockblitz:block/rawtungstenblock",
+    "east": "blockblitz:block/rawtungstenblock",
+    "south": "blockblitz:block/rawtungstenblock",
+    "west": "blockblitz:block/rawtungstenblock",
+    "particle": "blockblitz:block/rawtungstenblock"
+  },
+  "render_type": "solid"
+}

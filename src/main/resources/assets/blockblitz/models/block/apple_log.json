@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blockblitz:block/apple_log_top",
+    "up": "blockblitz:block/apple_log_top",
+    "north": "blockblitz:block/apple_log",
+    "east": "blockblitz:block/apple_log",
+    "south": "blockblitz:block/apple_log",
+    "west": "blockblitz:block/apple_log",
+    "particle": "blockblitz:block/apple_log_top"
+  },
+  "render_type": "solid"
+}

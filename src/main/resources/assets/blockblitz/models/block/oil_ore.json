@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blockblitz:block/oilore2",
+    "up": "blockblitz:block/oilore2",
+    "north": "blockblitz:block/oilore2",
+    "east": "blockblitz:block/oilore2",
+    "south": "blockblitz:block/oilore2",
+    "west": "blockblitz:block/oilore2",
+    "particle": "blockblitz:block/oilore2"
+  },
+  "render_type": "solid"
+}

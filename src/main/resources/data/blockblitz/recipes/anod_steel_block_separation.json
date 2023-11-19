@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "blockblitz:block_of_anodized_steel"
+    }
+  },
+  "result": {
+    "item": "blockblitz:anodized_steel_ingot",
+    "count": 9
+  }
+}

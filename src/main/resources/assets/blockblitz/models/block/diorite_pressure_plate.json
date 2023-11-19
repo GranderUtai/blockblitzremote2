@@ -1,0 +1,7 @@
+{
+  "parent": "block/pressure_plate_up",
+  "textures": {
+    "texture": "blockblitz:block/diorite_texture_je4_be3"
+  },
+  "render_type": "solid"
+}

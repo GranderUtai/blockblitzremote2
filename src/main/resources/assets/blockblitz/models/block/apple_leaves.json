@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "blockblitz:block/apple_leaves",
+    "particle": "blockblitz:block/apple_leaves"
+  }
+}

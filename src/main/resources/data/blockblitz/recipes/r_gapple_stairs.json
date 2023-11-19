@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "blockblitz:gapple_planks"
+    },
+    "3": {
+      "item": "blockblitz:gapple_planks"
+    },
+    "4": {
+      "item": "blockblitz:gapple_planks"
+    },
+    "6": {
+      "item": "blockblitz:gapple_planks"
+    },
+    "7": {
+      "item": "blockblitz:gapple_planks"
+    },
+    "8": {
+      "item": "blockblitz:gapple_planks"
+    }
+  },
+  "result": {
+    "item": "blockblitz:gapple_stairs",
+    "count": 4
+  }
+}

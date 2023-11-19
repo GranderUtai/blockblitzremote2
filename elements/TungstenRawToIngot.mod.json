@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 1.0,
+    "cookingTime": 500,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:RawTungsten"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:TungstenIngot"
+    },
+    "name": "tungsten_raw_to_ingot",
+    "namespace": "mod"
+  }
+}

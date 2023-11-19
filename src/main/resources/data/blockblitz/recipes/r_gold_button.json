@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "blockblitz:gold_button",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "blockblitz:block/mulberry_planks",
+    "top": "blockblitz:block/mulberry_planks",
+    "side": "blockblitz:block/mulberry_planks"
+  },
+  "render_type": "solid"
+}

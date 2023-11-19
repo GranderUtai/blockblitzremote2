@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blockblitz:block/bamboo_planks_texture_je2",
+    "up": "blockblitz:block/bamboo_planks_texture_je2",
+    "north": "blockblitz:block/bamboo_bookshelf",
+    "east": "blockblitz:block/bamboo_bookshelf",
+    "south": "blockblitz:block/bamboo_bookshelf",
+    "west": "blockblitz:block/bamboo_bookshelf",
+    "particle": "blockblitz:block/bamboo_planks_texture_je2"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blockblitz:block/birch_planks_texture_je3_be2",
+    "up": "blockblitz:block/birch_planks_texture_je3_be2",
+    "north": "blockblitz:block/birch_bookshelf",
+    "east": "blockblitz:block/birch_bookshelf",
+    "south": "blockblitz:block/birch_bookshelf",
+    "west": "blockblitz:block/birch_bookshelf",
+    "particle": "blockblitz:block/birch_planks_texture_je3_be2"
+  },
+  "render_type": "solid"
+}

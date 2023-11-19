@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "blockblitz:mulberry_planks"
+    },
+    "1": {
+      "item": "blockblitz:mulberry_planks"
+    },
+    "2": {
+      "item": "blockblitz:mulberry_planks"
+    }
+  },
+  "result": {
+    "item": "blockblitz:mulberry_slab",
+    "count": 6
+  }
+}

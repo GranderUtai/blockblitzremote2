@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "blockblitz:block/gapple_planks",
+    "top": "blockblitz:block/gapple_planks",
+    "side": "blockblitz:block/gapple_planks"
+  },
+  "render_type": "solid"
+}

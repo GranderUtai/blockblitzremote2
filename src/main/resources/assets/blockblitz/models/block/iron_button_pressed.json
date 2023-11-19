@@ -1,0 +1,7 @@
+{
+  "parent": "block/button_pressed",
+  "textures": {
+    "texture": "blockblitz:block/block_of_iron_texture_je3_be3"
+  },
+  "render_type": "solid"
+}

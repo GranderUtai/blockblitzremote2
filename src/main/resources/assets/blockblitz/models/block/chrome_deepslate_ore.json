@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blockblitz:block/chromedeepslateore",
+    "up": "blockblitz:block/chromedeepslateore",
+    "north": "blockblitz:block/chromedeepslateore",
+    "east": "blockblitz:block/chromedeepslateore",
+    "south": "blockblitz:block/chromedeepslateore",
+    "west": "blockblitz:block/chromedeepslateore",
+    "particle": "blockblitz:block/chromedeepslateore"
+  },
+  "render_type": "solid"
+}

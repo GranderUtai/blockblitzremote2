@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blockblitz:block/warped_planks_texture_je1_be1",
+    "up": "blockblitz:block/warped_planks_texture_je1_be1",
+    "north": "blockblitz:block/warped_bookshelf",
+    "east": "blockblitz:block/warped_bookshelf",
+    "south": "blockblitz:block/warped_bookshelf",
+    "west": "blockblitz:block/warped_bookshelf",
+    "particle": "blockblitz:block/warped_planks_texture_je1_be1"
+  },
+  "render_type": "solid"
+}

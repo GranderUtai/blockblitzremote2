@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blockblitz:block/gapple_log_top2",
+    "up": "blockblitz:block/gapple_log_top2",
+    "north": "blockblitz:block/gapple_log2",
+    "east": "blockblitz:block/gapple_log2",
+    "south": "blockblitz:block/gapple_log2",
+    "west": "blockblitz:block/gapple_log2",
+    "particle": "blockblitz:block/gapple_log_top2"
+  },
+  "render_type": "solid"
+}

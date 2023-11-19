@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "blockblitz:aerogel_shard"
+    },
+    "1": {
+      "item": "blockblitz:aerogel_shard"
+    },
+    "2": {
+      "item": "blockblitz:aerogel_shard"
+    },
+    "3": {
+      "item": "blockblitz:aerogel_shard"
+    }
+  },
+  "result": {
+    "item": "blockblitz:aerogel_block",
+    "count": 1
+  }
+}

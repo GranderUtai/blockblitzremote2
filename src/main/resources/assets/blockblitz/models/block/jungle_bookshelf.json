@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blockblitz:block/jungle_planks_texture_je3_be2",
+    "up": "blockblitz:block/jungle_planks_texture_je3_be2",
+    "north": "blockblitz:block/jungle_bookshelf",
+    "east": "blockblitz:block/jungle_bookshelf",
+    "south": "blockblitz:block/jungle_bookshelf",
+    "west": "blockblitz:block/jungle_bookshelf",
+    "particle": "blockblitz:block/jungle_planks_texture_je3_be2"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "blockblitz:block/goldengrate",
+    "particle": "blockblitz:block/goldengrate"
+  },
+  "render_type": "cutout"
+}

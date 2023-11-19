@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:acacia_planks"
+    },
+    "1": {
+      "item": "minecraft:acacia_planks"
+    },
+    "2": {
+      "item": "minecraft:acacia_planks"
+    },
+    "3": {
+      "item": "minecraft:book"
+    },
+    "4": {
+      "item": "minecraft:book"
+    },
+    "5": {
+      "item": "minecraft:book"
+    },
+    "6": {
+      "item": "minecraft:acacia_planks"
+    },
+    "7": {
+      "item": "minecraft:acacia_planks"
+    },
+    "8": {
+      "item": "minecraft:acacia_planks"
+    }
+  },
+  "result": {
+    "item": "blockblitz:acacia_bookshelf",
+    "count": 1
+  }
+}

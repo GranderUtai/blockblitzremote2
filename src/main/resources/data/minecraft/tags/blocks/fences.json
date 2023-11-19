@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "blockblitz:gapple_fence",
+    "blockblitz:apple_fence",
+    "blockblitz:maple_fence",
+    "blockblitz:mulberry_fence"
+  ]
+}

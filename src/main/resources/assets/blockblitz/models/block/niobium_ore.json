@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blockblitz:block/niobiumore",
+    "up": "blockblitz:block/niobiumore",
+    "north": "blockblitz:block/niobiumore",
+    "east": "blockblitz:block/niobiumore",
+    "south": "blockblitz:block/niobiumore",
+    "west": "blockblitz:block/niobiumore",
+    "particle": "blockblitz:block/niobiumore"
+  },
+  "render_type": "solid"
+}

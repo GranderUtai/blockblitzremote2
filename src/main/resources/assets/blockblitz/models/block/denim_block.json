@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blockblitz:block/denim",
+    "up": "blockblitz:block/denim",
+    "north": "blockblitz:block/denim",
+    "east": "blockblitz:block/denim",
+    "south": "blockblitz:block/denim",
+    "west": "blockblitz:block/denim",
+    "particle": "blockblitz:block/denim"
+  },
+  "render_type": "solid"
+}

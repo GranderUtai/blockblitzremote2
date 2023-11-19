@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:gold_ingot",
+    "minecraft:coal",
+    "minecraft:iron_ingot",
+    "blockblitz:chrome_ingot",
+    "blockblitz:niobium_ingot",
+    "minecraft:copper_ingot",
+    "blockblitz:tungsten_ingot"
+  ]
+}

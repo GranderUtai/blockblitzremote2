@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:crimson_planks"
+    },
+    "1": {
+      "item": "minecraft:crimson_planks"
+    },
+    "2": {
+      "item": "minecraft:crimson_planks"
+    },
+    "3": {
+      "item": "minecraft:book"
+    },
+    "4": {
+      "item": "minecraft:book"
+    },
+    "5": {
+      "item": "minecraft:book"
+    },
+    "6": {
+      "item": "minecraft:crimson_planks"
+    },
+    "7": {
+      "item": "minecraft:crimson_planks"
+    },
+    "8": {
+      "item": "minecraft:crimson_planks"
+    }
+  },
+  "result": {
+    "item": "blockblitz:crimson_bookshelf",
+    "count": 1
+  }
+}

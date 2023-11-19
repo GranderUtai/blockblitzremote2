@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blockblitz:block/aerogel",
+    "up": "blockblitz:block/aerogel",
+    "north": "blockblitz:block/aerogel",
+    "east": "blockblitz:block/aerogel",
+    "south": "blockblitz:block/aerogel",
+    "west": "blockblitz:block/aerogel",
+    "particle": "blockblitz:block/aerogel"
+  },
+  "render_type": "translucent"
+}

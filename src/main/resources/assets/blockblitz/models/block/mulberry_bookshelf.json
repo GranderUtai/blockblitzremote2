@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blockblitz:block/mulberry_planks",
+    "up": "blockblitz:block/mulberry_planks",
+    "north": "blockblitz:block/mulberry_bookshelf",
+    "east": "blockblitz:block/mulberry_bookshelf",
+    "south": "blockblitz:block/mulberry_bookshelf",
+    "west": "blockblitz:block/mulberry_bookshelf",
+    "particle": "blockblitz:block/mulberry_planks"
+  },
+  "render_type": "solid"
+}

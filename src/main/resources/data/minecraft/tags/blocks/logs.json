@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "blockblitz:maple_log",
+    "blockblitz:apple_log",
+    "blockblitz:mulberry_log",
+    "blockblitz:gapple_log"
+  ]
+}

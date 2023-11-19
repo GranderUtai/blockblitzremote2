@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "blockblitz:oil"
+    },
+    "1": {
+      "item": "blockblitz:oil"
+    },
+    "2": {
+      "item": "blockblitz:oil"
+    },
+    "3": {
+      "item": "blockblitz:oil"
+    },
+    "4": {
+      "item": "blockblitz:oil"
+    },
+    "5": {
+      "item": "blockblitz:oil"
+    },
+    "6": {
+      "item": "blockblitz:oil"
+    },
+    "7": {
+      "item": "blockblitz:oil"
+    },
+    "8": {
+      "item": "blockblitz:oil"
+    }
+  },
+  "result": {
+    "item": "blockblitz:oil_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "blockblitz:gapple_log"
+    }
+  ],
+  "result": {
+    "item": "blockblitz:gapple_planks",
+    "count": 4
+  }
+}

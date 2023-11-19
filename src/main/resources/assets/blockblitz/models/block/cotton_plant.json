@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "blockblitz:block/cottonplant",
+    "particle": "blockblitz:block/cottonplant"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,134 @@
+{
+  "_fv": 47,
+  "_type": "biome",
+  "definition": {
+    "name": "Apple Forest",
+    "groundBlock": {
+      "value": "Blocks.GRASS"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.DIRT#0"
+    },
+    "underwaterBlock": {
+      "value": "Blocks.MOSSY_COBBLESTONE"
+    },
+    "grassColor": {
+      "value": -12863173,
+      "falpha": 0.0
+    },
+    "foliageColor": {
+      "value": -9327535,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -16776961,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": ""
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particlesProbability": 0.5,
+    "rainingPossibility": 0.75,
+    "temperature": 0.5,
+    "spawnBiome": true,
+    "spawnInCaves": false,
+    "spawnBiomeNether": false,
+    "genTemperature": {
+      "min": -0.4,
+      "max": 0.4
+    },
+    "genHumidity": {
+      "min": -0.5,
+      "max": 1.0
+    },
+    "genContinentalness": {
+      "min": -0.5,
+      "max": 0.5
+    },
+    "genErosion": {
+      "min": 0.0,
+      "max": 0.5
+    },
+    "genWeirdness": {
+      "min": -0.25,
+      "max": 1.0
+    },
+    "treesPerChunk": 10,
+    "vanillaTreeType": "Birch trees",
+    "treeType": 1,
+    "minHeight": 7,
+    "treeStem": {
+      "value": "CUSTOM:AppleLog"
+    },
+    "treeBranch": {
+      "value": "CUSTOM:AppleLeaves"
+    },
+    "treeVines": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": ""
+    },
+    "defaultFeatures": [
+      "Ores",
+      "MonsterRooms",
+      "Dripstone",
+      "ForestGrass",
+      "ForestFlowers"
+    ],
+    "spawnStronghold": false,
+    "spawnMineshaft": false,
+    "spawnMineshaftMesa": false,
+    "spawnPillagerOutpost": true,
+    "villageType": "plains",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnSwampHut": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "spawnShipwreckBeached": false,
+    "spawnBuriedTreasure": false,
+    "oceanRuinType": "NONE",
+    "spawnNetherBridge": false,
+    "spawnNetherFossil": false,
+    "spawnBastionRemnant": false,
+    "spawnEndCity": false,
+    "spawnRuinedPortal": "STANDARD",
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "EntitySheep"
+        },
+        "minGroup": 2,
+        "maxGroup": 5,
+        "weight": 12,
+        "spawnType": "creature"
+      },
+      {
+        "entity": {
+          "value": "EntityPig"
+        },
+        "minGroup": 2,
+        "maxGroup": 8,
+        "weight": 19,
+        "spawnType": "creature"
+      }
+    ]
+  }
+}

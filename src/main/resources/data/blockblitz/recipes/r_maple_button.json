@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    {
+      "item": "blockblitz:maple_planks"
+    }
+  ],
+  "result": {
+    "item": "blockblitz:maple_button",
+    "count": 1
+  }
+}

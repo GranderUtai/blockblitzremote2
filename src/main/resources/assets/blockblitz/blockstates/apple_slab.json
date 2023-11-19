@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "blockblitz:block/apple_slab"
+    },
+    "type=top": {
+      "model": "blockblitz:block/apple_slab_top"
+    },
+    "type=double": {
+      "model": "blockblitz:block/apple_slab_full"
+    }
+  }
+}

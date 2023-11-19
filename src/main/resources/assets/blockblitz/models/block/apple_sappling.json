@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "blockblitz:block/apple_sappling",
+    "particle": "blockblitz:block/apple_sappling"
+  },
+  "render_type": "cutout"
+}

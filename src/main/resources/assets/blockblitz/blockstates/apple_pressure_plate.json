@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "blockblitz:block/apple_pressure_plate"
+    },
+    "powered=true": {
+      "model": "blockblitz:block/apple_pressure_plate_down"
+    }
+  }
+}

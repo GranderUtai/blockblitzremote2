@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "blockblitz:block/autumn_plant"
+    },
+    "half=lower": {
+      "model": "blockblitz:block/autumn_plant_bottom"
+    }
+  }
+}

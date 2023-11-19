@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_orientable_trapdoor_open",
+  "textures": {
+    "texture": "blockblitz:block/mulberry_trapdoor",
+    "particle": "blockblitz:block/mulberry_trapdoor"
+  },
+  "render_type": "solid"
+}

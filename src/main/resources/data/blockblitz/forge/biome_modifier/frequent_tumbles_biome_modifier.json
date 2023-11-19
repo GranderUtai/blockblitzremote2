@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "blockblitz:tumbleweed_wasteland",
+  "features": "blockblitz:frequent_tumbles",
+  "step": "surface_structures"
+}

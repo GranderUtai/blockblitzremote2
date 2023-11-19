@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "blockblitz:mulberry_planks"
+    },
+    {
+      "item": "blockblitz:mulberry_planks"
+    },
+    {
+      "item": "blockblitz:mulberry_planks"
+    },
+    {
+      "item": "blockblitz:mulberry_planks"
+    },
+    {
+      "item": "blockblitz:mulberry_planks"
+    },
+    {
+      "item": "blockblitz:mulberry_planks"
+    }
+  ],
+  "result": {
+    "item": "blockblitz:mulberry_stairs",
+    "count": 4
+  }
+}

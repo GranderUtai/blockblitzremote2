@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "blockblitz:mulberry_planks"
+    },
+    "1": {
+      "item": "blockblitz:mulberry_planks"
+    },
+    "2": {
+      "item": "blockblitz:mulberry_planks"
+    },
+    "3": {
+      "item": "blockblitz:mulberry_planks"
+    },
+    "4": {
+      "item": "blockblitz:mulberry_planks"
+    },
+    "5": {
+      "item": "blockblitz:mulberry_planks"
+    }
+  },
+  "result": {
+    "item": "blockblitz:mulberry_trapdoor",
+    "count": 2
+  }
+}

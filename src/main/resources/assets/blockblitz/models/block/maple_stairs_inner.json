@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "blockblitz:block/maple_planks",
+    "top": "blockblitz:block/maple_planks",
+    "side": "blockblitz:block/maple_planks"
+  },
+  "render_type": "cutout_mipped"
+}

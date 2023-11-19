@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "blockblitz:block/deepslate_pressure_plate"
+    },
+    "powered=true": {
+      "model": "blockblitz:block/deepslate_pressure_plate_down"
+    }
+  }
+}

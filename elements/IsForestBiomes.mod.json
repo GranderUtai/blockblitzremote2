@@ -1,0 +1,24 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Biomes",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [
+      {
+        "value": "CUSTOM:MulberryForest"
+      },
+      {
+        "value": "CUSTOM:AutumnForest"
+      },
+      {
+        "value": "CUSTOM:AppleForest"
+      }
+    ],
+    "name": "is_forest",
+    "namespace": "minecraft"
+  }
+}

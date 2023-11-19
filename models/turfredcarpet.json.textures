@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "15": "turf_red"
+      },
+      "name": "default"
+    }
+  }
+}

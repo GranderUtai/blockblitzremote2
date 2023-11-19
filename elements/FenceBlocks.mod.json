@@ -1,0 +1,27 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:MapleFence"
+      },
+      {
+        "value": "CUSTOM:MulberryFence"
+      },
+      {
+        "value": "CUSTOM:AppleFence"
+      },
+      {
+        "value": "CUSTOM:GappleFence"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "fences",
+    "namespace": "minecraft"
+  }
+}

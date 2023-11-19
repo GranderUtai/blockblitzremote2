@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "blockblitz:maple_planks"
+    },
+    "1": {
+      "item": "blockblitz:maple_planks"
+    },
+    "2": {
+      "item": "blockblitz:maple_planks"
+    }
+  },
+  "result": {
+    "item": "blockblitz:maple_slab",
+    "count": 6
+  }
+}

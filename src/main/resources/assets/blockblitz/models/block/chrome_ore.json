@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blockblitz:block/chromeore",
+    "up": "blockblitz:block/chromeore",
+    "north": "blockblitz:block/chromeore",
+    "east": "blockblitz:block/chromeore",
+    "south": "blockblitz:block/chromeore",
+    "west": "blockblitz:block/chromeore",
+    "particle": "blockblitz:block/chromeore"
+  },
+  "render_type": "solid"
+}

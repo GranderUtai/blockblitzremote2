@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blockblitz:block/maple_log_top",
+    "up": "blockblitz:block/maple_log_top",
+    "north": "blockblitz:block/maple_log",
+    "east": "blockblitz:block/maple_log",
+    "south": "blockblitz:block/maple_log",
+    "west": "blockblitz:block/maple_log",
+    "particle": "blockblitz:block/maple_log_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "blockblitz:polished_calcite"
+    },
+    "1": {
+      "item": "blockblitz:polished_calcite"
+    },
+    "2": {
+      "item": "blockblitz:polished_calcite"
+    }
+  },
+  "result": {
+    "item": "blockblitz:polished_calcite_slab",
+    "count": 6
+  }
+}

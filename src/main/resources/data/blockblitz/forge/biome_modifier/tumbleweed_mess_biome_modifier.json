@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "badlands",
+    "savanna_plateau",
+    "beach",
+    "savanna",
+    "desert"
+  ],
+  "features": "blockblitz:tumbleweed_mess",
+  "step": "surface_structures"
+}

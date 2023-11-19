@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "blockblitz:block/tumbleweed",
+    "particle": "blockblitz:block/tumbleweed"
+  },
+  "render_type": "solid"
+}

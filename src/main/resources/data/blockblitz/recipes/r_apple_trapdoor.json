@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "blockblitz:apple_planks"
+    },
+    "1": {
+      "item": "blockblitz:apple_planks"
+    },
+    "2": {
+      "item": "blockblitz:apple_planks"
+    },
+    "3": {
+      "item": "blockblitz:apple_planks"
+    },
+    "4": {
+      "item": "blockblitz:apple_planks"
+    },
+    "5": {
+      "item": "blockblitz:apple_planks"
+    }
+  },
+  "result": {
+    "item": "blockblitz:apple_trapdoor",
+    "count": 2
+  }
+}

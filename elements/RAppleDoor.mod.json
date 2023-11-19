@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 3,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "REDSTONE",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ApplePlanks"
+      },
+      {
+        "value": "CUSTOM:ApplePlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ApplePlanks"
+      },
+      {
+        "value": "CUSTOM:ApplePlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ApplePlanks"
+      },
+      {
+        "value": "CUSTOM:ApplePlanks"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AppleDoor"
+    },
+    "name": "r_apple_door",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "blockblitz:block/mulberry_slab"
+    },
+    "type=top": {
+      "model": "blockblitz:block/mulberry_slab_top"
+    },
+    "type=double": {
+      "model": "blockblitz:block/mulberry_slab_full"
+    }
+  }
+}

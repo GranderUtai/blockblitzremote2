@@ -1,0 +1,11 @@
+{
+  "oshi_track": {
+    "subtitle": "subtitles.oshi_track",
+    "sounds": [
+      {
+        "name": "blockblitz:oshitrack",
+        "stream": true
+      }
+    ]
+  }
+}

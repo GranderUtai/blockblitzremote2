@@ -1,0 +1,9 @@
+{
+  "parent": "blockblitz:custom/cottoncarpet",
+  "textures": {
+    "all": "blockblitz:block/cottonblock",
+    "particle": "blockblitz:block/cottonblock",
+    "0": "blockblitz:block/cottonblock"
+  },
+  "render_type": "solid"
+}

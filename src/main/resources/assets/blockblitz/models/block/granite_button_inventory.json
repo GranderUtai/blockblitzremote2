@@ -1,0 +1,7 @@
+{
+  "parent": "block/button_inventory",
+  "textures": {
+    "texture": "blockblitz:block/granite_texture_je2_be2"
+  },
+  "render_type": "solid"
+}

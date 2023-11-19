@@ -1,0 +1,7 @@
+{
+  "parent": "block/pressure_plate_down",
+  "textures": {
+    "texture": "blockblitz:block/block_of_amethyst_texture_je3_be1"
+  },
+  "render_type": "solid"
+}

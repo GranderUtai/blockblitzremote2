@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "blockblitz:block/gapple_planks",
+    "particle": "blockblitz:block/gapple_planks"
+  },
+  "render_type": "solid"
+}

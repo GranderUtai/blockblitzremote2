@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "blockblitz:gapple_planks"
+    },
+    "1": {
+      "item": "minecraft:blaze_rod"
+    },
+    "2": {
+      "item": "blockblitz:gapple_planks"
+    },
+    "3": {
+      "item": "blockblitz:gapple_planks"
+    },
+    "4": {
+      "item": "minecraft:blaze_rod"
+    },
+    "5": {
+      "item": "blockblitz:gapple_planks"
+    }
+  },
+  "result": {
+    "item": "blockblitz:gapple_fence",
+    "count": 3
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "blockblitz:block_of_tungsten"
+    }
+  ],
+  "result": {
+    "item": "blockblitz:tungsten_ingot",
+    "count": 9
+  }
+}

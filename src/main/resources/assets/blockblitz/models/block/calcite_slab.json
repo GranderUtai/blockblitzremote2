@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "blockblitz:block/calcite",
+    "top": "blockblitz:block/calcite",
+    "side": "blockblitz:block/calcite"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "blockblitz:apple_planks",
+    "blockblitz:maple_planks",
+    "blockblitz:gapple_planks",
+    "blockblitz:mulberry_planks"
+  ]
+}

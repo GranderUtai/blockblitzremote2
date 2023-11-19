@@ -1,0 +1,7 @@
+{
+  "parent": "block/button",
+  "textures": {
+    "texture": "blockblitz:block/andesite_texture_je3_be2"
+  },
+  "render_type": "solid"
+}

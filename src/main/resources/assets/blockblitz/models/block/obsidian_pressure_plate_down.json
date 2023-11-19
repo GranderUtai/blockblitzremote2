@@ -1,0 +1,7 @@
+{
+  "parent": "block/pressure_plate_down",
+  "textures": {
+    "texture": "blockblitz:block/obsidian_texture_je3_be2"
+  },
+  "render_type": "solid"
+}

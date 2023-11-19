@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "blockblitz:item/mulberrydooritem"
+  },
+  "render_type": "translucent"
+}

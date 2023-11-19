@@ -1,0 +1,7 @@
+{
+  "parent": "block/button",
+  "textures": {
+    "texture": "blockblitz:block/block_of_quartz_top_texture_je3_be3"
+  },
+  "render_type": "solid"
+}

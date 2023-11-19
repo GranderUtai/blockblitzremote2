@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "blockblitz:apple_planks"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "blockblitz:apple_planks"
+    },
+    "3": {
+      "item": "blockblitz:apple_planks"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "blockblitz:apple_planks"
+    }
+  },
+  "result": {
+    "item": "blockblitz:apple_fence",
+    "count": 3
+  }
+}

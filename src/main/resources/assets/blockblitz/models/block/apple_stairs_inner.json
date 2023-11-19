@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "blockblitz:block/apple_planks",
+    "top": "blockblitz:block/apple_planks",
+    "side": "blockblitz:block/apple_planks"
+  },
+  "render_type": "solid"
+}

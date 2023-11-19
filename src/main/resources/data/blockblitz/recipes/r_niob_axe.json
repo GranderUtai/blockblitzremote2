@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": [],
+  "base": {
+    "item": "blockblitz:steel_axe"
+  },
+  "addition": {
+    "item": "blockblitz:niobium_ingot"
+  },
+  "result": {
+    "item": "blockblitz:niobium_axe"
+  }
+}

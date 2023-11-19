@@ -1,0 +1,9 @@
+{
+  "parent": "blockblitz:custom/turfmagentacarpet",
+  "textures": {
+    "all": "blockblitz:block/turf_magenta",
+    "particle": "blockblitz:block/turf_magenta",
+    "11": "blockblitz:block/turf_magenta"
+  },
+  "render_type": "solid"
+}

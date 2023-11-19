@@ -1,0 +1,7 @@
+{
+  "parent": "block/pressure_plate_down",
+  "textures": {
+    "texture": "blockblitz:block/deepslate_texture_je3"
+  },
+  "render_type": "solid"
+}

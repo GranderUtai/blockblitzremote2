@@ -1,0 +1,77 @@
+{
+  "has_precipitation": true,
+  "temperature": 0.5,
+  "downfall": 0.75,
+  "effects": {
+    "foliage_color": -9327535,
+    "grass_color": -12863173,
+    "sky_color": 7972607,
+    "fog_color": 12638463,
+    "water_color": -16776961,
+    "water_fog_color": 329011
+  },
+  "spawners": {
+    "monster": [],
+    "creature": [
+      {
+        "type": "sheep",
+        "weight": 12,
+        "minCount": 2,
+        "maxCount": 5
+      },
+      {
+        "type": "pig",
+        "weight": 19,
+        "minCount": 2,
+        "maxCount": 8
+      }
+    ],
+    "ambient": [],
+    "axolotls": [],
+    "underground_water_creature": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "carvers": {},
+  "features": [
+    [],
+    [],
+    [
+      "minecraft:large_dripstone"
+    ],
+    [
+      "minecraft:monster_room",
+      "minecraft:monster_room_deep"
+    ],
+    [],
+    [],
+    [
+      "minecraft:ore_coal_upper",
+      "minecraft:ore_coal_lower",
+      "minecraft:ore_iron_upper",
+      "minecraft:ore_iron_middle",
+      "minecraft:ore_iron_small",
+      "minecraft:ore_gold",
+      "minecraft:ore_gold_lower",
+      "minecraft:ore_redstone",
+      "minecraft:ore_redstone_lower",
+      "minecraft:ore_diamond",
+      "minecraft:ore_diamond_large",
+      "minecraft:ore_diamond_buried",
+      "minecraft:ore_lapis",
+      "minecraft:ore_lapis_buried",
+      "minecraft:ore_copper",
+      "minecraft:underwater_magma"
+    ],
+    [],
+    [],
+    [
+      "blockblitz:apple_forest_tree",
+      "minecraft:forest_flowers",
+      "minecraft:patch_grass_forest"
+    ],
+    []
+  ]
+}

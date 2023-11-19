@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "moldlavatexture",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

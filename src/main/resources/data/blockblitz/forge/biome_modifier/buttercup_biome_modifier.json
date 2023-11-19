@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "features": "blockblitz:buttercup",
+  "step": "vegetal_decoration"
+}

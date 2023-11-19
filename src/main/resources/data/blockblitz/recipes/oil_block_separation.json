@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "blockblitz:oil_block"
+    }
+  },
+  "result": {
+    "item": "blockblitz:oil",
+    "count": 9
+  }
+}

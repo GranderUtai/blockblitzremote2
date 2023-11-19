@@ -1,0 +1,7 @@
+{
+  "parent": "block/button_pressed",
+  "textures": {
+    "texture": "blockblitz:block/tuff_texture_je1"
+  },
+  "render_type": "solid"
+}

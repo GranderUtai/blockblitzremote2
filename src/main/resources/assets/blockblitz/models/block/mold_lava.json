@@ -1,0 +1,10 @@
+{
+  "parent": "blockblitz:custom/moldlava",
+  "textures": {
+    "all": "blockblitz:block/moldlavatexture",
+    "particle": "blockblitz:block/moldlavatexture",
+    "0": "blockblitz:block/moldlavatexture",
+    "missing": "blockblitz:block/"
+  },
+  "render_type": "solid"
+}

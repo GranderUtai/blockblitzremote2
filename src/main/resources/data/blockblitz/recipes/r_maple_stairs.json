@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "blockblitz:maple_planks"
+    },
+    {
+      "item": "blockblitz:maple_planks"
+    },
+    {
+      "item": "blockblitz:maple_planks"
+    },
+    {
+      "item": "blockblitz:maple_planks"
+    },
+    {
+      "item": "blockblitz:maple_planks"
+    },
+    {
+      "item": "blockblitz:maple_planks"
+    }
+  ],
+  "result": {
+    "item": "blockblitz:maple_stairs",
+    "count": 4
+  }
+}

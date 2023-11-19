@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blockblitz:block/crimson_planks_texture_je1_be1",
+    "up": "blockblitz:block/crimson_planks_texture_je1_be1",
+    "north": "blockblitz:block/crimson_bookshelf",
+    "east": "blockblitz:block/crimson_bookshelf",
+    "south": "blockblitz:block/crimson_bookshelf",
+    "west": "blockblitz:block/crimson_bookshelf",
+    "particle": "blockblitz:block/crimson_planks_texture_je1_be1"
+  },
+  "render_type": "solid"
+}

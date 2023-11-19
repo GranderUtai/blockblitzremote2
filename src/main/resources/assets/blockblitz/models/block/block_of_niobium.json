@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blockblitz:block/niobiumblock",
+    "up": "blockblitz:block/niobiumblock",
+    "north": "blockblitz:block/niobiumblock",
+    "east": "blockblitz:block/niobiumblock",
+    "south": "blockblitz:block/niobiumblock",
+    "west": "blockblitz:block/niobiumblock",
+    "particle": "blockblitz:block/niobiumblock"
+  },
+  "render_type": "solid"
+}

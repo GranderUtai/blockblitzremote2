@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 30,
+  "cookingtime": 400,
+  "ingredient": {
+    "item": "blockblitz:raw_chrome"
+  },
+  "result": "blockblitz:chrome_ingot"
+}

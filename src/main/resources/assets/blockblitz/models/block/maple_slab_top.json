@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "blockblitz:block/maple_planks",
+    "top": "blockblitz:block/maple_planks",
+    "side": "blockblitz:block/maple_planks"
+  },
+  "render_type": "solid"
+}

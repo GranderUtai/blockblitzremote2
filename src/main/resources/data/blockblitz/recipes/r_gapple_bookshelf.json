@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "blockblitz:gapple_planks"
+    },
+    "1": {
+      "item": "blockblitz:gapple_planks"
+    },
+    "2": {
+      "item": "blockblitz:gapple_planks"
+    },
+    "3": {
+      "item": "minecraft:book"
+    },
+    "4": {
+      "item": "minecraft:book"
+    },
+    "5": {
+      "item": "minecraft:book"
+    },
+    "6": {
+      "item": "blockblitz:gapple_planks"
+    },
+    "7": {
+      "item": "blockblitz:gapple_planks"
+    },
+    "8": {
+      "item": "blockblitz:gapple_planks"
+    }
+  },
+  "result": {
+    "item": "blockblitz:golden_apple_bookshelf",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blockblitz:block/gapple_planks",
+    "up": "blockblitz:block/gapple_planks",
+    "north": "blockblitz:block/gapple_planks",
+    "east": "blockblitz:block/gapple_planks",
+    "south": "blockblitz:block/gapple_planks",
+    "west": "blockblitz:block/gapple_planks",
+    "particle": "blockblitz:block/gapple_planks"
+  },
+  "render_type": "solid"
+}

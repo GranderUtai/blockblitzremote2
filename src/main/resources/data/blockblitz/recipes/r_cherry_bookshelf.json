@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cherry_planks"
+    },
+    "1": {
+      "item": "minecraft:cherry_planks"
+    },
+    "2": {
+      "item": "minecraft:cherry_planks"
+    },
+    "3": {
+      "item": "minecraft:book"
+    },
+    "4": {
+      "item": "minecraft:book"
+    },
+    "5": {
+      "item": "minecraft:book"
+    },
+    "6": {
+      "item": "minecraft:cherry_planks"
+    },
+    "7": {
+      "item": "minecraft:cherry_planks"
+    },
+    "8": {
+      "item": "minecraft:cherry_planks"
+    }
+  },
+  "result": {
+    "item": "blockblitz:cherry_bookshelf",
+    "count": 1
+  }
+}

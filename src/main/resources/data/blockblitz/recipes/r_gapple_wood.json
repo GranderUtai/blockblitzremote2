@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "blockblitz:gapple_log"
+    },
+    "1": {
+      "item": "blockblitz:gapple_log"
+    },
+    "2": {
+      "item": "blockblitz:gapple_log"
+    },
+    "3": {
+      "item": "blockblitz:gapple_log"
+    }
+  },
+  "result": {
+    "item": "blockblitz:gapple_wood",
+    "count": 3
+  }
+}

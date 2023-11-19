@@ -1,0 +1,19 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Oshi Hit Track",
+    "texture": "music_disc_oshi",
+    "description": "just_oshiacute - untitled",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "specialInfo": [],
+    "hasGlow": true,
+    "music": {
+      "value": "CUSTOM:oshi_track"
+    },
+    "lengthInTicks": 880,
+    "analogOutput": 0
+  }
+}

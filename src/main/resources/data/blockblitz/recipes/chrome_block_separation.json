@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "blockblitz:block_of_chrome"
+    }
+  },
+  "result": {
+    "item": "blockblitz:chrome_ingot",
+    "count": 9
+  }
+}

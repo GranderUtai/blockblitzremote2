@@ -1,0 +1,9 @@
+{
+  "parent": "blockblitz:custom/turforangecarpet",
+  "textures": {
+    "all": "blockblitz:block/turf_orange",
+    "particle": "blockblitz:block/turf_orange",
+    "12": "blockblitz:block/turf_orange"
+  },
+  "render_type": "solid"
+}

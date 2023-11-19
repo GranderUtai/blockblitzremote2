@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "blockblitz:calcite_brick_wall",
+    "blockblitz:calcite_wall",
+    "blockblitz:polished_calcite_wall"
+  ]
+}

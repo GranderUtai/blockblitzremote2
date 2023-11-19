@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "blockblitz:raw_chrome"
+    },
+    "1": {
+      "item": "blockblitz:raw_chrome"
+    },
+    "2": {
+      "item": "blockblitz:raw_chrome"
+    },
+    "3": {
+      "item": "blockblitz:raw_chrome"
+    },
+    "4": {
+      "item": "blockblitz:raw_chrome"
+    },
+    "5": {
+      "item": "blockblitz:raw_chrome"
+    },
+    "6": {
+      "item": "blockblitz:raw_chrome"
+    },
+    "7": {
+      "item": "blockblitz:raw_chrome"
+    },
+    "8": {
+      "item": "blockblitz:raw_chrome"
+    }
+  },
+  "result": {
+    "item": "blockblitz:raw_chrome_block",
+    "count": 1
+  }
+}

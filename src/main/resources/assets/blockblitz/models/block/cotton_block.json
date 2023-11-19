@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blockblitz:block/cottonblock",
+    "up": "blockblitz:block/cottonblock",
+    "north": "blockblitz:block/cottonblock",
+    "east": "blockblitz:block/cottonblock",
+    "south": "blockblitz:block/cottonblock",
+    "west": "blockblitz:block/cottonblock",
+    "particle": "blockblitz:block/cottonblock"
+  },
+  "render_type": "solid"
+}

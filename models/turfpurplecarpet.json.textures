@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "14": "turf_purple2"
+      },
+      "name": "default"
+    }
+  }
+}

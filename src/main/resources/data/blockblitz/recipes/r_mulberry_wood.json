@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "blockblitz:mulberry_log"
+    },
+    "1": {
+      "item": "blockblitz:mulberry_log"
+    },
+    "2": {
+      "item": "blockblitz:mulberry_log"
+    },
+    "3": {
+      "item": "blockblitz:mulberry_log"
+    }
+  },
+  "result": {
+    "item": "blockblitz:mulberry_wood",
+    "count": 3
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "blockblitz:apple_log"
+    }
+  ],
+  "result": {
+    "item": "blockblitz:apple_planks",
+    "count": 4
+  }
+}

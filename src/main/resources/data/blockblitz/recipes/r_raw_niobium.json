@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "blockblitz:raw_niobium"
+    },
+    "1": {
+      "item": "blockblitz:raw_niobium"
+    },
+    "2": {
+      "item": "blockblitz:raw_niobium"
+    },
+    "3": {
+      "item": "blockblitz:raw_niobium"
+    },
+    "4": {
+      "item": "blockblitz:raw_niobium"
+    },
+    "5": {
+      "item": "blockblitz:raw_niobium"
+    },
+    "6": {
+      "item": "blockblitz:raw_niobium"
+    },
+    "7": {
+      "item": "blockblitz:raw_niobium"
+    },
+    "8": {
+      "item": "blockblitz:raw_niobium"
+    }
+  },
+  "result": {
+    "item": "blockblitz:raw_niobium_block",
+    "count": 1
+  }
+}

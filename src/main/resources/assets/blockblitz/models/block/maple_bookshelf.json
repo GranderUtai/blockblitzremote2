@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blockblitz:block/maple_planks",
+    "up": "blockblitz:block/maple_planks",
+    "north": "blockblitz:block/maple_bookshelf",
+    "east": "blockblitz:block/maple_bookshelf",
+    "south": "blockblitz:block/maple_bookshelf",
+    "west": "blockblitz:block/maple_bookshelf",
+    "particle": "blockblitz:block/maple_planks"
+  },
+  "render_type": "solid"
+}

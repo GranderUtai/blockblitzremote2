@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blockblitz:block/dark_oak_planks_texture_je3_be2",
+    "up": "blockblitz:block/dark_oak_planks_texture_je3_be2",
+    "north": "blockblitz:block/dark_oak_bookshelf",
+    "east": "blockblitz:block/dark_oak_bookshelf",
+    "south": "blockblitz:block/dark_oak_bookshelf",
+    "west": "blockblitz:block/dark_oak_bookshelf",
+    "particle": "blockblitz:block/dark_oak_planks_texture_je3_be2"
+  },
+  "render_type": "solid"
+}

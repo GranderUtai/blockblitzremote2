@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "blockblitz:raw_niobium_block"
+    }
+  },
+  "result": {
+    "item": "blockblitz:raw_niobium",
+    "count": 9
+  }
+}

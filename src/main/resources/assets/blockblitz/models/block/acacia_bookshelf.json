@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blockblitz:block/acacia_planks_texture_je3_be2",
+    "up": "blockblitz:block/acacia_planks_texture_je3_be2",
+    "north": "blockblitz:block/acacia_bookshelf",
+    "east": "blockblitz:block/acacia_bookshelf",
+    "south": "blockblitz:block/acacia_bookshelf",
+    "west": "blockblitz:block/acacia_bookshelf",
+    "particle": "blockblitz:block/acacia_planks_texture_je3_be2"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "blockblitz:chrome_ingot"
+    },
+    "1": {
+      "item": "blockblitz:chrome_ingot"
+    },
+    "2": {
+      "item": "blockblitz:chrome_ingot"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "blockblitz:chrome_axe",
+    "count": 1
+  }
+}

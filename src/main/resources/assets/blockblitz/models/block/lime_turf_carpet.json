@@ -1,0 +1,9 @@
+{
+  "parent": "blockblitz:custom/turflimecarpet",
+  "textures": {
+    "all": "blockblitz:block/turf_lime",
+    "particle": "blockblitz:block/turf_lime",
+    "10": "blockblitz:block/turf_lime"
+  },
+  "render_type": "solid"
+}

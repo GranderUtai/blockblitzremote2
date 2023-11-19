@@ -1,0 +1,27 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:AppleLog"
+      },
+      {
+        "value": "CUSTOM:MapleLog"
+      },
+      {
+        "value": "CUSTOM:MulberryLog"
+      },
+      {
+        "value": "CUSTOM:GappleLog"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "logs",
+    "namespace": "minecraft"
+  }
+}

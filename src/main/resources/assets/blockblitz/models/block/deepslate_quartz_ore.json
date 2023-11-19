@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "blockblitz:block/deepslate_quartz",
+    "particle": "blockblitz:block/deepslate_quartz"
+  },
+  "render_type": "solid"
+}

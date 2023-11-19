@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:sand"
+    },
+    "1": {
+      "item": "minecraft:quartz"
+    },
+    "2": {
+      "item": "minecraft:sand"
+    }
+  },
+  "result": {
+    "item": "blockblitz:silica",
+    "count": 2
+  }
+}

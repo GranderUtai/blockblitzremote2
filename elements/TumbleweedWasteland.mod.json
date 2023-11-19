@@ -1,0 +1,120 @@
+{
+  "_fv": 47,
+  "_type": "biome",
+  "definition": {
+    "name": "Tumbleweed Wasteland",
+    "groundBlock": {
+      "value": "Blocks.SAND#0"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.SAND#0"
+    },
+    "underwaterBlock": {
+      "value": "Blocks.SANDSTONE#0"
+    },
+    "airColor": {
+      "value": -990825,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -3158703,
+      "falpha": 0.0
+    },
+    "foliageColor": {
+      "value": -1978555,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -3422617,
+      "falpha": 0.0
+    },
+    "waterFogColor": {
+      "value": -6312582,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": ""
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": true,
+    "particleToSpawn": {
+      "value": "WHITE_ASH"
+    },
+    "particlesProbability": 1.5,
+    "rainingPossibility": 0.5,
+    "temperature": 2.0,
+    "spawnBiome": true,
+    "spawnInCaves": false,
+    "spawnBiomeNether": false,
+    "genTemperature": {
+      "min": -0.5,
+      "max": 2.0
+    },
+    "genHumidity": {
+      "min": -0.5,
+      "max": 1.0
+    },
+    "genContinentalness": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "genErosion": {
+      "min": 0.45,
+      "max": 0.75
+    },
+    "genWeirdness": {
+      "min": -1.0,
+      "max": 1.0
+    },
+    "treesPerChunk": 0,
+    "vanillaTreeType": "Default",
+    "treeType": 0,
+    "minHeight": 1,
+    "treeStem": {
+      "value": ""
+    },
+    "treeBranch": {
+      "value": ""
+    },
+    "treeVines": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": ""
+    },
+    "defaultFeatures": [
+      "Caves",
+      "DeadBushes"
+    ],
+    "spawnStronghold": false,
+    "spawnMineshaft": false,
+    "spawnMineshaftMesa": false,
+    "spawnPillagerOutpost": false,
+    "villageType": "none",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnSwampHut": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "spawnShipwreckBeached": false,
+    "spawnBuriedTreasure": false,
+    "oceanRuinType": "NONE",
+    "spawnNetherBridge": false,
+    "spawnNetherFossil": false,
+    "spawnBastionRemnant": false,
+    "spawnEndCity": false,
+    "spawnRuinedPortal": "NONE",
+    "spawnEntries": []
+  }
+}

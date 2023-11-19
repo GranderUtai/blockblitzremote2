@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blockblitz:block/mangrove_planks_texture_je1_be1",
+    "up": "blockblitz:block/mangrove_planks_texture_je1_be1",
+    "north": "blockblitz:block/mangrove_bookshelf",
+    "east": "blockblitz:block/mangrove_bookshelf",
+    "south": "blockblitz:block/mangrove_bookshelf",
+    "west": "blockblitz:block/mangrove_bookshelf",
+    "particle": "blockblitz:block/mangrove_planks_texture_je1_be1"
+  },
+  "render_type": "solid"
+}

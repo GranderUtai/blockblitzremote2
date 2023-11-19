@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blockblitz:block/anodizedsteelblockbottom",
+    "up": "blockblitz:block/anodizedsteelblocktop",
+    "north": "blockblitz:block/anodizedsteelblock",
+    "east": "blockblitz:block/anodizedsteelblock",
+    "south": "blockblitz:block/anodizedsteelblock",
+    "west": "blockblitz:block/anodizedsteelblock",
+    "particle": "blockblitz:block/anodizedsteelblockbottom"
+  },
+  "render_type": "solid"
+}
