@@ -1,9 +1,9 @@
 {
   "parent": "block/outer_stairs",
   "textures": {
-    "bottom": "blockblitz:block/polishedcalcite",
-    "top": "blockblitz:block/polishedcalcite",
-    "side": "blockblitz:block/polishedcalcite"
+    "bottom": "blockblitz:block/calcitepolish",
+    "top": "blockblitz:block/calcitepolish",
+    "side": "blockblitz:block/calcitepolish"
   },
   "render_type": "solid"
 }

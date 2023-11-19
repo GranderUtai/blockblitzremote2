@@ -137,6 +137,7 @@ public class BlockblitzModTabs {
 		}
 
 		if (tabData.getTabKey() == CreativeModeTabs.COMBAT) {
+			tabData.accept(BlockblitzModItems.NIOBIUM_SWORD.get());
 			tabData.accept(BlockblitzModItems.COPPER_SWORD.get());
 			tabData.accept(BlockblitzModItems.STEEL_SWORD.get());
 			tabData.accept(BlockblitzModItems.CHROME_SWORD.get());
@@ -202,6 +203,10 @@ public class BlockblitzModTabs {
 			tabData.accept(BlockblitzModItems.STEEL_PICKAXE.get());
 			tabData.accept(BlockblitzModItems.STEEL_AXE.get());
 			tabData.accept(BlockblitzModItems.STEEL_HOE.get());
+			tabData.accept(BlockblitzModItems.NIOBIUM_SHOVEL.get());
+			tabData.accept(BlockblitzModItems.NIOBIUM_PICKAXE.get());
+			tabData.accept(BlockblitzModItems.NIOBIUM_AXE.get());
+			tabData.accept(BlockblitzModItems.NIOBIUM_HOE.get());
 			tabData.accept(BlockblitzModItems.CHROME_SHOVEL.get());
 			tabData.accept(BlockblitzModItems.CHROME_PICKAXE.get());
 			tabData.accept(BlockblitzModItems.CHROME_AXE.get());
@@ -210,11 +215,6 @@ public class BlockblitzModTabs {
 			tabData.accept(BlockblitzModItems.AMETHYST_PICKAXE.get());
 			tabData.accept(BlockblitzModItems.AMETHYST_AXE.get());
 			tabData.accept(BlockblitzModItems.AMETHYST_HOE.get());
-			tabData.accept(BlockblitzModItems.NIOBIUM_AXE.get());
-			tabData.accept(BlockblitzModItems.NIOBIUM_HOE.get());
-			tabData.accept(BlockblitzModItems.NIOBIUM_PICKAXE.get());
-			tabData.accept(BlockblitzModItems.NIOBIUM_SHOVEL.get());
-			tabData.accept(BlockblitzModItems.NIOBIUM_SWORD.get());
 		}
 
 		if (tabData.getTabKey() == CreativeModeTabs.NATURAL_BLOCKS) {

@@ -30,12 +30,12 @@ import java.util.stream.IntStream;
 
 import io.netty.buffer.Unpooled;
 
-public class MoldBlockEntity extends RandomizableContainerBlockEntity implements WorldlyContainer {
+public class MoldIngotBlockEntity extends RandomizableContainerBlockEntity implements WorldlyContainer {
 	private NonNullList<ItemStack> stacks = NonNullList.<ItemStack>withSize(5, ItemStack.EMPTY);
 	private final LazyOptional<? extends IItemHandler>[] handlers = SidedInvWrapper.create(this, Direction.values());
 
-	public MoldBlockEntity(BlockPos position, BlockState state) {
-		super(BlockblitzModBlockEntities.MOLD.get(), position, state);
+	public MoldIngotBlockEntity(BlockPos position, BlockState state) {
+		super(BlockblitzModBlockEntities.MOLD_INGOT.get(), position, state);
 	}
 
 	@Override
@@ -79,7 +79,7 @@ public class MoldBlockEntity extends RandomizableContainerBlockEntity implements
 
 	@Override
 	public Component getDefaultName() {
-		return Component.literal("mold");
+		return Component.literal("mold_ingot");
 	}
 
 	@Override
@@ -94,7 +94,7 @@ public class MoldBlockEntity extends RandomizableContainerBlockEntity implements
 
 	@Override
 	public Component getDisplayName() {
-		return Component.literal("Mold");
+		return Component.literal("Mold Ingot");
 	}
 
 	@Override

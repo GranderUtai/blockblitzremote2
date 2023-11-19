@@ -155,6 +155,7 @@ public class BlockblitzModItems {
 	public static final RegistryObject<Item> NIOBIUM_INGOT = REGISTRY.register("niobium_ingot", () -> new NiobiumIngotItem());
 	public static final RegistryObject<Item> RAW_CHROME = REGISTRY.register("raw_chrome", () -> new RawChromeItem());
 	public static final RegistryObject<Item> CHROME_INGOT = REGISTRY.register("chrome_ingot", () -> new ChromeIngotItem());
+	public static final RegistryObject<Item> STEEL_INGOT = REGISTRY.register("steel_ingot", () -> new SteelIngotItem());
 	public static final RegistryObject<Item> OSHI_HIT_TRACK = REGISTRY.register("oshi_hit_track", () -> new OshiHitTrackItem());
 	public static final RegistryObject<Item> COPPER_SHOVEL = REGISTRY.register("copper_shovel", () -> new CopperShovelItem());
 	public static final RegistryObject<Item> COPPER_PICKAXE = REGISTRY.register("copper_pickaxe", () -> new CopperPickaxeItem());
@@ -164,6 +165,10 @@ public class BlockblitzModItems {
 	public static final RegistryObject<Item> STEEL_PICKAXE = REGISTRY.register("steel_pickaxe", () -> new SteelPickaxeItem());
 	public static final RegistryObject<Item> STEEL_AXE = REGISTRY.register("steel_axe", () -> new SteelAxeItem());
 	public static final RegistryObject<Item> STEEL_HOE = REGISTRY.register("steel_hoe", () -> new SteelHoeItem());
+	public static final RegistryObject<Item> NIOBIUM_SHOVEL = REGISTRY.register("niobium_shovel", () -> new NiobiumShovelItem());
+	public static final RegistryObject<Item> NIOBIUM_PICKAXE = REGISTRY.register("niobium_pickaxe", () -> new NiobiumPickaxeItem());
+	public static final RegistryObject<Item> NIOBIUM_AXE = REGISTRY.register("niobium_axe", () -> new NiobiumAxeItem());
+	public static final RegistryObject<Item> NIOBIUM_HOE = REGISTRY.register("niobium_hoe", () -> new NiobiumHoeItem());
 	public static final RegistryObject<Item> CHROME_SHOVEL = REGISTRY.register("chrome_shovel", () -> new ChromeShovelItem());
 	public static final RegistryObject<Item> CHROME_PICKAXE = REGISTRY.register("chrome_pickaxe", () -> new ChromePickaxeItem());
 	public static final RegistryObject<Item> CHROME_AXE = REGISTRY.register("chrome_axe", () -> new ChromeAxeItem());
@@ -172,6 +177,7 @@ public class BlockblitzModItems {
 	public static final RegistryObject<Item> AMETHYST_PICKAXE = REGISTRY.register("amethyst_pickaxe", () -> new AmethystPickaxeItem());
 	public static final RegistryObject<Item> AMETHYST_AXE = REGISTRY.register("amethyst_axe", () -> new AmethystAxeItem());
 	public static final RegistryObject<Item> AMETHYST_HOE = REGISTRY.register("amethyst_hoe", () -> new AmethystHoeItem());
+	public static final RegistryObject<Item> NIOBIUM_SWORD = REGISTRY.register("niobium_sword", () -> new NiobiumSwordItem());
 	public static final RegistryObject<Item> AUTUMN_PLANT = doubleBlock(BlockblitzModBlocks.AUTUMN_PLANT);
 	public static final RegistryObject<Item> BLUEBELL = block(BlockblitzModBlocks.BLUEBELL);
 	public static final RegistryObject<Item> BUTTERCUP = block(BlockblitzModBlocks.BUTTERCUP);
@@ -251,12 +257,6 @@ public class BlockblitzModItems {
 	public static final RegistryObject<Item> PURPLE_TURF_CARPET = block(BlockblitzModBlocks.PURPLE_TURF_CARPET);
 	public static final RegistryObject<Item> MAGENTA_TURF_CARPET = block(BlockblitzModBlocks.MAGENTA_TURF_CARPET);
 	public static final RegistryObject<Item> PINK_TURF_CARPET = block(BlockblitzModBlocks.PINK_TURF_CARPET);
-	public static final RegistryObject<Item> STEEL_INGOT = REGISTRY.register("steel_ingot", () -> new SteelIngotItem());
-	public static final RegistryObject<Item> NIOBIUM_AXE = REGISTRY.register("niobium_axe", () -> new NiobiumAxeItem());
-	public static final RegistryObject<Item> NIOBIUM_HOE = REGISTRY.register("niobium_hoe", () -> new NiobiumHoeItem());
-	public static final RegistryObject<Item> NIOBIUM_PICKAXE = REGISTRY.register("niobium_pickaxe", () -> new NiobiumPickaxeItem());
-	public static final RegistryObject<Item> NIOBIUM_SHOVEL = REGISTRY.register("niobium_shovel", () -> new NiobiumShovelItem());
-	public static final RegistryObject<Item> NIOBIUM_SWORD = REGISTRY.register("niobium_sword", () -> new NiobiumSwordItem());
 	public static final RegistryObject<Item> MOLD_LAVA = block(BlockblitzModBlocks.MOLD_LAVA);
 	public static final RegistryObject<Item> MOLD_INGOT = block(BlockblitzModBlocks.MOLD_INGOT);
 

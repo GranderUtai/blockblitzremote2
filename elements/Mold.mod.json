@@ -107,7 +107,7 @@
     "guiBoundTo": "MoldGui",
     "openGUIOnRightClick": true,
     "inventorySize": 5,
-    "inventoryStackSize": 64,
+    "inventoryStackSize": 1,
     "inventoryDropWhenDestroyed": true,
     "inventoryComparatorPower": true,
     "inventoryOutSlotIDs": [],

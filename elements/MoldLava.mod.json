@@ -26,10 +26,10 @@
       {
         "mx": 0.0,
         "my": 0.0,
-        "mz": 0.0,
-        "Mx": 16.0,
-        "My": 16.0,
-        "Mz": 16.0,
+        "mz": 5.0,
+        "Mx": 14.0,
+        "My": 4.0,
+        "Mz": 11.0,
         "subtract": false
       }
     ],
@@ -103,11 +103,11 @@
       "name": "ValidPlacementCondition"
     },
     "isBonemealable": false,
-    "hasInventory": false,
-    "guiBoundTo": "<NONE>",
-    "openGUIOnRightClick": false,
-    "inventorySize": 9,
-    "inventoryStackSize": 64,
+    "hasInventory": true,
+    "guiBoundTo": "MoldGui",
+    "openGUIOnRightClick": true,
+    "inventorySize": 5,
+    "inventoryStackSize": 1,
     "inventoryDropWhenDestroyed": true,
     "inventoryComparatorPower": true,
     "inventoryOutSlotIDs": [],

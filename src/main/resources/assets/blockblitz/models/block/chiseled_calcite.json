@@ -1,8 +1,8 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "blockblitz:block/chiselledcalcite",
-    "particle": "blockblitz:block/chiselledcalcite"
+    "all": "blockblitz:block/calcitechisel",
+    "particle": "blockblitz:block/calcitechisel"
   },
   "render_type": "solid"
 }

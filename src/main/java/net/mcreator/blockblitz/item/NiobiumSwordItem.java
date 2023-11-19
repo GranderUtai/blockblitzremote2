@@ -35,6 +35,6 @@ public class NiobiumSwordItem extends SwordItem {
 			public Ingredient getRepairIngredient() {
 				return Ingredient.of(new ItemStack(BlockblitzModItems.NIOBIUM_INGOT.get()));
 			}
-		}, 3, 17.5f, new Item.Properties());
+		}, 3, -2f, new Item.Properties());
 	}
 }

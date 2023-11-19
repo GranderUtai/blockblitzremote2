@@ -1,8 +1,8 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "blockblitz:block/calcitebricks",
-    "particle": "blockblitz:block/calcitebricks"
+    "all": "blockblitz:block/calcitebricks2",
+    "particle": "blockblitz:block/calcitebricks2"
   },
   "render_type": "solid"
 }

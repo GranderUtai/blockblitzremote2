@@ -1,8 +1,8 @@
 {
   "parent": "block/template_wall_post",
   "textures": {
-    "wall": "blockblitz:block/polishedcalcite",
-    "particle": "blockblitz:block/polishedcalcite"
+    "wall": "blockblitz:block/calcitepolish",
+    "particle": "blockblitz:block/calcitepolish"
   },
   "render_type": "solid"
 }
