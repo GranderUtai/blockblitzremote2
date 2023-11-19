@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "blockblitz:red_turf"
+    },
+    "1": {
+      "item": "blockblitz:red_turf"
+    }
+  },
+  "result": {
+    "item": "blockblitz:red_turf_carpet",
+    "count": 3
+  }
+}

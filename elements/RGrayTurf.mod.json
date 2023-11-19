@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.GRASS"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Silica"
+      },
+      {
+        "value": "Items.DYE#8"
+      },
+      {
+        "value": "CUSTOM:Silica"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.GRASS"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:GrayTurf"
+    },
+    "name": "r_gray_turf",
+    "namespace": "mod"
+  }
+}
