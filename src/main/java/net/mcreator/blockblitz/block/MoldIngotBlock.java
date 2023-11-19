@@ -77,10 +77,10 @@ public class MoldIngotBlock extends Block implements EntityBlock {
 	@Override
 	public VoxelShape getShape(BlockState state, BlockGetter world, BlockPos pos, CollisionContext context) {
 		return switch (state.getValue(FACING)) {
-			default -> box(2, 0, 5, 16, 4, 11);
-			case NORTH -> box(0, 0, 5, 14, 4, 11);
-			case EAST -> box(5, 0, 0, 11, 4, 14);
-			case WEST -> box(5, 0, 2, 11, 4, 16);
+			default -> box(2, 0, 5, 14, 4, 11);
+			case NORTH -> box(2, 0, 5, 14, 4, 11);
+			case EAST -> box(5, 0, 2, 11, 4, 14);
+			case WEST -> box(5, 0, 2, 11, 4, 14);
 		};
 	}
 

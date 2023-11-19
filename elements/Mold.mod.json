@@ -123,6 +123,9 @@
     "onBlockAdded": {
       "name": "MoldBlockAdded"
     },
+    "onTickUpdate": {
+      "name": "MoldOffUpdateTick"
+    },
     "spawnWorldTypes": [],
     "restrictionBiomes": [],
     "blocksToReplace": [
