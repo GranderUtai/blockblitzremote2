@@ -1,32 +1,7 @@
 
 package net.mcreator.blockblitz.world.inventory;
 
-import net.minecraftforge.items.SlotItemHandler;
-import net.minecraftforge.items.ItemStackHandler;
-import net.minecraftforge.items.IItemHandler;
-import net.minecraftforge.common.capabilities.ForgeCapabilities;
-
-import net.minecraft.world.level.block.entity.BlockEntity;
-import net.minecraft.world.level.Level;
-import net.minecraft.world.item.Items;
-import net.minecraft.world.item.ItemStack;
-import net.minecraft.world.inventory.Slot;
-import net.minecraft.world.inventory.ContainerLevelAccess;
-import net.minecraft.world.inventory.AbstractContainerMenu;
-import net.minecraft.world.entity.player.Player;
-import net.minecraft.world.entity.player.Inventory;
-import net.minecraft.world.entity.Entity;
-import net.minecraft.tags.ItemTags;
-import net.minecraft.server.level.ServerPlayer;
-import net.minecraft.resources.ResourceLocation;
-import net.minecraft.network.FriendlyByteBuf;
-import net.minecraft.core.BlockPos;
-
-import net.mcreator.blockblitz.init.BlockblitzModMenus;
-
-import java.util.function.Supplier;
-import java.util.Map;
-import java.util.HashMap;
+import net.mcreator.blockblitz.BlockblitzMod;
 
 public class MoldGuiMenu extends AbstractContainerMenu implements Supplier<Map<Integer, Slot>> {
 	public final static HashMap<String, Object> guistate = new HashMap<>();
@@ -90,6 +65,12 @@ public class MoldGuiMenu extends AbstractContainerMenu implements Supplier<Map<I
 		}));
 		this.customSlots.put(3, this.addSlot(new SlotItemHandler(internal, 3, 78, 7) {
 			private final int slot = 3;
+
+			@Override
+			public void onTake(Player entity, ItemStack stack) {
+				super.onTake(entity, stack);
+				slotChanged(3, 1, 0);
+			}
 
 			@Override
 			public boolean mayPlace(ItemStack stack) {
@@ -178,6 +159,13 @@ public class MoldGuiMenu extends AbstractContainerMenu implements Supplier<Map<I
 					playerIn.getInventory().placeItemBackInInventory(internal.extractItem(i, internal.getStackInSlot(i).getCount(), false));
 				}
 			}
+		}
+	}
+
+	private void slotChanged(int slotid, int ctype, int meta) {
+		if (this.world != null && this.world.isClientSide()) {
+			BlockblitzMod.PACKET_HANDLER.sendToServer(new MoldGuiSlotMessage(slotid, x, y, z, ctype, meta));
+			MoldGuiSlotMessage.handleSlotAction(entity, slotid, ctype, meta, x, y, z);
 		}
 	}
 

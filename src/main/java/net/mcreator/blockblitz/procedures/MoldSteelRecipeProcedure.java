@@ -10,6 +10,7 @@ import net.minecraft.world.item.ItemStack;
 import net.minecraft.core.BlockPos;
 
 import net.mcreator.blockblitz.init.BlockblitzModItems;
+import net.mcreator.blockblitz.BlockblitzMod;
 
 import java.util.concurrent.atomic.AtomicReference;
 
@@ -48,38 +49,40 @@ public class MoldSteelRecipeProcedure {
 				return _retval.get();
 			}
 		}.getItemStack(world, BlockPos.containing(x, y, z), 2)).getItem() == Items.IRON_INGOT) {
-			{
-				BlockEntity _ent = world.getBlockEntity(BlockPos.containing(x, y, z));
-				if (_ent != null) {
-					final int _slotid = 1;
-					_ent.getCapability(ForgeCapabilities.ITEM_HANDLER, null).ifPresent(capability -> {
-						if (capability instanceof IItemHandlerModifiable)
-							((IItemHandlerModifiable) capability).setStackInSlot(_slotid, ItemStack.EMPTY);
-					});
+			BlockblitzMod.queueServerWork(300, () -> {
+				{
+					BlockEntity _ent = world.getBlockEntity(BlockPos.containing(x, y, z));
+					if (_ent != null) {
+						final int _slotid = 1;
+						_ent.getCapability(ForgeCapabilities.ITEM_HANDLER, null).ifPresent(capability -> {
+							if (capability instanceof IItemHandlerModifiable)
+								((IItemHandlerModifiable) capability).setStackInSlot(_slotid, ItemStack.EMPTY);
+						});
+					}
 				}
-			}
-			{
-				BlockEntity _ent = world.getBlockEntity(BlockPos.containing(x, y, z));
-				if (_ent != null) {
-					final int _slotid = 2;
-					_ent.getCapability(ForgeCapabilities.ITEM_HANDLER, null).ifPresent(capability -> {
-						if (capability instanceof IItemHandlerModifiable)
-							((IItemHandlerModifiable) capability).setStackInSlot(_slotid, ItemStack.EMPTY);
-					});
+				{
+					BlockEntity _ent = world.getBlockEntity(BlockPos.containing(x, y, z));
+					if (_ent != null) {
+						final int _slotid = 2;
+						_ent.getCapability(ForgeCapabilities.ITEM_HANDLER, null).ifPresent(capability -> {
+							if (capability instanceof IItemHandlerModifiable)
+								((IItemHandlerModifiable) capability).setStackInSlot(_slotid, ItemStack.EMPTY);
+						});
+					}
 				}
-			}
-			{
-				BlockEntity _ent = world.getBlockEntity(BlockPos.containing(x, y, z));
-				if (_ent != null) {
-					final int _slotid = 3;
-					final ItemStack _setstack = new ItemStack(BlockblitzModItems.STEEL_INGOT.get());
-					_setstack.setCount(1);
-					_ent.getCapability(ForgeCapabilities.ITEM_HANDLER, null).ifPresent(capability -> {
-						if (capability instanceof IItemHandlerModifiable)
-							((IItemHandlerModifiable) capability).setStackInSlot(_slotid, _setstack);
-					});
+				{
+					BlockEntity _ent = world.getBlockEntity(BlockPos.containing(x, y, z));
+					if (_ent != null) {
+						final int _slotid = 3;
+						final ItemStack _setstack = new ItemStack(BlockblitzModItems.STEEL_INGOT.get());
+						_setstack.setCount(1);
+						_ent.getCapability(ForgeCapabilities.ITEM_HANDLER, null).ifPresent(capability -> {
+							if (capability instanceof IItemHandlerModifiable)
+								((IItemHandlerModifiable) capability).setStackInSlot(_slotid, _setstack);
+						});
+					}
 				}
-			}
+			});
 		}
 	}
 }
