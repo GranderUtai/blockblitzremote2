@@ -9,8 +9,8 @@
       "registry_name": "apple_log",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/block/apple_log.json",
           "src/main/java/net/mcreator/blockblitz/block/AppleLogBlock.java",
+          "src/main/resources/assets/blockblitz/models/block/apple_log.json",
           "src/main/resources/assets/blockblitz/models/item/apple_log.json",
           "src/main/resources/assets/blockblitz/blockstates/apple_log.json"
         ]
@@ -27,8 +27,8 @@
         "files": [
           "src/main/java/net/mcreator/blockblitz/block/ApplePlanksBlock.java",
           "src/main/resources/assets/blockblitz/models/block/apple_planks.json",
-          "src/main/resources/assets/blockblitz/models/item/apple_planks.json",
-          "src/main/resources/assets/blockblitz/blockstates/apple_planks.json"
+          "src/main/resources/assets/blockblitz/blockstates/apple_planks.json",
+          "src/main/resources/assets/blockblitz/models/item/apple_planks.json"
         ]
       }
     },
@@ -41,17 +41,17 @@
       "registry_name": "apple_door",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/block/apple_door_bottom_left.json",
-          "src/main/resources/assets/blockblitz/models/block/apple_door_bottom_right.json",
-          "src/main/java/net/mcreator/blockblitz/block/AppleDoorBlock.java",
-          "src/main/resources/assets/blockblitz/models/block/apple_door_bottom_right_open.json",
-          "src/main/resources/assets/blockblitz/models/block/apple_door_top_right.json",
-          "src/main/resources/assets/blockblitz/blockstates/apple_door.json",
-          "src/main/resources/assets/blockblitz/models/block/apple_door_top_right_open.json",
           "src/main/resources/assets/blockblitz/models/item/apple_door.json",
+          "src/main/resources/assets/blockblitz/models/block/apple_door_bottom_right_open.json",
+          "src/main/resources/assets/blockblitz/models/block/apple_door_bottom_left.json",
+          "src/main/resources/assets/blockblitz/models/block/apple_door_top_right_open.json",
           "src/main/resources/assets/blockblitz/models/block/apple_door_top_left_open.json",
+          "src/main/resources/assets/blockblitz/blockstates/apple_door.json",
           "src/main/resources/assets/blockblitz/models/block/apple_door_bottom_left_open.json",
-          "src/main/resources/assets/blockblitz/models/block/apple_door_top_left.json"
+          "src/main/java/net/mcreator/blockblitz/block/AppleDoorBlock.java",
+          "src/main/resources/assets/blockblitz/models/block/apple_door_top_left.json",
+          "src/main/resources/assets/blockblitz/models/block/apple_door_bottom_right.json",
+          "src/main/resources/assets/blockblitz/models/block/apple_door_top_right.json"
         ]
       }
     },
@@ -64,12 +64,12 @@
       "registry_name": "apple_trapdoor",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/block/apple_trapdoor.json",
-          "src/main/java/net/mcreator/blockblitz/block/AppleTrapdoorBlock.java",
-          "src/main/resources/assets/blockblitz/models/block/apple_trapdoor_top.json",
-          "src/main/resources/assets/blockblitz/models/block/apple_trapdoor_open.json",
           "src/main/resources/assets/blockblitz/models/item/apple_trapdoor.json",
-          "src/main/resources/assets/blockblitz/blockstates/apple_trapdoor.json"
+          "src/main/resources/assets/blockblitz/models/block/apple_trapdoor_top.json",
+          "src/main/resources/assets/blockblitz/blockstates/apple_trapdoor.json",
+          "src/main/resources/assets/blockblitz/models/block/apple_trapdoor_open.json",
+          "src/main/resources/assets/blockblitz/models/block/apple_trapdoor.json",
+          "src/main/java/net/mcreator/blockblitz/block/AppleTrapdoorBlock.java"
         ]
       }
     },
@@ -82,15 +82,15 @@
       "registry_name": "autumn_plant",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/block/autumn_plant_bottom.json",
-          "src/main/java/net/mcreator/blockblitz/world/features/plants/AutumnPlantFeature.java",
-          "src/main/resources/data/blockblitz/forge/biome_modifier/autumn_plant_biome_modifier.json",
-          "src/main/resources/assets/blockblitz/blockstates/autumn_plant.json",
-          "src/main/java/net/mcreator/blockblitz/block/AutumnPlantBlock.java",
-          "src/main/resources/data/blockblitz/worldgen/configured_feature/autumn_plant.json",
           "src/main/resources/data/blockblitz/worldgen/placed_feature/autumn_plant.json",
+          "src/main/resources/assets/blockblitz/blockstates/autumn_plant.json",
+          "src/main/java/net/mcreator/blockblitz/world/features/plants/AutumnPlantFeature.java",
+          "src/main/resources/assets/blockblitz/models/item/autumn_plant.json",
+          "src/main/resources/assets/blockblitz/models/block/autumn_plant_bottom.json",
+          "src/main/java/net/mcreator/blockblitz/block/AutumnPlantBlock.java",
           "src/main/resources/assets/blockblitz/models/block/autumn_plant.json",
-          "src/main/resources/assets/blockblitz/models/item/autumn_plant.json"
+          "src/main/resources/data/blockblitz/forge/biome_modifier/autumn_plant_biome_modifier.json",
+          "src/main/resources/data/blockblitz/worldgen/configured_feature/autumn_plant.json"
         ]
       }
     },
@@ -103,12 +103,12 @@
       "registry_name": "apple_button",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/blockblitz/block/AppleButtonBlock.java",
+          "src/main/resources/assets/blockblitz/blockstates/apple_button.json",
           "src/main/resources/assets/blockblitz/models/block/apple_button_inventory.json",
           "src/main/resources/assets/blockblitz/models/item/apple_button.json",
           "src/main/resources/assets/blockblitz/models/block/apple_button.json",
-          "src/main/resources/assets/blockblitz/models/block/apple_button_pressed.json",
-          "src/main/resources/assets/blockblitz/blockstates/apple_button.json"
+          "src/main/java/net/mcreator/blockblitz/block/AppleButtonBlock.java",
+          "src/main/resources/assets/blockblitz/models/block/apple_button_pressed.json"
         ]
       }
     },
@@ -122,10 +122,10 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/blockblitz/models/item/apple_pressure_plate.json",
+          "src/main/resources/assets/blockblitz/models/block/apple_pressure_plate_down.json",
           "src/main/java/net/mcreator/blockblitz/block/ApplePressurePlateBlock.java",
           "src/main/resources/assets/blockblitz/blockstates/apple_pressure_plate.json",
-          "src/main/resources/assets/blockblitz/models/block/apple_pressure_plate.json",
-          "src/main/resources/assets/blockblitz/models/block/apple_pressure_plate_down.json"
+          "src/main/resources/assets/blockblitz/models/block/apple_pressure_plate.json"
         ]
       }
     },
@@ -138,12 +138,12 @@
       "registry_name": "apple_fence",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/blockstates/apple_fence.json",
           "src/main/resources/assets/blockblitz/models/item/apple_fence.json",
-          "src/main/resources/assets/blockblitz/models/block/apple_fence_inventory.json",
-          "src/main/java/net/mcreator/blockblitz/block/AppleFenceBlock.java",
           "src/main/resources/assets/blockblitz/models/block/apple_fence.json",
-          "src/main/resources/assets/blockblitz/models/block/apple_fence_post.json"
+          "src/main/resources/assets/blockblitz/models/block/apple_fence_post.json",
+          "src/main/java/net/mcreator/blockblitz/block/AppleFenceBlock.java",
+          "src/main/resources/assets/blockblitz/blockstates/apple_fence.json",
+          "src/main/resources/assets/blockblitz/models/block/apple_fence_inventory.json"
         ]
       }
     },
@@ -156,13 +156,13 @@
       "registry_name": "apple_fence_gate",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/block/apple_fence_gate_wall.json",
-          "src/main/resources/assets/blockblitz/models/block/apple_fence_gate_wall_open.json",
-          "src/main/resources/assets/blockblitz/models/block/apple_fence_gate_open.json",
           "src/main/resources/assets/blockblitz/models/block/apple_fence_gate.json",
-          "src/main/java/net/mcreator/blockblitz/block/AppleFenceGateBlock.java",
           "src/main/resources/assets/blockblitz/models/item/apple_fence_gate.json",
-          "src/main/resources/assets/blockblitz/blockstates/apple_fence_gate.json"
+          "src/main/resources/assets/blockblitz/models/block/apple_fence_gate_wall_open.json",
+          "src/main/resources/assets/blockblitz/blockstates/apple_fence_gate.json",
+          "src/main/java/net/mcreator/blockblitz/block/AppleFenceGateBlock.java",
+          "src/main/resources/assets/blockblitz/models/block/apple_fence_gate_open.json",
+          "src/main/resources/assets/blockblitz/models/block/apple_fence_gate_wall.json"
         ]
       }
     },
@@ -175,12 +175,12 @@
       "registry_name": "apple_stairs",
       "metadata": {
         "files": [
+          "src/main/resources/assets/blockblitz/models/block/apple_stairs.json",
           "src/main/resources/assets/blockblitz/models/item/apple_stairs.json",
-          "src/main/resources/assets/blockblitz/models/block/apple_stairs_outer.json",
-          "src/main/resources/assets/blockblitz/blockstates/apple_stairs.json",
           "src/main/resources/assets/blockblitz/models/block/apple_stairs_inner.json",
           "src/main/java/net/mcreator/blockblitz/block/AppleStairsBlock.java",
-          "src/main/resources/assets/blockblitz/models/block/apple_stairs.json"
+          "src/main/resources/assets/blockblitz/blockstates/apple_stairs.json",
+          "src/main/resources/assets/blockblitz/models/block/apple_stairs_outer.json"
         ]
       }
     },
@@ -193,12 +193,12 @@
       "registry_name": "apple_slab",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/item/apple_slab.json",
+          "src/main/resources/assets/blockblitz/models/block/apple_slab_top.json",
+          "src/main/resources/assets/blockblitz/models/block/apple_slab_full.json",
           "src/main/java/net/mcreator/blockblitz/block/AppleSlabBlock.java",
           "src/main/resources/assets/blockblitz/blockstates/apple_slab.json",
-          "src/main/resources/assets/blockblitz/models/block/apple_slab_full.json",
-          "src/main/resources/assets/blockblitz/models/block/apple_slab.json",
-          "src/main/resources/assets/blockblitz/models/block/apple_slab_top.json"
+          "src/main/resources/assets/blockblitz/models/item/apple_slab.json",
+          "src/main/resources/assets/blockblitz/models/block/apple_slab.json"
         ]
       }
     },
@@ -211,14 +211,14 @@
       "registry_name": "bluebell",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/blockblitz/world/features/plants/BluebellFeature.java",
-          "src/main/resources/assets/blockblitz/models/item/bluebell.json",
-          "src/main/resources/data/blockblitz/worldgen/configured_feature/bluebell.json",
-          "src/main/resources/assets/blockblitz/blockstates/bluebell.json",
-          "src/main/resources/data/blockblitz/worldgen/placed_feature/bluebell.json",
           "src/main/resources/data/blockblitz/forge/biome_modifier/bluebell_biome_modifier.json",
           "src/main/resources/assets/blockblitz/models/block/bluebell.json",
-          "src/main/java/net/mcreator/blockblitz/block/BluebellBlock.java"
+          "src/main/resources/data/blockblitz/worldgen/placed_feature/bluebell.json",
+          "src/main/java/net/mcreator/blockblitz/block/BluebellBlock.java",
+          "src/main/resources/data/blockblitz/worldgen/configured_feature/bluebell.json",
+          "src/main/resources/assets/blockblitz/blockstates/bluebell.json",
+          "src/main/resources/assets/blockblitz/models/item/bluebell.json",
+          "src/main/java/net/mcreator/blockblitz/world/features/plants/BluebellFeature.java"
         ]
       }
     },
@@ -232,13 +232,13 @@
       "metadata": {
         "files": [
           "src/main/java/net/mcreator/blockblitz/block/ButtercupBlock.java",
-          "src/main/resources/data/blockblitz/worldgen/placed_feature/buttercup.json",
-          "src/main/resources/data/blockblitz/worldgen/configured_feature/buttercup.json",
           "src/main/java/net/mcreator/blockblitz/world/features/plants/ButtercupFeature.java",
-          "src/main/resources/data/blockblitz/forge/biome_modifier/buttercup_biome_modifier.json",
+          "src/main/resources/assets/blockblitz/models/item/buttercup.json",
+          "src/main/resources/data/blockblitz/worldgen/configured_feature/buttercup.json",
           "src/main/resources/assets/blockblitz/models/block/buttercup.json",
+          "src/main/resources/data/blockblitz/forge/biome_modifier/buttercup_biome_modifier.json",
           "src/main/resources/assets/blockblitz/blockstates/buttercup.json",
-          "src/main/resources/assets/blockblitz/models/item/buttercup.json"
+          "src/main/resources/data/blockblitz/worldgen/placed_feature/buttercup.json"
         ]
       }
     },
@@ -251,10 +251,10 @@
       "registry_name": "maple_bookshelf",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/block/maple_bookshelf.json",
           "src/main/java/net/mcreator/blockblitz/block/MapleBookshelfBlock.java",
           "src/main/resources/assets/blockblitz/blockstates/maple_bookshelf.json",
-          "src/main/resources/assets/blockblitz/models/item/maple_bookshelf.json"
+          "src/main/resources/assets/blockblitz/models/item/maple_bookshelf.json",
+          "src/main/resources/assets/blockblitz/models/block/maple_bookshelf.json"
         ]
       }
     },
@@ -267,10 +267,10 @@
       "registry_name": "maple_planks",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/blockblitz/block/MaplePlanksBlock.java",
+          "src/main/resources/assets/blockblitz/models/item/maple_planks.json",
           "src/main/resources/assets/blockblitz/blockstates/maple_planks.json",
-          "src/main/resources/assets/blockblitz/models/block/maple_planks.json",
-          "src/main/resources/assets/blockblitz/models/item/maple_planks.json"
+          "src/main/java/net/mcreator/blockblitz/block/MaplePlanksBlock.java",
+          "src/main/resources/assets/blockblitz/models/block/maple_planks.json"
         ]
       }
     },
@@ -284,8 +284,8 @@
       "metadata": {
         "files": [
           "src/main/java/net/mcreator/blockblitz/block/MapleLogBlock.java",
-          "src/main/resources/assets/blockblitz/blockstates/maple_log.json",
           "src/main/resources/assets/blockblitz/models/item/maple_log.json",
+          "src/main/resources/assets/blockblitz/blockstates/maple_log.json",
           "src/main/resources/assets/blockblitz/models/block/maple_log.json"
         ]
       }
@@ -299,10 +299,10 @@
       "registry_name": "maple_leaves",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/item/maple_leaves.json",
+          "src/main/resources/assets/blockblitz/models/block/maple_leaves.json",
           "src/main/java/net/mcreator/blockblitz/block/MapleLeavesBlock.java",
-          "src/main/resources/assets/blockblitz/blockstates/maple_leaves.json",
-          "src/main/resources/assets/blockblitz/models/block/maple_leaves.json"
+          "src/main/resources/assets/blockblitz/models/item/maple_leaves.json",
+          "src/main/resources/assets/blockblitz/blockstates/maple_leaves.json"
         ]
       }
     },
@@ -316,16 +316,16 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/blockblitz/models/block/maple_door_top_right_open.json",
-          "src/main/resources/assets/blockblitz/models/block/maple_door_bottom_left_open.json",
-          "src/main/resources/assets/blockblitz/models/item/maple_door.json",
-          "src/main/resources/assets/blockblitz/models/block/maple_door_bottom_left.json",
-          "src/main/resources/assets/blockblitz/models/block/maple_door_top_left_open.json",
-          "src/main/resources/assets/blockblitz/models/block/maple_door_bottom_right_open.json",
-          "src/main/java/net/mcreator/blockblitz/block/MapleDoorBlock.java",
           "src/main/resources/assets/blockblitz/models/block/maple_door_bottom_right.json",
-          "src/main/resources/assets/blockblitz/models/block/maple_door_top_right.json",
           "src/main/resources/assets/blockblitz/models/block/maple_door_top_left.json",
-          "src/main/resources/assets/blockblitz/blockstates/maple_door.json"
+          "src/main/resources/assets/blockblitz/models/block/maple_door_bottom_right_open.json",
+          "src/main/resources/assets/blockblitz/models/block/maple_door_bottom_left.json",
+          "src/main/resources/assets/blockblitz/models/item/maple_door.json",
+          "src/main/resources/assets/blockblitz/models/block/maple_door_bottom_left_open.json",
+          "src/main/java/net/mcreator/blockblitz/block/MapleDoorBlock.java",
+          "src/main/resources/assets/blockblitz/models/block/maple_door_top_right.json",
+          "src/main/resources/assets/blockblitz/blockstates/maple_door.json",
+          "src/main/resources/assets/blockblitz/models/block/maple_door_top_left_open.json"
         ]
       }
     },
@@ -338,12 +338,12 @@
       "registry_name": "maple_trapdoor",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/blockstates/maple_trapdoor.json",
           "src/main/java/net/mcreator/blockblitz/block/MapleTrapdoorBlock.java",
-          "src/main/resources/assets/blockblitz/models/block/maple_trapdoor_open.json",
-          "src/main/resources/assets/blockblitz/models/block/maple_trapdoor.json",
           "src/main/resources/assets/blockblitz/models/item/maple_trapdoor.json",
-          "src/main/resources/assets/blockblitz/models/block/maple_trapdoor_top.json"
+          "src/main/resources/assets/blockblitz/blockstates/maple_trapdoor.json",
+          "src/main/resources/assets/blockblitz/models/block/maple_trapdoor_top.json",
+          "src/main/resources/assets/blockblitz/models/block/maple_trapdoor.json",
+          "src/main/resources/assets/blockblitz/models/block/maple_trapdoor_open.json"
         ]
       }
     },
@@ -356,11 +356,11 @@
       "registry_name": "maple_button",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/blockblitz/block/MapleButtonBlock.java",
+          "src/main/resources/assets/blockblitz/models/item/maple_button.json",
           "src/main/resources/assets/blockblitz/blockstates/maple_button.json",
           "src/main/resources/assets/blockblitz/models/block/maple_button.json",
+          "src/main/java/net/mcreator/blockblitz/block/MapleButtonBlock.java",
           "src/main/resources/assets/blockblitz/models/block/maple_button_pressed.json",
-          "src/main/resources/assets/blockblitz/models/item/maple_button.json",
           "src/main/resources/assets/blockblitz/models/block/maple_button_inventory.json"
         ]
       }
@@ -376,9 +376,9 @@
         "files": [
           "src/main/java/net/mcreator/blockblitz/block/MaplePressurePlateBlock.java",
           "src/main/resources/assets/blockblitz/models/block/maple_pressure_plate.json",
-          "src/main/resources/assets/blockblitz/models/block/maple_pressure_plate_down.json",
+          "src/main/resources/assets/blockblitz/models/item/maple_pressure_plate.json",
           "src/main/resources/assets/blockblitz/blockstates/maple_pressure_plate.json",
-          "src/main/resources/assets/blockblitz/models/item/maple_pressure_plate.json"
+          "src/main/resources/assets/blockblitz/models/block/maple_pressure_plate_down.json"
         ]
       }
     },
@@ -391,12 +391,12 @@
       "registry_name": "maple_fence",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/blockstates/maple_fence.json",
-          "src/main/resources/assets/blockblitz/models/block/maple_fence_post.json",
-          "src/main/resources/assets/blockblitz/models/block/maple_fence_inventory.json",
+          "src/main/java/net/mcreator/blockblitz/block/MapleFenceBlock.java",
           "src/main/resources/assets/blockblitz/models/item/maple_fence.json",
           "src/main/resources/assets/blockblitz/models/block/maple_fence.json",
-          "src/main/java/net/mcreator/blockblitz/block/MapleFenceBlock.java"
+          "src/main/resources/assets/blockblitz/models/block/maple_fence_inventory.json",
+          "src/main/resources/assets/blockblitz/models/block/maple_fence_post.json",
+          "src/main/resources/assets/blockblitz/blockstates/maple_fence.json"
         ]
       }
     },
@@ -409,13 +409,13 @@
       "registry_name": "maple_fence_gate",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/block/maple_fence_gate.json",
-          "src/main/resources/assets/blockblitz/models/block/maple_fence_gate_wall_open.json",
-          "src/main/resources/assets/blockblitz/models/block/maple_fence_gate_open.json",
           "src/main/java/net/mcreator/blockblitz/block/MapleFenceGateBlock.java",
+          "src/main/resources/assets/blockblitz/models/block/maple_fence_gate_wall.json",
+          "src/main/resources/assets/blockblitz/models/block/maple_fence_gate_wall_open.json",
           "src/main/resources/assets/blockblitz/models/item/maple_fence_gate.json",
           "src/main/resources/assets/blockblitz/blockstates/maple_fence_gate.json",
-          "src/main/resources/assets/blockblitz/models/block/maple_fence_gate_wall.json"
+          "src/main/resources/assets/blockblitz/models/block/maple_fence_gate.json",
+          "src/main/resources/assets/blockblitz/models/block/maple_fence_gate_open.json"
         ]
       }
     },
@@ -429,11 +429,11 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/blockblitz/models/block/maple_stairs.json",
-          "src/main/resources/assets/blockblitz/models/block/maple_stairs_inner.json",
           "src/main/resources/assets/blockblitz/models/block/maple_stairs_outer.json",
-          "src/main/resources/assets/blockblitz/models/item/maple_stairs.json",
           "src/main/java/net/mcreator/blockblitz/block/MapleStairsBlock.java",
-          "src/main/resources/assets/blockblitz/blockstates/maple_stairs.json"
+          "src/main/resources/assets/blockblitz/models/item/maple_stairs.json",
+          "src/main/resources/assets/blockblitz/blockstates/maple_stairs.json",
+          "src/main/resources/assets/blockblitz/models/block/maple_stairs_inner.json"
         ]
       }
     },
@@ -447,11 +447,11 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/blockblitz/blockstates/maple_slab.json",
-          "src/main/resources/assets/blockblitz/models/block/maple_slab_full.json",
           "src/main/java/net/mcreator/blockblitz/block/MapleSlabBlock.java",
+          "src/main/resources/assets/blockblitz/models/block/maple_slab.json",
           "src/main/resources/assets/blockblitz/models/item/maple_slab.json",
-          "src/main/resources/assets/blockblitz/models/block/maple_slab_top.json",
-          "src/main/resources/assets/blockblitz/models/block/maple_slab.json"
+          "src/main/resources/assets/blockblitz/models/block/maple_slab_full.json",
+          "src/main/resources/assets/blockblitz/models/block/maple_slab_top.json"
         ]
       }
     },
@@ -464,8 +464,8 @@
       "registry_name": "autumn_forest",
       "metadata": {
         "files": [
-          "src/main/resources/data/blockblitz/worldgen/configured_feature/autumn_forest_tree.json",
           "src/main/resources/data/blockblitz/worldgen/biome/autumn_forest.json",
+          "src/main/resources/data/blockblitz/worldgen/configured_feature/autumn_forest_tree.json",
           "src/main/resources/data/blockblitz/worldgen/placed_feature/autumn_forest_tree.json"
         ]
       }
@@ -479,10 +479,10 @@
       "registry_name": "mulberry_log",
       "metadata": {
         "files": [
+          "src/main/resources/assets/blockblitz/blockstates/mulberry_log.json",
           "src/main/resources/assets/blockblitz/models/item/mulberry_log.json",
-          "src/main/resources/assets/blockblitz/models/block/mulberry_log.json",
           "src/main/java/net/mcreator/blockblitz/block/MulberryLogBlock.java",
-          "src/main/resources/assets/blockblitz/blockstates/mulberry_log.json"
+          "src/main/resources/assets/blockblitz/models/block/mulberry_log.json"
         ]
       }
     },
@@ -511,17 +511,17 @@
       "registry_name": "mulberry_door",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/blockblitz/block/MulberryDoorBlock.java",
-          "src/main/resources/assets/blockblitz/models/block/mulberry_door_bottom_left_open.json",
-          "src/main/resources/assets/blockblitz/models/block/mulberry_door_bottom_right_open.json",
           "src/main/resources/assets/blockblitz/models/block/mulberry_door_top_left.json",
-          "src/main/resources/assets/blockblitz/models/item/mulberry_door.json",
           "src/main/resources/assets/blockblitz/models/block/mulberry_door_top_right_open.json",
-          "src/main/resources/assets/blockblitz/blockstates/mulberry_door.json",
+          "src/main/resources/assets/blockblitz/models/item/mulberry_door.json",
+          "src/main/resources/assets/blockblitz/models/block/mulberry_door_bottom_left_open.json",
           "src/main/resources/assets/blockblitz/models/block/mulberry_door_top_left_open.json",
+          "src/main/resources/assets/blockblitz/blockstates/mulberry_door.json",
           "src/main/resources/assets/blockblitz/models/block/mulberry_door_bottom_left.json",
-          "src/main/resources/assets/blockblitz/models/block/mulberry_door_top_right.json",
-          "src/main/resources/assets/blockblitz/models/block/mulberry_door_bottom_right.json"
+          "src/main/resources/assets/blockblitz/models/block/mulberry_door_bottom_right_open.json",
+          "src/main/resources/assets/blockblitz/models/block/mulberry_door_bottom_right.json",
+          "src/main/java/net/mcreator/blockblitz/block/MulberryDoorBlock.java",
+          "src/main/resources/assets/blockblitz/models/block/mulberry_door_top_right.json"
         ]
       }
     },
@@ -534,11 +534,11 @@
       "registry_name": "mulberry_trapdoor",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/blockblitz/block/MulberryTrapdoorBlock.java",
-          "src/main/resources/assets/blockblitz/models/block/mulberry_trapdoor.json",
-          "src/main/resources/assets/blockblitz/models/block/mulberry_trapdoor_open.json",
-          "src/main/resources/assets/blockblitz/models/item/mulberry_trapdoor.json",
           "src/main/resources/assets/blockblitz/blockstates/mulberry_trapdoor.json",
+          "src/main/resources/assets/blockblitz/models/block/mulberry_trapdoor.json",
+          "src/main/java/net/mcreator/blockblitz/block/MulberryTrapdoorBlock.java",
+          "src/main/resources/assets/blockblitz/models/item/mulberry_trapdoor.json",
+          "src/main/resources/assets/blockblitz/models/block/mulberry_trapdoor_open.json",
           "src/main/resources/assets/blockblitz/models/block/mulberry_trapdoor_top.json"
         ]
       }
@@ -553,9 +553,9 @@
       "metadata": {
         "files": [
           "src/main/java/net/mcreator/blockblitz/block/MulberryLeavesBlock.java",
-          "src/main/resources/assets/blockblitz/blockstates/mulberry_leaves.json",
+          "src/main/resources/assets/blockblitz/models/item/mulberry_leaves.json",
           "src/main/resources/assets/blockblitz/models/block/mulberry_leaves.json",
-          "src/main/resources/assets/blockblitz/models/item/mulberry_leaves.json"
+          "src/main/resources/assets/blockblitz/blockstates/mulberry_leaves.json"
         ]
       }
     },
@@ -568,12 +568,12 @@
       "registry_name": "mulberry_button",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/block/mulberry_button.json",
-          "src/main/resources/assets/blockblitz/models/block/mulberry_button_pressed.json",
-          "src/main/java/net/mcreator/blockblitz/block/MulberryButtonBlock.java",
           "src/main/resources/assets/blockblitz/blockstates/mulberry_button.json",
-          "src/main/resources/assets/blockblitz/models/block/mulberry_button_inventory.json",
-          "src/main/resources/assets/blockblitz/models/item/mulberry_button.json"
+          "src/main/java/net/mcreator/blockblitz/block/MulberryButtonBlock.java",
+          "src/main/resources/assets/blockblitz/models/item/mulberry_button.json",
+          "src/main/resources/assets/blockblitz/models/block/mulberry_button_pressed.json",
+          "src/main/resources/assets/blockblitz/models/block/mulberry_button.json",
+          "src/main/resources/assets/blockblitz/models/block/mulberry_button_inventory.json"
         ]
       }
     },
@@ -588,8 +588,8 @@
         "files": [
           "src/main/java/net/mcreator/blockblitz/block/MulberryPressurePlateBlock.java",
           "src/main/resources/assets/blockblitz/models/block/mulberry_pressure_plate_down.json",
-          "src/main/resources/assets/blockblitz/models/item/mulberry_pressure_plate.json",
           "src/main/resources/assets/blockblitz/models/block/mulberry_pressure_plate.json",
+          "src/main/resources/assets/blockblitz/models/item/mulberry_pressure_plate.json",
           "src/main/resources/assets/blockblitz/blockstates/mulberry_pressure_plate.json"
         ]
       }
@@ -603,9 +603,9 @@
       "registry_name": "mulberry_bookshelf",
       "metadata": {
         "files": [
+          "src/main/resources/assets/blockblitz/models/block/mulberry_bookshelf.json",
           "src/main/java/net/mcreator/blockblitz/block/MulberryBookshelfBlock.java",
           "src/main/resources/assets/blockblitz/blockstates/mulberry_bookshelf.json",
-          "src/main/resources/assets/blockblitz/models/block/mulberry_bookshelf.json",
           "src/main/resources/assets/blockblitz/models/item/mulberry_bookshelf.json"
         ]
       }
@@ -619,12 +619,12 @@
       "registry_name": "mulberry_fence",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/item/mulberry_fence.json",
-          "src/main/java/net/mcreator/blockblitz/block/MulberryFenceBlock.java",
           "src/main/resources/assets/blockblitz/models/block/mulberry_fence.json",
-          "src/main/resources/assets/blockblitz/models/block/mulberry_fence_inventory.json",
+          "src/main/resources/assets/blockblitz/models/block/mulberry_fence_post.json",
           "src/main/resources/assets/blockblitz/blockstates/mulberry_fence.json",
-          "src/main/resources/assets/blockblitz/models/block/mulberry_fence_post.json"
+          "src/main/resources/assets/blockblitz/models/block/mulberry_fence_inventory.json",
+          "src/main/java/net/mcreator/blockblitz/block/MulberryFenceBlock.java",
+          "src/main/resources/assets/blockblitz/models/item/mulberry_fence.json"
         ]
       }
     },
@@ -637,13 +637,13 @@
       "registry_name": "mulberry_fence_gate",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/blockblitz/block/MulberryFenceGateBlock.java",
-          "src/main/resources/assets/blockblitz/models/block/mulberry_fence_gate_wall_open.json",
-          "src/main/resources/assets/blockblitz/models/block/mulberry_fence_gate_open.json",
-          "src/main/resources/assets/blockblitz/models/item/mulberry_fence_gate.json",
-          "src/main/resources/assets/blockblitz/blockstates/mulberry_fence_gate.json",
           "src/main/resources/assets/blockblitz/models/block/mulberry_fence_gate_wall.json",
-          "src/main/resources/assets/blockblitz/models/block/mulberry_fence_gate.json"
+          "src/main/resources/assets/blockblitz/models/item/mulberry_fence_gate.json",
+          "src/main/resources/assets/blockblitz/models/block/mulberry_fence_gate_wall_open.json",
+          "src/main/resources/assets/blockblitz/models/block/mulberry_fence_gate.json",
+          "src/main/java/net/mcreator/blockblitz/block/MulberryFenceGateBlock.java",
+          "src/main/resources/assets/blockblitz/blockstates/mulberry_fence_gate.json",
+          "src/main/resources/assets/blockblitz/models/block/mulberry_fence_gate_open.json"
         ]
       }
     },
@@ -656,12 +656,12 @@
       "registry_name": "mulberry_stairs",
       "metadata": {
         "files": [
+          "src/main/resources/assets/blockblitz/models/block/mulberry_stairs.json",
+          "src/main/java/net/mcreator/blockblitz/block/MulberryStairsBlock.java",
+          "src/main/resources/assets/blockblitz/models/block/mulberry_stairs_inner.json",
           "src/main/resources/assets/blockblitz/blockstates/mulberry_stairs.json",
           "src/main/resources/assets/blockblitz/models/block/mulberry_stairs_outer.json",
-          "src/main/resources/assets/blockblitz/models/item/mulberry_stairs.json",
-          "src/main/java/net/mcreator/blockblitz/block/MulberryStairsBlock.java",
-          "src/main/resources/assets/blockblitz/models/block/mulberry_stairs.json",
-          "src/main/resources/assets/blockblitz/models/block/mulberry_stairs_inner.json"
+          "src/main/resources/assets/blockblitz/models/item/mulberry_stairs.json"
         ]
       }
     },
@@ -676,10 +676,10 @@
         "files": [
           "src/main/resources/assets/blockblitz/models/block/mulberry_slab.json",
           "src/main/resources/assets/blockblitz/models/block/mulberry_slab_full.json",
-          "src/main/resources/assets/blockblitz/models/block/mulberry_slab_top.json",
           "src/main/resources/assets/blockblitz/blockstates/mulberry_slab.json",
-          "src/main/java/net/mcreator/blockblitz/block/MulberrySlabBlock.java",
-          "src/main/resources/assets/blockblitz/models/item/mulberry_slab.json"
+          "src/main/resources/assets/blockblitz/models/block/mulberry_slab_top.json",
+          "src/main/resources/assets/blockblitz/models/item/mulberry_slab.json",
+          "src/main/java/net/mcreator/blockblitz/block/MulberrySlabBlock.java"
         ]
       }
     },
@@ -692,9 +692,9 @@
       "registry_name": "mulberry_forest",
       "metadata": {
         "files": [
+          "src/main/resources/data/blockblitz/worldgen/placed_feature/mulberry_forest_tree.json",
           "src/main/resources/data/blockblitz/worldgen/configured_feature/mulberry_forest_tree.json",
-          "src/main/resources/data/blockblitz/worldgen/biome/mulberry_forest.json",
-          "src/main/resources/data/blockblitz/worldgen/placed_feature/mulberry_forest_tree.json"
+          "src/main/resources/data/blockblitz/worldgen/biome/mulberry_forest.json"
         ]
       }
     },
@@ -763,8 +763,8 @@
       "registry_name": "copper_shovel",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/item/copper_shovel.json",
-          "src/main/java/net/mcreator/blockblitz/item/CopperShovelItem.java"
+          "src/main/java/net/mcreator/blockblitz/item/CopperShovelItem.java",
+          "src/main/resources/assets/blockblitz/models/item/copper_shovel.json"
         ]
       }
     },
@@ -777,8 +777,8 @@
       "registry_name": "amethyst_pickaxe",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/item/amethyst_pickaxe.json",
-          "src/main/java/net/mcreator/blockblitz/item/AmethystPickaxeItem.java"
+          "src/main/java/net/mcreator/blockblitz/item/AmethystPickaxeItem.java",
+          "src/main/resources/assets/blockblitz/models/item/amethyst_pickaxe.json"
         ]
       }
     },
@@ -805,8 +805,8 @@
       "registry_name": "amethyst_shovel",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/item/amethyst_shovel.json",
-          "src/main/java/net/mcreator/blockblitz/item/AmethystShovelItem.java"
+          "src/main/java/net/mcreator/blockblitz/item/AmethystShovelItem.java",
+          "src/main/resources/assets/blockblitz/models/item/amethyst_shovel.json"
         ]
       }
     },
@@ -847,14 +847,14 @@
       "registry_name": "quartz_ore",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/item/quartz_ore.json",
-          "src/main/resources/data/blockblitz/worldgen/configured_feature/quartz_ore.json",
-          "src/main/resources/assets/blockblitz/blockstates/quartz_ore.json",
-          "src/main/java/net/mcreator/blockblitz/world/features/ores/QuartzOreFeature.java",
           "src/main/resources/data/blockblitz/forge/biome_modifier/quartz_ore_biome_modifier.json",
-          "src/main/resources/data/blockblitz/worldgen/placed_feature/quartz_ore.json",
+          "src/main/resources/assets/blockblitz/models/item/quartz_ore.json",
           "src/main/java/net/mcreator/blockblitz/block/QuartzOreBlock.java",
-          "src/main/resources/assets/blockblitz/models/block/quartz_ore.json"
+          "src/main/java/net/mcreator/blockblitz/world/features/ores/QuartzOreFeature.java",
+          "src/main/resources/assets/blockblitz/blockstates/quartz_ore.json",
+          "src/main/resources/assets/blockblitz/models/block/quartz_ore.json",
+          "src/main/resources/data/blockblitz/worldgen/configured_feature/quartz_ore.json",
+          "src/main/resources/data/blockblitz/worldgen/placed_feature/quartz_ore.json"
         ]
       }
     },
@@ -867,14 +867,14 @@
       "registry_name": "deepslate_quartz_ore",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/blockblitz/block/DeepslateQuartzOreBlock.java",
-          "src/main/resources/assets/blockblitz/models/item/deepslate_quartz_ore.json",
-          "src/main/resources/data/blockblitz/worldgen/placed_feature/deepslate_quartz_ore.json",
           "src/main/java/net/mcreator/blockblitz/world/features/ores/DeepslateQuartzOreFeature.java",
-          "src/main/resources/data/blockblitz/forge/biome_modifier/deepslate_quartz_ore_biome_modifier.json",
+          "src/main/resources/data/blockblitz/worldgen/placed_feature/deepslate_quartz_ore.json",
+          "src/main/resources/assets/blockblitz/models/item/deepslate_quartz_ore.json",
+          "src/main/resources/data/blockblitz/worldgen/configured_feature/deepslate_quartz_ore.json",
           "src/main/resources/assets/blockblitz/models/block/deepslate_quartz_ore.json",
+          "src/main/resources/data/blockblitz/forge/biome_modifier/deepslate_quartz_ore_biome_modifier.json",
           "src/main/resources/assets/blockblitz/blockstates/deepslate_quartz_ore.json",
-          "src/main/resources/data/blockblitz/worldgen/configured_feature/deepslate_quartz_ore.json"
+          "src/main/java/net/mcreator/blockblitz/block/DeepslateQuartzOreBlock.java"
         ]
       }
     },
@@ -887,10 +887,10 @@
       "registry_name": "tumbleweed",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/blockstates/tumbleweed.json",
-          "src/main/resources/assets/blockblitz/models/item/tumbleweed.json",
           "src/main/java/net/mcreator/blockblitz/block/TumbleweedBlock.java",
-          "src/main/resources/assets/blockblitz/models/block/tumbleweed.json"
+          "src/main/resources/assets/blockblitz/blockstates/tumbleweed.json",
+          "src/main/resources/assets/blockblitz/models/block/tumbleweed.json",
+          "src/main/resources/assets/blockblitz/models/item/tumbleweed.json"
         ]
       }
     },
@@ -903,10 +903,10 @@
       "registry_name": "acacia_bookshelf",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/blockstates/acacia_bookshelf.json",
           "src/main/java/net/mcreator/blockblitz/block/AcaciaBookshelfBlock.java",
-          "src/main/resources/assets/blockblitz/models/block/acacia_bookshelf.json",
-          "src/main/resources/assets/blockblitz/models/item/acacia_bookshelf.json"
+          "src/main/resources/assets/blockblitz/models/item/acacia_bookshelf.json",
+          "src/main/resources/assets/blockblitz/blockstates/acacia_bookshelf.json",
+          "src/main/resources/assets/blockblitz/models/block/acacia_bookshelf.json"
         ]
       }
     },
@@ -921,8 +921,8 @@
         "files": [
           "src/main/resources/assets/blockblitz/models/item/birch_bookshelf.json",
           "src/main/resources/assets/blockblitz/models/block/birch_bookshelf.json",
-          "src/main/resources/assets/blockblitz/blockstates/birch_bookshelf.json",
-          "src/main/java/net/mcreator/blockblitz/block/BirchBookshelfBlock.java"
+          "src/main/java/net/mcreator/blockblitz/block/BirchBookshelfBlock.java",
+          "src/main/resources/assets/blockblitz/blockstates/birch_bookshelf.json"
         ]
       }
     },
@@ -936,9 +936,9 @@
       "metadata": {
         "files": [
           "src/main/java/net/mcreator/blockblitz/block/BambooBookshelfBlock.java",
+          "src/main/resources/assets/blockblitz/blockstates/bamboo_bookshelf.json",
           "src/main/resources/assets/blockblitz/models/block/bamboo_bookshelf.json",
-          "src/main/resources/assets/blockblitz/models/item/bamboo_bookshelf.json",
-          "src/main/resources/assets/blockblitz/blockstates/bamboo_bookshelf.json"
+          "src/main/resources/assets/blockblitz/models/item/bamboo_bookshelf.json"
         ]
       }
     },
@@ -969,8 +969,8 @@
         "files": [
           "src/main/resources/assets/blockblitz/models/item/crimson_bookshelf.json",
           "src/main/resources/assets/blockblitz/models/block/crimson_bookshelf.json",
-          "src/main/resources/assets/blockblitz/blockstates/crimson_bookshelf.json",
-          "src/main/java/net/mcreator/blockblitz/block/CrimsonBookshelfBlock.java"
+          "src/main/java/net/mcreator/blockblitz/block/CrimsonBookshelfBlock.java",
+          "src/main/resources/assets/blockblitz/blockstates/crimson_bookshelf.json"
         ]
       }
     },
@@ -983,10 +983,10 @@
       "registry_name": "dark_oak_bookshelf",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/blockstates/dark_oak_bookshelf.json",
-          "src/main/java/net/mcreator/blockblitz/block/DarkOakBookshelfBlock.java",
           "src/main/resources/assets/blockblitz/models/block/dark_oak_bookshelf.json",
-          "src/main/resources/assets/blockblitz/models/item/dark_oak_bookshelf.json"
+          "src/main/resources/assets/blockblitz/models/item/dark_oak_bookshelf.json",
+          "src/main/java/net/mcreator/blockblitz/block/DarkOakBookshelfBlock.java",
+          "src/main/resources/assets/blockblitz/blockstates/dark_oak_bookshelf.json"
         ]
       }
     },
@@ -999,10 +999,10 @@
       "registry_name": "jungle_bookshelf",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/block/jungle_bookshelf.json",
-          "src/main/java/net/mcreator/blockblitz/block/JungleBookshelfBlock.java",
+          "src/main/resources/assets/blockblitz/blockstates/jungle_bookshelf.json",
           "src/main/resources/assets/blockblitz/models/item/jungle_bookshelf.json",
-          "src/main/resources/assets/blockblitz/blockstates/jungle_bookshelf.json"
+          "src/main/resources/assets/blockblitz/models/block/jungle_bookshelf.json",
+          "src/main/java/net/mcreator/blockblitz/block/JungleBookshelfBlock.java"
         ]
       }
     },
@@ -1015,9 +1015,9 @@
       "registry_name": "mangrove_bookshelf",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/block/mangrove_bookshelf.json",
-          "src/main/resources/assets/blockblitz/models/item/mangrove_bookshelf.json",
           "src/main/java/net/mcreator/blockblitz/block/MangroveBookshelfBlock.java",
+          "src/main/resources/assets/blockblitz/models/item/mangrove_bookshelf.json",
+          "src/main/resources/assets/blockblitz/models/block/mangrove_bookshelf.json",
           "src/main/resources/assets/blockblitz/blockstates/mangrove_bookshelf.json"
         ]
       }
@@ -1032,9 +1032,9 @@
       "metadata": {
         "files": [
           "src/main/java/net/mcreator/blockblitz/block/SpruceBookshelfBlock.java",
-          "src/main/resources/assets/blockblitz/models/block/spruce_bookshelf.json",
+          "src/main/resources/assets/blockblitz/models/item/spruce_bookshelf.json",
           "src/main/resources/assets/blockblitz/blockstates/spruce_bookshelf.json",
-          "src/main/resources/assets/blockblitz/models/item/spruce_bookshelf.json"
+          "src/main/resources/assets/blockblitz/models/block/spruce_bookshelf.json"
         ]
       }
     },
@@ -1077,13 +1077,13 @@
       "metadata": {
         "files": [
           "src/main/resources/data/blockblitz/worldgen/configured_feature/oil_ore.json",
+          "src/main/resources/assets/blockblitz/models/block/oil_ore.json",
+          "src/main/resources/assets/blockblitz/blockstates/oil_ore.json",
+          "src/main/resources/data/blockblitz/worldgen/placed_feature/oil_ore.json",
           "src/main/resources/assets/blockblitz/models/item/oil_ore.json",
           "src/main/java/net/mcreator/blockblitz/world/features/ores/OilOreFeature.java",
-          "src/main/resources/assets/blockblitz/models/block/oil_ore.json",
           "src/main/java/net/mcreator/blockblitz/block/OilOreBlock.java",
-          "src/main/resources/data/blockblitz/forge/biome_modifier/oil_ore_biome_modifier.json",
-          "src/main/resources/data/blockblitz/worldgen/placed_feature/oil_ore.json",
-          "src/main/resources/assets/blockblitz/blockstates/oil_ore.json"
+          "src/main/resources/data/blockblitz/forge/biome_modifier/oil_ore_biome_modifier.json"
         ]
       }
     },
@@ -1096,8 +1096,8 @@
       "registry_name": "oil",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/blockblitz/item/OilItem.java",
-          "src/main/resources/assets/blockblitz/models/item/oil.json"
+          "src/main/resources/assets/blockblitz/models/item/oil.json",
+          "src/main/java/net/mcreator/blockblitz/item/OilItem.java"
         ]
       }
     },
@@ -1110,9 +1110,9 @@
       "registry_name": "oil_block",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/blockstates/oil_block.json",
-          "src/main/resources/assets/blockblitz/models/block/oil_block.json",
           "src/main/resources/assets/blockblitz/models/item/oil_block.json",
+          "src/main/resources/assets/blockblitz/models/block/oil_block.json",
+          "src/main/resources/assets/blockblitz/blockstates/oil_block.json",
           "src/main/java/net/mcreator/blockblitz/block/BlockOfOilBlock.java"
         ]
       }
@@ -1161,10 +1161,10 @@
       "registry_name": "tumbleweed_mess",
       "metadata": {
         "files": [
-          "src/main/resources/data/blockblitz/forge/biome_modifier/tumbleweed_mess_biome_modifier.json",
-          "src/main/resources/data/blockblitz/worldgen/configured_feature/tumbleweed_mess.json",
           "src/main/java/net/mcreator/blockblitz/world/features/TumbleweedMessFeature.java",
-          "src/main/resources/data/blockblitz/worldgen/placed_feature/tumbleweed_mess.json"
+          "src/main/resources/data/blockblitz/worldgen/placed_feature/tumbleweed_mess.json",
+          "src/main/resources/data/blockblitz/forge/biome_modifier/tumbleweed_mess_biome_modifier.json",
+          "src/main/resources/data/blockblitz/worldgen/configured_feature/tumbleweed_mess.json"
         ]
       }
     },
@@ -1190,13 +1190,13 @@
       "registry_name": "cotton_plant",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/block/cotton_plant.json",
-          "src/main/resources/data/blockblitz/worldgen/configured_feature/cotton_plant.json",
-          "src/main/resources/assets/blockblitz/blockstates/cotton_plant.json",
-          "src/main/resources/data/blockblitz/worldgen/placed_feature/cotton_plant.json",
           "src/main/java/net/mcreator/blockblitz/world/features/plants/CottonPlantFeature.java",
-          "src/main/resources/data/blockblitz/forge/biome_modifier/cotton_plant_biome_modifier.json",
+          "src/main/resources/assets/blockblitz/models/block/cotton_plant.json",
+          "src/main/resources/assets/blockblitz/blockstates/cotton_plant.json",
           "src/main/java/net/mcreator/blockblitz/block/CottonPlantBlock.java",
+          "src/main/resources/data/blockblitz/forge/biome_modifier/cotton_plant_biome_modifier.json",
+          "src/main/resources/data/blockblitz/worldgen/placed_feature/cotton_plant.json",
+          "src/main/resources/data/blockblitz/worldgen/configured_feature/cotton_plant.json",
           "src/main/resources/assets/blockblitz/models/item/cotton_plant.json"
         ]
       }
@@ -1211,8 +1211,8 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/blockblitz/models/item/denim_block.json",
-          "src/main/java/net/mcreator/blockblitz/block/DenimBlockBlock.java",
           "src/main/resources/assets/blockblitz/models/block/denim_block.json",
+          "src/main/java/net/mcreator/blockblitz/block/DenimBlockBlock.java",
           "src/main/resources/assets/blockblitz/blockstates/denim_block.json"
         ]
       }
@@ -1227,8 +1227,8 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/blockblitz/models/item/cotton_block.json",
-          "src/main/resources/assets/blockblitz/models/block/cotton_block.json",
           "src/main/resources/assets/blockblitz/blockstates/cotton_block.json",
+          "src/main/resources/assets/blockblitz/models/block/cotton_block.json",
           "src/main/java/net/mcreator/blockblitz/block/CottonBlockBlock.java"
         ]
       }
@@ -1399,9 +1399,9 @@
       "metadata": {
         "files": [
           "src/main/resources/data/blockblitz/forge/biome_modifier/frequent_tumbles_biome_modifier.json",
-          "src/main/resources/data/blockblitz/worldgen/configured_feature/frequent_tumbles.json",
+          "src/main/resources/data/blockblitz/worldgen/placed_feature/frequent_tumbles.json",
           "src/main/java/net/mcreator/blockblitz/world/features/FrequentTumblesFeature.java",
-          "src/main/resources/data/blockblitz/worldgen/placed_feature/frequent_tumbles.json"
+          "src/main/resources/data/blockblitz/worldgen/configured_feature/frequent_tumbles.json"
         ]
       }
     },
@@ -1466,14 +1466,14 @@
       "registry_name": "tungsten_ore",
       "metadata": {
         "files": [
-          "src/main/resources/data/blockblitz/worldgen/placed_feature/tungsten_ore.json",
-          "src/main/java/net/mcreator/blockblitz/block/TungstenOreBlock.java",
-          "src/main/resources/assets/blockblitz/blockstates/tungsten_ore.json",
           "src/main/resources/assets/blockblitz/models/block/tungsten_ore.json",
-          "src/main/java/net/mcreator/blockblitz/world/features/ores/TungstenOreFeature.java",
-          "src/main/resources/data/blockblitz/worldgen/configured_feature/tungsten_ore.json",
+          "src/main/java/net/mcreator/blockblitz/block/TungstenOreBlock.java",
           "src/main/resources/data/blockblitz/forge/biome_modifier/tungsten_ore_biome_modifier.json",
-          "src/main/resources/assets/blockblitz/models/item/tungsten_ore.json"
+          "src/main/resources/assets/blockblitz/models/item/tungsten_ore.json",
+          "src/main/java/net/mcreator/blockblitz/world/features/ores/TungstenOreFeature.java",
+          "src/main/resources/data/blockblitz/worldgen/placed_feature/tungsten_ore.json",
+          "src/main/resources/assets/blockblitz/blockstates/tungsten_ore.json",
+          "src/main/resources/data/blockblitz/worldgen/configured_feature/tungsten_ore.json"
         ]
       }
     },
@@ -1486,9 +1486,9 @@
       "registry_name": "deepslate_tungsten_ore",
       "metadata": {
         "files": [
+          "src/main/resources/assets/blockblitz/blockstates/deepslate_tungsten_ore.json",
           "src/main/resources/assets/blockblitz/models/block/deepslate_tungsten_ore.json",
           "src/main/java/net/mcreator/blockblitz/block/DeepslateTungstenOreBlock.java",
-          "src/main/resources/assets/blockblitz/blockstates/deepslate_tungsten_ore.json",
           "src/main/resources/assets/blockblitz/models/item/deepslate_tungsten_ore.json"
         ]
       }
@@ -1502,8 +1502,8 @@
       "registry_name": "raw_tungsten",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/blockblitz/item/RawTungstenItem.java",
-          "src/main/resources/assets/blockblitz/models/item/raw_tungsten.json"
+          "src/main/resources/assets/blockblitz/models/item/raw_tungsten.json",
+          "src/main/java/net/mcreator/blockblitz/item/RawTungstenItem.java"
         ]
       }
     },
@@ -1516,8 +1516,8 @@
       "registry_name": "tungsten_ingot",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/item/tungsten_ingot.json",
-          "src/main/java/net/mcreator/blockblitz/item/TungstenIngotItem.java"
+          "src/main/java/net/mcreator/blockblitz/item/TungstenIngotItem.java",
+          "src/main/resources/assets/blockblitz/models/item/tungsten_ingot.json"
         ]
       }
     },
@@ -1543,10 +1543,10 @@
       "registry_name": "block_of_tungsten",
       "metadata": {
         "files": [
+          "src/main/java/net/mcreator/blockblitz/block/BlockOfTungstenBlock.java",
           "src/main/resources/assets/blockblitz/models/item/block_of_tungsten.json",
-          "src/main/resources/assets/blockblitz/models/block/block_of_tungsten.json",
           "src/main/resources/assets/blockblitz/blockstates/block_of_tungsten.json",
-          "src/main/java/net/mcreator/blockblitz/block/BlockOfTungstenBlock.java"
+          "src/main/resources/assets/blockblitz/models/block/block_of_tungsten.json"
         ]
       }
     },
@@ -1585,10 +1585,10 @@
       "registry_name": "block_of_steel",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/block/block_of_steel.json",
-          "src/main/java/net/mcreator/blockblitz/block/BlockOfSteelBlock.java",
           "src/main/resources/assets/blockblitz/models/item/block_of_steel.json",
-          "src/main/resources/assets/blockblitz/blockstates/block_of_steel.json"
+          "src/main/resources/assets/blockblitz/blockstates/block_of_steel.json",
+          "src/main/java/net/mcreator/blockblitz/block/BlockOfSteelBlock.java",
+          "src/main/resources/assets/blockblitz/models/block/block_of_steel.json"
         ]
       }
     },
@@ -1627,9 +1627,9 @@
       "registry_name": "aerogel_block",
       "metadata": {
         "files": [
+          "src/main/resources/assets/blockblitz/blockstates/aerogel_block.json",
           "src/main/resources/assets/blockblitz/models/item/aerogel_block.json",
           "src/main/java/net/mcreator/blockblitz/block/AerogelBlockBlock.java",
-          "src/main/resources/assets/blockblitz/blockstates/aerogel_block.json",
           "src/main/resources/assets/blockblitz/models/block/aerogel_block.json"
         ]
       }
@@ -1643,8 +1643,8 @@
       "registry_name": "silica",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/item/silica.json",
-          "src/main/java/net/mcreator/blockblitz/item/SilicaItem.java"
+          "src/main/java/net/mcreator/blockblitz/item/SilicaItem.java",
+          "src/main/resources/assets/blockblitz/models/item/silica.json"
         ]
       }
     },
@@ -1710,8 +1710,8 @@
       "registry_name": "raw_niobium",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/blockblitz/item/RawNiobiumItem.java",
-          "src/main/resources/assets/blockblitz/models/item/raw_niobium.json"
+          "src/main/resources/assets/blockblitz/models/item/raw_niobium.json",
+          "src/main/java/net/mcreator/blockblitz/item/RawNiobiumItem.java"
         ]
       }
     },
@@ -1726,12 +1726,12 @@
         "files": [
           "src/main/resources/data/blockblitz/forge/biome_modifier/niobium_ore_biome_modifier.json",
           "src/main/java/net/mcreator/blockblitz/world/features/ores/NiobiumOreFeature.java",
-          "src/main/resources/assets/blockblitz/models/item/niobium_ore.json",
-          "src/main/resources/data/blockblitz/worldgen/configured_feature/niobium_ore.json",
-          "src/main/resources/assets/blockblitz/models/block/niobium_ore.json",
           "src/main/resources/assets/blockblitz/blockstates/niobium_ore.json",
+          "src/main/resources/assets/blockblitz/models/item/niobium_ore.json",
+          "src/main/resources/assets/blockblitz/models/block/niobium_ore.json",
           "src/main/java/net/mcreator/blockblitz/block/NiobiumOreBlock.java",
-          "src/main/resources/data/blockblitz/worldgen/placed_feature/niobium_ore.json"
+          "src/main/resources/data/blockblitz/worldgen/placed_feature/niobium_ore.json",
+          "src/main/resources/data/blockblitz/worldgen/configured_feature/niobium_ore.json"
         ]
       }
     },
@@ -1744,14 +1744,14 @@
       "registry_name": "niobium_deepslate_ore",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/item/niobium_deepslate_ore.json",
-          "src/main/resources/assets/blockblitz/models/block/niobium_deepslate_ore.json",
-          "src/main/resources/data/blockblitz/forge/biome_modifier/niobium_deepslate_ore_biome_modifier.json",
-          "src/main/java/net/mcreator/blockblitz/block/NiobiumDeepslateOreBlock.java",
           "src/main/resources/data/blockblitz/worldgen/placed_feature/niobium_deepslate_ore.json",
+          "src/main/resources/assets/blockblitz/blockstates/niobium_deepslate_ore.json",
+          "src/main/java/net/mcreator/blockblitz/block/NiobiumDeepslateOreBlock.java",
+          "src/main/resources/assets/blockblitz/models/item/niobium_deepslate_ore.json",
           "src/main/java/net/mcreator/blockblitz/world/features/ores/NiobiumDeepslateOreFeature.java",
           "src/main/resources/data/blockblitz/worldgen/configured_feature/niobium_deepslate_ore.json",
-          "src/main/resources/assets/blockblitz/blockstates/niobium_deepslate_ore.json"
+          "src/main/resources/assets/blockblitz/models/block/niobium_deepslate_ore.json",
+          "src/main/resources/data/blockblitz/forge/biome_modifier/niobium_deepslate_ore_biome_modifier.json"
         ]
       }
     },
@@ -1778,8 +1778,8 @@
       "registry_name": "block_of_niobium",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/blockblitz/block/BlockOfNiobiumBlock.java",
           "src/main/resources/assets/blockblitz/models/item/block_of_niobium.json",
+          "src/main/java/net/mcreator/blockblitz/block/BlockOfNiobiumBlock.java",
           "src/main/resources/assets/blockblitz/blockstates/block_of_niobium.json",
           "src/main/resources/assets/blockblitz/models/block/block_of_niobium.json"
         ]
@@ -1820,8 +1820,8 @@
       "registry_name": "oshi_hit_track",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/item/oshi_hit_track.json",
-          "src/main/java/net/mcreator/blockblitz/item/OshiHitTrackItem.java"
+          "src/main/java/net/mcreator/blockblitz/item/OshiHitTrackItem.java",
+          "src/main/resources/assets/blockblitz/models/item/oshi_hit_track.json"
         ]
       }
     },
@@ -1834,14 +1834,14 @@
       "registry_name": "chrome_ore",
       "metadata": {
         "files": [
-          "src/main/resources/data/blockblitz/forge/biome_modifier/chrome_ore_biome_modifier.json",
-          "src/main/resources/assets/blockblitz/models/block/chrome_ore.json",
-          "src/main/java/net/mcreator/blockblitz/block/ChromeOreBlock.java",
-          "src/main/java/net/mcreator/blockblitz/world/features/ores/ChromeOreFeature.java",
-          "src/main/resources/data/blockblitz/worldgen/configured_feature/chrome_ore.json",
           "src/main/resources/assets/blockblitz/models/item/chrome_ore.json",
-          "src/main/resources/data/blockblitz/worldgen/placed_feature/chrome_ore.json",
-          "src/main/resources/assets/blockblitz/blockstates/chrome_ore.json"
+          "src/main/resources/data/blockblitz/forge/biome_modifier/chrome_ore_biome_modifier.json",
+          "src/main/java/net/mcreator/blockblitz/block/ChromeOreBlock.java",
+          "src/main/resources/data/blockblitz/worldgen/configured_feature/chrome_ore.json",
+          "src/main/resources/assets/blockblitz/blockstates/chrome_ore.json",
+          "src/main/resources/assets/blockblitz/models/block/chrome_ore.json",
+          "src/main/java/net/mcreator/blockblitz/world/features/ores/ChromeOreFeature.java",
+          "src/main/resources/data/blockblitz/worldgen/placed_feature/chrome_ore.json"
         ]
       }
     },
@@ -1854,14 +1854,14 @@
       "registry_name": "chrome_deepslate_ore",
       "metadata": {
         "files": [
-          "src/main/resources/data/blockblitz/worldgen/configured_feature/chrome_deepslate_ore.json",
+          "src/main/resources/data/blockblitz/forge/biome_modifier/chrome_deepslate_ore_biome_modifier.json",
+          "src/main/java/net/mcreator/blockblitz/block/ChromeDeepslateOreBlock.java",
           "src/main/resources/assets/blockblitz/models/block/chrome_deepslate_ore.json",
           "src/main/java/net/mcreator/blockblitz/world/features/ores/ChromeDeepslateOreFeature.java",
-          "src/main/resources/data/blockblitz/worldgen/placed_feature/chrome_deepslate_ore.json",
-          "src/main/resources/assets/blockblitz/models/item/chrome_deepslate_ore.json",
-          "src/main/java/net/mcreator/blockblitz/block/ChromeDeepslateOreBlock.java",
+          "src/main/resources/data/blockblitz/worldgen/configured_feature/chrome_deepslate_ore.json",
           "src/main/resources/assets/blockblitz/blockstates/chrome_deepslate_ore.json",
-          "src/main/resources/data/blockblitz/forge/biome_modifier/chrome_deepslate_ore_biome_modifier.json"
+          "src/main/resources/assets/blockblitz/models/item/chrome_deepslate_ore.json",
+          "src/main/resources/data/blockblitz/worldgen/placed_feature/chrome_deepslate_ore.json"
         ]
       }
     },
@@ -1874,8 +1874,8 @@
       "registry_name": "raw_chrome",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/item/raw_chrome.json",
-          "src/main/java/net/mcreator/blockblitz/item/RawChromeItem.java"
+          "src/main/java/net/mcreator/blockblitz/item/RawChromeItem.java",
+          "src/main/resources/assets/blockblitz/models/item/raw_chrome.json"
         ]
       }
     },
@@ -1888,8 +1888,8 @@
       "registry_name": "chrome_ingot",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/item/chrome_ingot.json",
-          "src/main/java/net/mcreator/blockblitz/item/ChromeIngotItem.java"
+          "src/main/java/net/mcreator/blockblitz/item/ChromeIngotItem.java",
+          "src/main/resources/assets/blockblitz/models/item/chrome_ingot.json"
         ]
       }
     },
@@ -1915,10 +1915,10 @@
       "registry_name": "block_of_chrome",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/block/block_of_chrome.json",
-          "src/main/java/net/mcreator/blockblitz/block/BlockOfChromeBlock.java",
+          "src/main/resources/assets/blockblitz/blockstates/block_of_chrome.json",
           "src/main/resources/assets/blockblitz/models/item/block_of_chrome.json",
-          "src/main/resources/assets/blockblitz/blockstates/block_of_chrome.json"
+          "src/main/resources/assets/blockblitz/models/block/block_of_chrome.json",
+          "src/main/java/net/mcreator/blockblitz/block/BlockOfChromeBlock.java"
         ]
       }
     },
@@ -1957,9 +1957,9 @@
       "registry_name": "apple_wood",
       "metadata": {
         "files": [
+          "src/main/resources/assets/blockblitz/blockstates/apple_wood.json",
           "src/main/resources/assets/blockblitz/models/block/apple_wood.json",
           "src/main/resources/assets/blockblitz/models/item/apple_wood.json",
-          "src/main/resources/assets/blockblitz/blockstates/apple_wood.json",
           "src/main/java/net/mcreator/blockblitz/block/AppleWoodBlock.java"
         ]
       }
@@ -1974,8 +1974,8 @@
       "metadata": {
         "files": [
           "src/main/java/net/mcreator/blockblitz/block/MapleWoodBlock.java",
-          "src/main/resources/assets/blockblitz/models/block/maple_wood.json",
           "src/main/resources/assets/blockblitz/models/item/maple_wood.json",
+          "src/main/resources/assets/blockblitz/models/block/maple_wood.json",
           "src/main/resources/assets/blockblitz/blockstates/maple_wood.json"
         ]
       }
@@ -1989,10 +1989,10 @@
       "registry_name": "mulberry_wood",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/blockstates/mulberry_wood.json",
+          "src/main/java/net/mcreator/blockblitz/block/MulberryWoodBlock.java",
           "src/main/resources/assets/blockblitz/models/item/mulberry_wood.json",
-          "src/main/resources/assets/blockblitz/models/block/mulberry_wood.json",
-          "src/main/java/net/mcreator/blockblitz/block/MulberryWoodBlock.java"
+          "src/main/resources/assets/blockblitz/blockstates/mulberry_wood.json",
+          "src/main/resources/assets/blockblitz/models/block/mulberry_wood.json"
         ]
       }
     },
@@ -2046,9 +2046,9 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/blockblitz/models/item/block_of_anodized_steel.json",
-          "src/main/java/net/mcreator/blockblitz/block/BlockOfAnodizedSteelBlock.java",
+          "src/main/resources/assets/blockblitz/blockstates/block_of_anodized_steel.json",
           "src/main/resources/assets/blockblitz/models/block/block_of_anodized_steel.json",
-          "src/main/resources/assets/blockblitz/blockstates/block_of_anodized_steel.json"
+          "src/main/java/net/mcreator/blockblitz/block/BlockOfAnodizedSteelBlock.java"
         ]
       }
     },
@@ -2061,8 +2061,8 @@
       "registry_name": "anodized_steel_ingot",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/blockblitz/item/AnodizedSteelIngotItem.java",
-          "src/main/resources/assets/blockblitz/models/item/anodized_steel_ingot.json"
+          "src/main/resources/assets/blockblitz/models/item/anodized_steel_ingot.json",
+          "src/main/java/net/mcreator/blockblitz/item/AnodizedSteelIngotItem.java"
         ]
       }
     },
@@ -2088,8 +2088,8 @@
       "registry_name": "iron_grate",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/item/iron_grate.json",
           "src/main/resources/assets/blockblitz/models/block/iron_grate.json",
+          "src/main/resources/assets/blockblitz/models/item/iron_grate.json",
           "src/main/java/net/mcreator/blockblitz/block/IronGrateBlock.java",
           "src/main/resources/assets/blockblitz/blockstates/iron_grate.json"
         ]
@@ -2282,11 +2282,11 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/blockblitz/blockstates/calcite_stairs.json",
-          "src/main/resources/assets/blockblitz/models/block/calcite_stairs.json",
-          "src/main/resources/assets/blockblitz/models/block/calcite_stairs_outer.json",
           "src/main/java/net/mcreator/blockblitz/block/CalciteStairsBlock.java",
+          "src/main/resources/assets/blockblitz/models/block/calcite_stairs_outer.json",
           "src/main/resources/assets/blockblitz/models/item/calcite_stairs.json",
-          "src/main/resources/assets/blockblitz/models/block/calcite_stairs_inner.json"
+          "src/main/resources/assets/blockblitz/models/block/calcite_stairs_inner.json",
+          "src/main/resources/assets/blockblitz/models/block/calcite_stairs.json"
         ]
       }
     },
@@ -2299,11 +2299,11 @@
       "registry_name": "calcite_slab",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/item/calcite_slab.json",
           "src/main/resources/assets/blockblitz/models/block/calcite_slab.json",
+          "src/main/resources/assets/blockblitz/models/block/calcite_slab_full.json",
           "src/main/resources/assets/blockblitz/models/block/calcite_slab_top.json",
           "src/main/java/net/mcreator/blockblitz/block/CalciteSlabBlock.java",
-          "src/main/resources/assets/blockblitz/models/block/calcite_slab_full.json",
+          "src/main/resources/assets/blockblitz/models/item/calcite_slab.json",
           "src/main/resources/assets/blockblitz/blockstates/calcite_slab.json"
         ]
       }
@@ -2317,13 +2317,13 @@
       "registry_name": "calcite_wall",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/blockstates/calcite_wall.json",
-          "src/main/resources/assets/blockblitz/models/block/calcite_wall_side_tall.json",
-          "src/main/resources/assets/blockblitz/models/block/calcite_wall_inventory.json",
+          "src/main/resources/assets/blockblitz/models/block/calcite_wall_post.json",
           "src/main/java/net/mcreator/blockblitz/block/CalciteWallBlock.java",
           "src/main/resources/assets/blockblitz/models/item/calcite_wall.json",
-          "src/main/resources/assets/blockblitz/models/block/calcite_wall_post.json",
-          "src/main/resources/assets/blockblitz/models/block/calcite_wall.json"
+          "src/main/resources/assets/blockblitz/models/block/calcite_wall_side_tall.json",
+          "src/main/resources/assets/blockblitz/models/block/calcite_wall_inventory.json",
+          "src/main/resources/assets/blockblitz/models/block/calcite_wall.json",
+          "src/main/resources/assets/blockblitz/blockstates/calcite_wall.json"
         ]
       }
     },
@@ -2336,10 +2336,10 @@
       "registry_name": "calcite_bricks",
       "metadata": {
         "files": [
+          "src/main/resources/assets/blockblitz/models/block/calcite_bricks.json",
           "src/main/java/net/mcreator/blockblitz/block/CalciteBricksBlock.java",
-          "src/main/resources/assets/blockblitz/blockstates/calcite_bricks.json",
           "src/main/resources/assets/blockblitz/models/item/calcite_bricks.json",
-          "src/main/resources/assets/blockblitz/models/block/calcite_bricks.json"
+          "src/main/resources/assets/blockblitz/blockstates/calcite_bricks.json"
         ]
       }
     },
@@ -2352,12 +2352,12 @@
       "registry_name": "calcite_brick_stairs",
       "metadata": {
         "files": [
+          "src/main/java/net/mcreator/blockblitz/block/CalciteBrickStairsBlock.java",
           "src/main/resources/assets/blockblitz/models/block/calcite_brick_stairs_outer.json",
-          "src/main/resources/assets/blockblitz/blockstates/calcite_brick_stairs.json",
           "src/main/resources/assets/blockblitz/models/block/calcite_brick_stairs_inner.json",
-          "src/main/resources/assets/blockblitz/models/block/calcite_brick_stairs.json",
+          "src/main/resources/assets/blockblitz/blockstates/calcite_brick_stairs.json",
           "src/main/resources/assets/blockblitz/models/item/calcite_brick_stairs.json",
-          "src/main/java/net/mcreator/blockblitz/block/CalciteBrickStairsBlock.java"
+          "src/main/resources/assets/blockblitz/models/block/calcite_brick_stairs.json"
         ]
       }
     },
@@ -2371,11 +2371,11 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/blockblitz/models/block/calcite_brick_slab_top.json",
+          "src/main/resources/assets/blockblitz/blockstates/calcite_brick_slab.json",
+          "src/main/resources/assets/blockblitz/models/block/calcite_brick_slab.json",
           "src/main/java/net/mcreator/blockblitz/block/CalciteBrickSlabBlock.java",
           "src/main/resources/assets/blockblitz/models/item/calcite_brick_slab.json",
-          "src/main/resources/assets/blockblitz/models/block/calcite_brick_slab_full.json",
-          "src/main/resources/assets/blockblitz/blockstates/calcite_brick_slab.json",
-          "src/main/resources/assets/blockblitz/models/block/calcite_brick_slab.json"
+          "src/main/resources/assets/blockblitz/models/block/calcite_brick_slab_full.json"
         ]
       }
     },
@@ -2388,12 +2388,12 @@
       "registry_name": "calcite_brick_wall",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/blockstates/calcite_brick_wall.json",
           "src/main/java/net/mcreator/blockblitz/block/CalciteBrickWallBlock.java",
           "src/main/resources/assets/blockblitz/models/block/calcite_brick_wall.json",
+          "src/main/resources/assets/blockblitz/models/item/calcite_brick_wall.json",
+          "src/main/resources/assets/blockblitz/blockstates/calcite_brick_wall.json",
           "src/main/resources/assets/blockblitz/models/block/calcite_brick_wall_side_tall.json",
           "src/main/resources/assets/blockblitz/models/block/calcite_brick_wall_post.json",
-          "src/main/resources/assets/blockblitz/models/item/calcite_brick_wall.json",
           "src/main/resources/assets/blockblitz/models/block/calcite_brick_wall_inventory.json"
         ]
       }
@@ -2407,10 +2407,10 @@
       "registry_name": "chiseled_calcite",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/block/chiseled_calcite.json",
-          "src/main/resources/assets/blockblitz/blockstates/chiseled_calcite.json",
           "src/main/java/net/mcreator/blockblitz/block/ChiseledCalciteBlock.java",
-          "src/main/resources/assets/blockblitz/models/item/chiseled_calcite.json"
+          "src/main/resources/assets/blockblitz/models/item/chiseled_calcite.json",
+          "src/main/resources/assets/blockblitz/blockstates/chiseled_calcite.json",
+          "src/main/resources/assets/blockblitz/models/block/chiseled_calcite.json"
         ]
       }
     },
@@ -2423,9 +2423,9 @@
       "registry_name": "polished_calcite",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/block/polished_calcite.json",
           "src/main/resources/assets/blockblitz/models/item/polished_calcite.json",
           "src/main/resources/assets/blockblitz/blockstates/polished_calcite.json",
+          "src/main/resources/assets/blockblitz/models/block/polished_calcite.json",
           "src/main/java/net/mcreator/blockblitz/block/PolishedCalciteBlock.java"
         ]
       }
@@ -2439,12 +2439,12 @@
       "registry_name": "polished_calcite_stairs",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/block/polished_calcite_stairs_outer.json",
           "src/main/resources/assets/blockblitz/models/item/polished_calcite_stairs.json",
           "src/main/resources/assets/blockblitz/blockstates/polished_calcite_stairs.json",
-          "src/main/resources/assets/blockblitz/models/block/polished_calcite_stairs_inner.json",
           "src/main/resources/assets/blockblitz/models/block/polished_calcite_stairs.json",
-          "src/main/java/net/mcreator/blockblitz/block/PolishedCalciteStairsBlock.java"
+          "src/main/resources/assets/blockblitz/models/block/polished_calcite_stairs_outer.json",
+          "src/main/java/net/mcreator/blockblitz/block/PolishedCalciteStairsBlock.java",
+          "src/main/resources/assets/blockblitz/models/block/polished_calcite_stairs_inner.json"
         ]
       }
     },
@@ -2457,11 +2457,11 @@
       "registry_name": "polished_calcite_slab",
       "metadata": {
         "files": [
+          "src/main/resources/assets/blockblitz/models/block/polished_calcite_slab_full.json",
+          "src/main/resources/assets/blockblitz/models/block/polished_calcite_slab.json",
           "src/main/resources/assets/blockblitz/models/block/polished_calcite_slab_top.json",
           "src/main/java/net/mcreator/blockblitz/block/PolishedCalciteSlabBlock.java",
-          "src/main/resources/assets/blockblitz/models/block/polished_calcite_slab.json",
           "src/main/resources/assets/blockblitz/models/item/polished_calcite_slab.json",
-          "src/main/resources/assets/blockblitz/models/block/polished_calcite_slab_full.json",
           "src/main/resources/assets/blockblitz/blockstates/polished_calcite_slab.json"
         ]
       }
@@ -2475,13 +2475,13 @@
       "registry_name": "polished_calcite_wall",
       "metadata": {
         "files": [
+          "src/main/resources/assets/blockblitz/models/block/polished_calcite_wall_side_tall.json",
+          "src/main/resources/assets/blockblitz/blockstates/polished_calcite_wall.json",
+          "src/main/resources/assets/blockblitz/models/block/polished_calcite_wall_inventory.json",
+          "src/main/resources/assets/blockblitz/models/item/polished_calcite_wall.json",
           "src/main/java/net/mcreator/blockblitz/block/PolishedCalciteWallBlock.java",
           "src/main/resources/assets/blockblitz/models/block/polished_calcite_wall.json",
-          "src/main/resources/assets/blockblitz/models/block/polished_calcite_wall_inventory.json",
-          "src/main/resources/assets/blockblitz/blockstates/polished_calcite_wall.json",
-          "src/main/resources/assets/blockblitz/models/item/polished_calcite_wall.json",
-          "src/main/resources/assets/blockblitz/models/block/polished_calcite_wall_post.json",
-          "src/main/resources/assets/blockblitz/models/block/polished_calcite_wall_side_tall.json"
+          "src/main/resources/assets/blockblitz/models/block/polished_calcite_wall_post.json"
         ]
       }
     },
@@ -2494,11 +2494,11 @@
       "registry_name": "mold",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/block/mold.json",
-          "src/main/java/net/mcreator/blockblitz/block/MoldBlock.java",
           "src/main/resources/assets/blockblitz/blockstates/mold.json",
+          "src/main/java/net/mcreator/blockblitz/block/MoldBlock.java",
           "src/main/java/net/mcreator/blockblitz/block/entity/MoldBlockEntity.java",
-          "src/main/resources/assets/blockblitz/models/item/mold.json"
+          "src/main/resources/assets/blockblitz/models/item/mold.json",
+          "src/main/resources/assets/blockblitz/models/block/mold.json"
         ]
       },
       "path": "~/MoldStuff"
@@ -2512,8 +2512,8 @@
       "registry_name": "mold_gui",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/blockblitz/client/gui/MoldGuiScreen.java",
-          "src/main/java/net/mcreator/blockblitz/world/inventory/MoldGuiMenu.java"
+          "src/main/java/net/mcreator/blockblitz/world/inventory/MoldGuiMenu.java",
+          "src/main/java/net/mcreator/blockblitz/client/gui/MoldGuiScreen.java"
         ]
       },
       "path": "~/MoldStuff"
@@ -2540,8 +2540,8 @@
       "registry_name": "chrome_sword",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/blockblitz/item/ChromeSwordItem.java",
-          "src/main/resources/assets/blockblitz/models/item/chrome_sword.json"
+          "src/main/resources/assets/blockblitz/models/item/chrome_sword.json",
+          "src/main/java/net/mcreator/blockblitz/item/ChromeSwordItem.java"
         ]
       }
     },
@@ -2582,8 +2582,8 @@
       "registry_name": "chrome_hoe",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/blockblitz/item/ChromeHoeItem.java",
-          "src/main/resources/assets/blockblitz/models/item/chrome_hoe.json"
+          "src/main/resources/assets/blockblitz/models/item/chrome_hoe.json",
+          "src/main/java/net/mcreator/blockblitz/item/ChromeHoeItem.java"
         ]
       }
     },
@@ -2766,11 +2766,11 @@
       "registry_name": "andesite_button",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/item/andesite_button.json",
-          "src/main/resources/assets/blockblitz/models/block/andesite_button_pressed.json",
           "src/main/java/net/mcreator/blockblitz/block/AndesiteButtonBlock.java",
           "src/main/resources/assets/blockblitz/models/block/andesite_button.json",
+          "src/main/resources/assets/blockblitz/models/block/andesite_button_pressed.json",
           "src/main/resources/assets/blockblitz/models/block/andesite_button_inventory.json",
+          "src/main/resources/assets/blockblitz/models/item/andesite_button.json",
           "src/main/resources/assets/blockblitz/blockstates/andesite_button.json"
         ]
       }
@@ -2797,11 +2797,11 @@
       "registry_name": "andesite_pressure_plate",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/block/andesite_pressure_plate.json",
           "src/main/resources/assets/blockblitz/blockstates/andesite_pressure_plate.json",
           "src/main/resources/assets/blockblitz/models/item/andesite_pressure_plate.json",
-          "src/main/java/net/mcreator/blockblitz/block/AndesitePressurePlateBlock.java",
-          "src/main/resources/assets/blockblitz/models/block/andesite_pressure_plate_down.json"
+          "src/main/resources/assets/blockblitz/models/block/andesite_pressure_plate.json",
+          "src/main/resources/assets/blockblitz/models/block/andesite_pressure_plate_down.json",
+          "src/main/java/net/mcreator/blockblitz/block/AndesitePressurePlateBlock.java"
         ]
       }
     },
@@ -2827,12 +2827,12 @@
       "registry_name": "diorite_button",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/item/diorite_button.json",
-          "src/main/resources/assets/blockblitz/blockstates/diorite_button.json",
           "src/main/resources/assets/blockblitz/models/block/diorite_button_pressed.json",
           "src/main/java/net/mcreator/blockblitz/block/DioriteButtonBlock.java",
-          "src/main/resources/assets/blockblitz/models/block/diorite_button_inventory.json",
-          "src/main/resources/assets/blockblitz/models/block/diorite_button.json"
+          "src/main/resources/assets/blockblitz/models/block/diorite_button.json",
+          "src/main/resources/assets/blockblitz/models/item/diorite_button.json",
+          "src/main/resources/assets/blockblitz/blockstates/diorite_button.json",
+          "src/main/resources/assets/blockblitz/models/block/diorite_button_inventory.json"
         ]
       }
     },
@@ -2858,10 +2858,10 @@
       "registry_name": "diorite_pressure_plate",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/block/diorite_pressure_plate.json",
           "src/main/resources/assets/blockblitz/blockstates/diorite_pressure_plate.json",
-          "src/main/resources/assets/blockblitz/models/item/diorite_pressure_plate.json",
+          "src/main/resources/assets/blockblitz/models/block/diorite_pressure_plate.json",
           "src/main/java/net/mcreator/blockblitz/block/DioritePressurePlateBlock.java",
+          "src/main/resources/assets/blockblitz/models/item/diorite_pressure_plate.json",
           "src/main/resources/assets/blockblitz/models/block/diorite_pressure_plate_down.json"
         ]
       }
@@ -2890,10 +2890,10 @@
         "files": [
           "src/main/java/net/mcreator/blockblitz/block/GraniteButtonBlock.java",
           "src/main/resources/assets/blockblitz/models/item/granite_button.json",
-          "src/main/resources/assets/blockblitz/models/block/granite_button_pressed.json",
           "src/main/resources/assets/blockblitz/models/block/granite_button.json",
-          "src/main/resources/assets/blockblitz/blockstates/granite_button.json",
-          "src/main/resources/assets/blockblitz/models/block/granite_button_inventory.json"
+          "src/main/resources/assets/blockblitz/models/block/granite_button_pressed.json",
+          "src/main/resources/assets/blockblitz/models/block/granite_button_inventory.json",
+          "src/main/resources/assets/blockblitz/blockstates/granite_button.json"
         ]
       }
     },
@@ -2919,11 +2919,11 @@
       "registry_name": "granite_pressure_plate",
       "metadata": {
         "files": [
+          "src/main/resources/assets/blockblitz/models/item/granite_pressure_plate.json",
           "src/main/resources/assets/blockblitz/blockstates/granite_pressure_plate.json",
           "src/main/resources/assets/blockblitz/models/block/granite_pressure_plate.json",
-          "src/main/resources/assets/blockblitz/models/item/granite_pressure_plate.json",
-          "src/main/resources/assets/blockblitz/models/block/granite_pressure_plate_down.json",
-          "src/main/java/net/mcreator/blockblitz/block/GranitePressurePlateBlock.java"
+          "src/main/java/net/mcreator/blockblitz/block/GranitePressurePlateBlock.java",
+          "src/main/resources/assets/blockblitz/models/block/granite_pressure_plate_down.json"
         ]
       }
     },
@@ -3287,10 +3287,10 @@
       "registry_name": "apple_bookshelf",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/block/apple_bookshelf.json",
           "src/main/resources/assets/blockblitz/models/item/apple_bookshelf.json",
+          "src/main/resources/assets/blockblitz/blockstates/apple_bookshelf.json",
           "src/main/java/net/mcreator/blockblitz/block/AppleBookshelfBlock.java",
-          "src/main/resources/assets/blockblitz/blockstates/apple_bookshelf.json"
+          "src/main/resources/assets/blockblitz/models/block/apple_bookshelf.json"
         ]
       }
     },
@@ -3582,14 +3582,14 @@
       "registry_name": "deepslate_oil_ore",
       "metadata": {
         "files": [
-          "src/main/resources/data/blockblitz/worldgen/configured_feature/deepslate_oil_ore.json",
-          "src/main/resources/data/blockblitz/forge/biome_modifier/deepslate_oil_ore_biome_modifier.json",
-          "src/main/java/net/mcreator/blockblitz/world/features/ores/DeepslateOilOreFeature.java",
-          "src/main/resources/data/blockblitz/worldgen/placed_feature/deepslate_oil_ore.json",
           "src/main/resources/assets/blockblitz/models/item/deepslate_oil_ore.json",
-          "src/main/java/net/mcreator/blockblitz/block/DeepslateOilOreBlock.java",
           "src/main/resources/assets/blockblitz/blockstates/deepslate_oil_ore.json",
-          "src/main/resources/assets/blockblitz/models/block/deepslate_oil_ore.json"
+          "src/main/resources/assets/blockblitz/models/block/deepslate_oil_ore.json",
+          "src/main/resources/data/blockblitz/worldgen/configured_feature/deepslate_oil_ore.json",
+          "src/main/resources/data/blockblitz/worldgen/placed_feature/deepslate_oil_ore.json",
+          "src/main/java/net/mcreator/blockblitz/world/features/ores/DeepslateOilOreFeature.java",
+          "src/main/resources/data/blockblitz/forge/biome_modifier/deepslate_oil_ore_biome_modifier.json",
+          "src/main/java/net/mcreator/blockblitz/block/DeepslateOilOreBlock.java"
         ]
       }
     },
@@ -3616,9 +3616,9 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/blockblitz/blockstates/white_turf.json",
+          "src/main/resources/assets/blockblitz/models/item/white_turf.json",
           "src/main/resources/assets/blockblitz/models/block/white_turf.json",
-          "src/main/java/net/mcreator/blockblitz/block/WhiteTurfBlock.java",
-          "src/main/resources/assets/blockblitz/models/item/white_turf.json"
+          "src/main/java/net/mcreator/blockblitz/block/WhiteTurfBlock.java"
         ]
       }
     },
@@ -3631,10 +3631,10 @@
       "registry_name": "light_gray_turf",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/item/light_gray_turf.json",
+          "src/main/resources/assets/blockblitz/models/block/light_gray_turf.json",
           "src/main/resources/assets/blockblitz/blockstates/light_gray_turf.json",
           "src/main/java/net/mcreator/blockblitz/block/LightGrayTurfBlock.java",
-          "src/main/resources/assets/blockblitz/models/block/light_gray_turf.json"
+          "src/main/resources/assets/blockblitz/models/item/light_gray_turf.json"
         ]
       }
     },
@@ -3647,10 +3647,10 @@
       "registry_name": "gray_turf",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/item/gray_turf.json",
           "src/main/resources/assets/blockblitz/models/block/gray_turf.json",
           "src/main/resources/assets/blockblitz/blockstates/gray_turf.json",
-          "src/main/java/net/mcreator/blockblitz/block/GrayTurfBlock.java"
+          "src/main/java/net/mcreator/blockblitz/block/GrayTurfBlock.java",
+          "src/main/resources/assets/blockblitz/models/item/gray_turf.json"
         ]
       }
     },
@@ -3663,10 +3663,10 @@
       "registry_name": "black_turf",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/block/black_turf.json",
+          "src/main/java/net/mcreator/blockblitz/block/BlackTurfBlock.java",
           "src/main/resources/assets/blockblitz/models/item/black_turf.json",
           "src/main/resources/assets/blockblitz/blockstates/black_turf.json",
-          "src/main/java/net/mcreator/blockblitz/block/BlackTurfBlock.java"
+          "src/main/resources/assets/blockblitz/models/block/black_turf.json"
         ]
       }
     },
@@ -3695,10 +3695,10 @@
       "registry_name": "red_turf",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/item/red_turf.json",
-          "src/main/resources/assets/blockblitz/blockstates/red_turf.json",
+          "src/main/resources/assets/blockblitz/models/block/red_turf.json",
           "src/main/java/net/mcreator/blockblitz/block/RedTurfBlock.java",
-          "src/main/resources/assets/blockblitz/models/block/red_turf.json"
+          "src/main/resources/assets/blockblitz/models/item/red_turf.json",
+          "src/main/resources/assets/blockblitz/blockstates/red_turf.json"
         ]
       }
     },
@@ -3711,10 +3711,10 @@
       "registry_name": "orange_turf",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/block/orange_turf.json",
           "src/main/java/net/mcreator/blockblitz/block/OrangeTurfBlock.java",
+          "src/main/resources/assets/blockblitz/blockstates/orange_turf.json",
           "src/main/resources/assets/blockblitz/models/item/orange_turf.json",
-          "src/main/resources/assets/blockblitz/blockstates/orange_turf.json"
+          "src/main/resources/assets/blockblitz/models/block/orange_turf.json"
         ]
       }
     },
@@ -3728,9 +3728,9 @@
       "metadata": {
         "files": [
           "src/main/java/net/mcreator/blockblitz/block/YellowTurfBlock.java",
-          "src/main/resources/assets/blockblitz/blockstates/yellow_turf.json",
           "src/main/resources/assets/blockblitz/models/item/yellow_turf.json",
-          "src/main/resources/assets/blockblitz/models/block/yellow_turf.json"
+          "src/main/resources/assets/blockblitz/models/block/yellow_turf.json",
+          "src/main/resources/assets/blockblitz/blockstates/yellow_turf.json"
         ]
       }
     },
@@ -3743,10 +3743,10 @@
       "registry_name": "lime_turf",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/item/lime_turf.json",
-          "src/main/java/net/mcreator/blockblitz/block/LimeTurfBlock.java",
           "src/main/resources/assets/blockblitz/blockstates/lime_turf.json",
-          "src/main/resources/assets/blockblitz/models/block/lime_turf.json"
+          "src/main/resources/assets/blockblitz/models/item/lime_turf.json",
+          "src/main/resources/assets/blockblitz/models/block/lime_turf.json",
+          "src/main/java/net/mcreator/blockblitz/block/LimeTurfBlock.java"
         ]
       }
     },
@@ -3759,10 +3759,10 @@
       "registry_name": "green_turf",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/block/green_turf.json",
+          "src/main/java/net/mcreator/blockblitz/block/GreenTurfBlock.java",
           "src/main/resources/assets/blockblitz/models/item/green_turf.json",
           "src/main/resources/assets/blockblitz/blockstates/green_turf.json",
-          "src/main/java/net/mcreator/blockblitz/block/GreenTurfBlock.java"
+          "src/main/resources/assets/blockblitz/models/block/green_turf.json"
         ]
       }
     },
@@ -3775,8 +3775,8 @@
       "registry_name": "cyan_turf",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/block/cyan_turf.json",
           "src/main/resources/assets/blockblitz/models/item/cyan_turf.json",
+          "src/main/resources/assets/blockblitz/models/block/cyan_turf.json",
           "src/main/java/net/mcreator/blockblitz/block/CyanTurfBlock.java",
           "src/main/resources/assets/blockblitz/blockstates/cyan_turf.json"
         ]
@@ -3791,10 +3791,10 @@
       "registry_name": "light_blue_turf",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/block/light_blue_turf.json",
-          "src/main/java/net/mcreator/blockblitz/block/LightBlueTurfBlock.java",
           "src/main/resources/assets/blockblitz/models/item/light_blue_turf.json",
-          "src/main/resources/assets/blockblitz/blockstates/light_blue_turf.json"
+          "src/main/resources/assets/blockblitz/blockstates/light_blue_turf.json",
+          "src/main/java/net/mcreator/blockblitz/block/LightBlueTurfBlock.java",
+          "src/main/resources/assets/blockblitz/models/block/light_blue_turf.json"
         ]
       }
     },
@@ -3807,8 +3807,8 @@
       "registry_name": "blue_turf",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/blockblitz/block/BlueTurfBlock.java",
           "src/main/resources/assets/blockblitz/blockstates/blue_turf.json",
+          "src/main/java/net/mcreator/blockblitz/block/BlueTurfBlock.java",
           "src/main/resources/assets/blockblitz/models/item/blue_turf.json",
           "src/main/resources/assets/blockblitz/models/block/blue_turf.json"
         ]
@@ -3824,9 +3824,9 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/blockblitz/models/item/purple_turf.json",
+          "src/main/resources/assets/blockblitz/models/block/purple_turf.json",
           "src/main/java/net/mcreator/blockblitz/block/PurpleTurfBlock.java",
-          "src/main/resources/assets/blockblitz/blockstates/purple_turf.json",
-          "src/main/resources/assets/blockblitz/models/block/purple_turf.json"
+          "src/main/resources/assets/blockblitz/blockstates/purple_turf.json"
         ]
       }
     },
@@ -3839,8 +3839,8 @@
       "registry_name": "magenta_turf",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/block/magenta_turf.json",
           "src/main/resources/assets/blockblitz/blockstates/magenta_turf.json",
+          "src/main/resources/assets/blockblitz/models/block/magenta_turf.json",
           "src/main/java/net/mcreator/blockblitz/block/MagentaTurfBlock.java",
           "src/main/resources/assets/blockblitz/models/item/magenta_turf.json"
         ]
@@ -3855,10 +3855,10 @@
       "registry_name": "pink_turf",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/blockstates/pink_turf.json",
-          "src/main/resources/assets/blockblitz/models/block/pink_turf.json",
           "src/main/java/net/mcreator/blockblitz/block/PinkTurfBlock.java",
-          "src/main/resources/assets/blockblitz/models/item/pink_turf.json"
+          "src/main/resources/assets/blockblitz/models/item/pink_turf.json",
+          "src/main/resources/assets/blockblitz/models/block/pink_turf.json",
+          "src/main/resources/assets/blockblitz/blockstates/pink_turf.json"
         ]
       }
     },
@@ -3871,10 +3871,10 @@
       "registry_name": "apple_leaves",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/item/apple_leaves.json",
+          "src/main/resources/assets/blockblitz/models/block/apple_leaves.json",
           "src/main/resources/assets/blockblitz/blockstates/apple_leaves.json",
-          "src/main/java/net/mcreator/blockblitz/block/AppleLeavesBlock.java",
-          "src/main/resources/assets/blockblitz/models/block/apple_leaves.json"
+          "src/main/resources/assets/blockblitz/models/item/apple_leaves.json",
+          "src/main/java/net/mcreator/blockblitz/block/AppleLeavesBlock.java"
         ]
       }
     },
@@ -3902,10 +3902,10 @@
       "registry_name": "gapple_log",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/blockblitz/block/GappleLogBlock.java",
           "src/main/resources/assets/blockblitz/models/block/gapple_log.json",
           "src/main/resources/assets/blockblitz/models/item/gapple_log.json",
-          "src/main/resources/assets/blockblitz/blockstates/gapple_log.json"
+          "src/main/resources/assets/blockblitz/blockstates/gapple_log.json",
+          "src/main/java/net/mcreator/blockblitz/block/GappleLogBlock.java"
         ]
       }
     },
@@ -3918,8 +3918,8 @@
       "registry_name": "gapple_leaves",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/blockstates/gapple_leaves.json",
           "src/main/resources/assets/blockblitz/models/item/gapple_leaves.json",
+          "src/main/resources/assets/blockblitz/blockstates/gapple_leaves.json",
           "src/main/java/net/mcreator/blockblitz/block/GappleLeavesBlock.java",
           "src/main/resources/assets/blockblitz/models/block/gapple_leaves.json"
         ]
@@ -3947,10 +3947,10 @@
       "registry_name": "gapple_tree_1",
       "metadata": {
         "files": [
-          "src/main/resources/data/blockblitz/worldgen/placed_feature/gapple_tree_1.json",
           "src/main/resources/data/blockblitz/forge/biome_modifier/gapple_tree_1_biome_modifier.json",
-          "src/main/resources/data/blockblitz/worldgen/configured_feature/gapple_tree_1.json",
-          "src/main/java/net/mcreator/blockblitz/world/features/GappleTree1Feature.java"
+          "src/main/resources/data/blockblitz/worldgen/placed_feature/gapple_tree_1.json",
+          "src/main/java/net/mcreator/blockblitz/world/features/GappleTree1Feature.java",
+          "src/main/resources/data/blockblitz/worldgen/configured_feature/gapple_tree_1.json"
         ]
       }
     },
@@ -3963,10 +3963,10 @@
       "registry_name": "maple_sapling",
       "metadata": {
         "files": [
+          "src/main/resources/assets/blockblitz/models/item/maple_sapling.json",
           "src/main/java/net/mcreator/blockblitz/block/MapleSaplingBlock.java",
           "src/main/resources/assets/blockblitz/models/block/maple_sapling.json",
-          "src/main/resources/assets/blockblitz/blockstates/maple_sapling.json",
-          "src/main/resources/assets/blockblitz/models/item/maple_sapling.json"
+          "src/main/resources/assets/blockblitz/blockstates/maple_sapling.json"
         ]
       }
     },
@@ -3979,9 +3979,9 @@
       "registry_name": "mulberry_sapling",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/block/mulberry_sapling.json",
           "src/main/java/net/mcreator/blockblitz/block/MulberrySaplingBlock.java",
           "src/main/resources/assets/blockblitz/models/item/mulberry_sapling.json",
+          "src/main/resources/assets/blockblitz/models/block/mulberry_sapling.json",
           "src/main/resources/assets/blockblitz/blockstates/mulberry_sapling.json"
         ]
       }
@@ -4047,10 +4047,10 @@
       "registry_name": "gapple_wood",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/blockblitz/block/GappleWoodBlock.java",
-          "src/main/resources/assets/blockblitz/models/block/gapple_wood.json",
           "src/main/resources/assets/blockblitz/blockstates/gapple_wood.json",
-          "src/main/resources/assets/blockblitz/models/item/gapple_wood.json"
+          "src/main/java/net/mcreator/blockblitz/block/GappleWoodBlock.java",
+          "src/main/resources/assets/blockblitz/models/item/gapple_wood.json",
+          "src/main/resources/assets/blockblitz/models/block/gapple_wood.json"
         ]
       }
     },
@@ -4064,9 +4064,9 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/blockblitz/models/item/gapple_planks.json",
-          "src/main/resources/assets/blockblitz/blockstates/gapple_planks.json",
           "src/main/java/net/mcreator/blockblitz/block/GapplePlanksBlock.java",
-          "src/main/resources/assets/blockblitz/models/block/gapple_planks.json"
+          "src/main/resources/assets/blockblitz/models/block/gapple_planks.json",
+          "src/main/resources/assets/blockblitz/blockstates/gapple_planks.json"
         ]
       }
     },
@@ -4079,11 +4079,11 @@
       "registry_name": "gapple_button",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/block/gapple_button.json",
-          "src/main/resources/assets/blockblitz/models/block/gapple_button_pressed.json",
-          "src/main/resources/assets/blockblitz/blockstates/gapple_button.json",
           "src/main/java/net/mcreator/blockblitz/block/GappleButtonBlock.java",
           "src/main/resources/assets/blockblitz/models/item/gapple_button.json",
+          "src/main/resources/assets/blockblitz/models/block/gapple_button_pressed.json",
+          "src/main/resources/assets/blockblitz/models/block/gapple_button.json",
+          "src/main/resources/assets/blockblitz/blockstates/gapple_button.json",
           "src/main/resources/assets/blockblitz/models/block/gapple_button_inventory.json"
         ]
       }
@@ -4097,11 +4097,11 @@
       "registry_name": "gapple_pressure_plate",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/blockblitz/block/GapplePressurePlateBlock.java",
           "src/main/resources/assets/blockblitz/models/block/gapple_pressure_plate_down.json",
           "src/main/resources/assets/blockblitz/models/block/gapple_pressure_plate.json",
+          "src/main/resources/assets/blockblitz/blockstates/gapple_pressure_plate.json",
           "src/main/resources/assets/blockblitz/models/item/gapple_pressure_plate.json",
-          "src/main/resources/assets/blockblitz/blockstates/gapple_pressure_plate.json"
+          "src/main/java/net/mcreator/blockblitz/block/GapplePressurePlateBlock.java"
         ]
       }
     },
@@ -4114,11 +4114,11 @@
       "registry_name": "gapple_fence",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/item/gapple_fence.json",
-          "src/main/resources/assets/blockblitz/blockstates/gapple_fence.json",
-          "src/main/resources/assets/blockblitz/models/block/gapple_fence.json",
           "src/main/java/net/mcreator/blockblitz/block/GappleFenceBlock.java",
+          "src/main/resources/assets/blockblitz/models/block/gapple_fence.json",
+          "src/main/resources/assets/blockblitz/models/item/gapple_fence.json",
           "src/main/resources/assets/blockblitz/models/block/gapple_fence_post.json",
+          "src/main/resources/assets/blockblitz/blockstates/gapple_fence.json",
           "src/main/resources/assets/blockblitz/models/block/gapple_fence_inventory.json"
         ]
       }
@@ -4132,13 +4132,13 @@
       "registry_name": "gapple_fence_gate",
       "metadata": {
         "files": [
+          "src/main/java/net/mcreator/blockblitz/block/GappleFenceGateBlock.java",
+          "src/main/resources/assets/blockblitz/blockstates/gapple_fence_gate.json",
           "src/main/resources/assets/blockblitz/models/block/gapple_fence_gate_wall_open.json",
           "src/main/resources/assets/blockblitz/models/item/gapple_fence_gate.json",
           "src/main/resources/assets/blockblitz/models/block/gapple_fence_gate.json",
           "src/main/resources/assets/blockblitz/models/block/gapple_fence_gate_open.json",
-          "src/main/resources/assets/blockblitz/blockstates/gapple_fence_gate.json",
-          "src/main/resources/assets/blockblitz/models/block/gapple_fence_gate_wall.json",
-          "src/main/java/net/mcreator/blockblitz/block/GappleFenceGateBlock.java"
+          "src/main/resources/assets/blockblitz/models/block/gapple_fence_gate_wall.json"
         ]
       }
     },
@@ -4151,12 +4151,12 @@
       "registry_name": "gapple_stairs",
       "metadata": {
         "files": [
+          "src/main/java/net/mcreator/blockblitz/block/GappleStairsBlock.java",
           "src/main/resources/assets/blockblitz/models/block/gapple_stairs.json",
-          "src/main/resources/assets/blockblitz/models/block/gapple_stairs_inner.json",
           "src/main/resources/assets/blockblitz/models/block/gapple_stairs_outer.json",
           "src/main/resources/assets/blockblitz/blockstates/gapple_stairs.json",
           "src/main/resources/assets/blockblitz/models/item/gapple_stairs.json",
-          "src/main/java/net/mcreator/blockblitz/block/GappleStairsBlock.java"
+          "src/main/resources/assets/blockblitz/models/block/gapple_stairs_inner.json"
         ]
       }
     },
@@ -4169,12 +4169,12 @@
       "registry_name": "gapple_slab",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/block/gapple_slab.json",
           "src/main/resources/assets/blockblitz/models/block/gapple_slab_top.json",
           "src/main/java/net/mcreator/blockblitz/block/GappleSlabBlock.java",
-          "src/main/resources/assets/blockblitz/models/item/gapple_slab.json",
+          "src/main/resources/assets/blockblitz/models/block/gapple_slab_full.json",
           "src/main/resources/assets/blockblitz/blockstates/gapple_slab.json",
-          "src/main/resources/assets/blockblitz/models/block/gapple_slab_full.json"
+          "src/main/resources/assets/blockblitz/models/item/gapple_slab.json",
+          "src/main/resources/assets/blockblitz/models/block/gapple_slab.json"
         ]
       }
     },
@@ -4291,10 +4291,10 @@
       "registry_name": "gapple_sapling",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/blockblitz/block/GappleSaplingBlock.java",
-          "src/main/resources/assets/blockblitz/blockstates/gapple_sapling.json",
           "src/main/resources/assets/blockblitz/models/block/gapple_sapling.json",
-          "src/main/resources/assets/blockblitz/models/item/gapple_sapling.json"
+          "src/main/java/net/mcreator/blockblitz/block/GappleSaplingBlock.java",
+          "src/main/resources/assets/blockblitz/models/item/gapple_sapling.json",
+          "src/main/resources/assets/blockblitz/blockstates/gapple_sapling.json"
         ]
       }
     },
@@ -4307,17 +4307,17 @@
       "registry_name": "gapple_door",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/blockblitz/block/GappleDoorBlock.java",
-          "src/main/resources/assets/blockblitz/models/block/gapple_door_bottom_right_open.json",
-          "src/main/resources/assets/blockblitz/blockstates/gapple_door.json",
-          "src/main/resources/assets/blockblitz/models/block/gapple_door_bottom_left.json",
+          "src/main/resources/assets/blockblitz/models/block/gapple_door_top_right.json",
           "src/main/resources/assets/blockblitz/models/block/gapple_door_bottom_left_open.json",
           "src/main/resources/assets/blockblitz/models/block/gapple_door_top_left_open.json",
-          "src/main/resources/assets/blockblitz/models/item/gapple_door.json",
+          "src/main/resources/assets/blockblitz/blockstates/gapple_door.json",
+          "src/main/java/net/mcreator/blockblitz/block/GappleDoorBlock.java",
           "src/main/resources/assets/blockblitz/models/block/gapple_door_top_left.json",
-          "src/main/resources/assets/blockblitz/models/block/gapple_door_top_right_open.json",
           "src/main/resources/assets/blockblitz/models/block/gapple_door_bottom_right.json",
-          "src/main/resources/assets/blockblitz/models/block/gapple_door_top_right.json"
+          "src/main/resources/assets/blockblitz/models/block/gapple_door_bottom_right_open.json",
+          "src/main/resources/assets/blockblitz/models/block/gapple_door_top_right_open.json",
+          "src/main/resources/assets/blockblitz/models/item/gapple_door.json",
+          "src/main/resources/assets/blockblitz/models/block/gapple_door_bottom_left.json"
         ]
       }
     },
@@ -4356,12 +4356,12 @@
       "registry_name": "gapple_trapdoor",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/blockstates/gapple_trapdoor.json",
-          "src/main/resources/assets/blockblitz/models/block/gapple_trapdoor_open.json",
           "src/main/resources/assets/blockblitz/models/item/gapple_trapdoor.json",
+          "src/main/resources/assets/blockblitz/models/block/gapple_trapdoor_open.json",
           "src/main/resources/assets/blockblitz/models/block/gapple_trapdoor.json",
           "src/main/java/net/mcreator/blockblitz/block/GappleTrapdoorBlock.java",
-          "src/main/resources/assets/blockblitz/models/block/gapple_trapdoor_top.json"
+          "src/main/resources/assets/blockblitz/models/block/gapple_trapdoor_top.json",
+          "src/main/resources/assets/blockblitz/blockstates/gapple_trapdoor.json"
         ]
       }
     },
@@ -4387,10 +4387,10 @@
       "registry_name": "raw_niobium_block",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/blockblitz/block/RawNiobiumBlockBlock.java",
-          "src/main/resources/assets/blockblitz/blockstates/raw_niobium_block.json",
           "src/main/resources/assets/blockblitz/models/item/raw_niobium_block.json",
-          "src/main/resources/assets/blockblitz/models/block/raw_niobium_block.json"
+          "src/main/resources/assets/blockblitz/models/block/raw_niobium_block.json",
+          "src/main/java/net/mcreator/blockblitz/block/RawNiobiumBlockBlock.java",
+          "src/main/resources/assets/blockblitz/blockstates/raw_niobium_block.json"
         ]
       }
     },
@@ -4417,10 +4417,10 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/blockblitz/blockstates/calcite_pressure_plate.json",
-          "src/main/resources/assets/blockblitz/models/block/calcite_pressure_plate_down.json",
-          "src/main/resources/assets/blockblitz/models/item/calcite_pressure_plate.json",
           "src/main/resources/assets/blockblitz/models/block/calcite_pressure_plate.json",
-          "src/main/java/net/mcreator/blockblitz/block/CalcitePressurePlateBlock.java"
+          "src/main/java/net/mcreator/blockblitz/block/CalcitePressurePlateBlock.java",
+          "src/main/resources/assets/blockblitz/models/item/calcite_pressure_plate.json",
+          "src/main/resources/assets/blockblitz/models/block/calcite_pressure_plate_down.json"
         ]
       }
     },
@@ -4433,12 +4433,12 @@
       "registry_name": "deepslate_button",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/block/deepslate_button.json",
-          "src/main/resources/assets/blockblitz/blockstates/deepslate_button.json",
           "src/main/java/net/mcreator/blockblitz/block/DeepslateButtonBlock.java",
+          "src/main/resources/assets/blockblitz/models/block/deepslate_button_pressed.json",
+          "src/main/resources/assets/blockblitz/models/block/deepslate_button.json",
           "src/main/resources/assets/blockblitz/models/block/deepslate_button_inventory.json",
           "src/main/resources/assets/blockblitz/models/item/deepslate_button.json",
-          "src/main/resources/assets/blockblitz/models/block/deepslate_button_pressed.json"
+          "src/main/resources/assets/blockblitz/blockstates/deepslate_button.json"
         ]
       }
     },
@@ -4451,11 +4451,11 @@
       "registry_name": "quartz_button",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/blockstates/quartz_button.json",
-          "src/main/resources/assets/blockblitz/models/block/quartz_button_inventory.json",
           "src/main/resources/assets/blockblitz/models/block/quartz_button.json",
-          "src/main/resources/assets/blockblitz/models/item/quartz_button.json",
           "src/main/resources/assets/blockblitz/models/block/quartz_button_pressed.json",
+          "src/main/resources/assets/blockblitz/blockstates/quartz_button.json",
+          "src/main/resources/assets/blockblitz/models/item/quartz_button.json",
+          "src/main/resources/assets/blockblitz/models/block/quartz_button_inventory.json",
           "src/main/java/net/mcreator/blockblitz/block/QuartzButtonBlock.java"
         ]
       }
@@ -4469,12 +4469,12 @@
       "registry_name": "calcite_button",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/item/calcite_button.json",
           "src/main/java/net/mcreator/blockblitz/block/CalciteButtonBlock.java",
-          "src/main/resources/assets/blockblitz/models/block/calcite_button_inventory.json",
           "src/main/resources/assets/blockblitz/models/block/calcite_button_pressed.json",
+          "src/main/resources/assets/blockblitz/models/block/calcite_button.json",
           "src/main/resources/assets/blockblitz/blockstates/calcite_button.json",
-          "src/main/resources/assets/blockblitz/models/block/calcite_button.json"
+          "src/main/resources/assets/blockblitz/models/block/calcite_button_inventory.json",
+          "src/main/resources/assets/blockblitz/models/item/calcite_button.json"
         ]
       }
     },
@@ -4487,12 +4487,12 @@
       "registry_name": "tuff_button",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/block/tuff_button.json",
-          "src/main/java/net/mcreator/blockblitz/block/TuffButtonBlock.java",
           "src/main/resources/assets/blockblitz/blockstates/tuff_button.json",
+          "src/main/java/net/mcreator/blockblitz/block/TuffButtonBlock.java",
+          "src/main/resources/assets/blockblitz/models/block/tuff_button_pressed.json",
           "src/main/resources/assets/blockblitz/models/block/tuff_button_inventory.json",
           "src/main/resources/assets/blockblitz/models/item/tuff_button.json",
-          "src/main/resources/assets/blockblitz/models/block/tuff_button_pressed.json"
+          "src/main/resources/assets/blockblitz/models/block/tuff_button.json"
         ]
       }
     },
@@ -4505,11 +4505,11 @@
       "registry_name": "tuff_pressure_plate",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/blockstates/tuff_pressure_plate.json",
           "src/main/resources/assets/blockblitz/models/item/tuff_pressure_plate.json",
-          "src/main/java/net/mcreator/blockblitz/block/TuffPressurePlateBlock.java",
+          "src/main/resources/assets/blockblitz/blockstates/tuff_pressure_plate.json",
           "src/main/resources/assets/blockblitz/models/block/tuff_pressure_plate.json",
-          "src/main/resources/assets/blockblitz/models/block/tuff_pressure_plate_down.json"
+          "src/main/resources/assets/blockblitz/models/block/tuff_pressure_plate_down.json",
+          "src/main/java/net/mcreator/blockblitz/block/TuffPressurePlateBlock.java"
         ]
       }
     },
@@ -4522,11 +4522,11 @@
       "registry_name": "deepslate_pressure_plate",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/blockblitz/block/DeepslatePressurePlateBlock.java",
           "src/main/resources/assets/blockblitz/models/item/deepslate_pressure_plate.json",
-          "src/main/resources/assets/blockblitz/models/block/deepslate_pressure_plate_down.json",
           "src/main/resources/assets/blockblitz/blockstates/deepslate_pressure_plate.json",
-          "src/main/resources/assets/blockblitz/models/block/deepslate_pressure_plate.json"
+          "src/main/resources/assets/blockblitz/models/block/deepslate_pressure_plate_down.json",
+          "src/main/resources/assets/blockblitz/models/block/deepslate_pressure_plate.json",
+          "src/main/java/net/mcreator/blockblitz/block/DeepslatePressurePlateBlock.java"
         ]
       }
     },
@@ -4539,12 +4539,12 @@
       "registry_name": "gold_button",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/block/gold_button.json",
           "src/main/java/net/mcreator/blockblitz/block/GoldButtonBlock.java",
-          "src/main/resources/assets/blockblitz/blockstates/gold_button.json",
           "src/main/resources/assets/blockblitz/models/block/gold_button_pressed.json",
-          "src/main/resources/assets/blockblitz/models/block/gold_button_inventory.json",
-          "src/main/resources/assets/blockblitz/models/item/gold_button.json"
+          "src/main/resources/assets/blockblitz/blockstates/gold_button.json",
+          "src/main/resources/assets/blockblitz/models/item/gold_button.json",
+          "src/main/resources/assets/blockblitz/models/block/gold_button.json",
+          "src/main/resources/assets/blockblitz/models/block/gold_button_inventory.json"
         ]
       }
     },
@@ -4557,12 +4557,12 @@
       "registry_name": "obsidian_button",
       "metadata": {
         "files": [
+          "src/main/resources/assets/blockblitz/models/block/obsidian_button_pressed.json",
+          "src/main/resources/assets/blockblitz/models/block/obsidian_button.json",
           "src/main/resources/assets/blockblitz/models/block/obsidian_button_inventory.json",
           "src/main/java/net/mcreator/blockblitz/block/ObsidianButtonBlock.java",
           "src/main/resources/assets/blockblitz/blockstates/obsidian_button.json",
-          "src/main/resources/assets/blockblitz/models/item/obsidian_button.json",
-          "src/main/resources/assets/blockblitz/models/block/obsidian_button_pressed.json",
-          "src/main/resources/assets/blockblitz/models/block/obsidian_button.json"
+          "src/main/resources/assets/blockblitz/models/item/obsidian_button.json"
         ]
       }
     },
@@ -4575,11 +4575,11 @@
       "registry_name": "amethyst_pressure_plate",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/block/amethyst_pressure_plate.json",
           "src/main/java/net/mcreator/blockblitz/block/AmethystPressurePlateBlock.java",
+          "src/main/resources/assets/blockblitz/models/block/amethyst_pressure_plate.json",
+          "src/main/resources/assets/blockblitz/models/block/amethyst_pressure_plate_down.json",
           "src/main/resources/assets/blockblitz/models/item/amethyst_pressure_plate.json",
-          "src/main/resources/assets/blockblitz/blockstates/amethyst_pressure_plate.json",
-          "src/main/resources/assets/blockblitz/models/block/amethyst_pressure_plate_down.json"
+          "src/main/resources/assets/blockblitz/blockstates/amethyst_pressure_plate.json"
         ]
       }
     },
@@ -4592,11 +4592,11 @@
       "registry_name": "quartz_pressure_plate",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/blockblitz/block/QuartzPressurePlateBlock.java",
-          "src/main/resources/assets/blockblitz/models/block/quartz_pressure_plate_down.json",
-          "src/main/resources/assets/blockblitz/models/item/quartz_pressure_plate.json",
           "src/main/resources/assets/blockblitz/models/block/quartz_pressure_plate.json",
-          "src/main/resources/assets/blockblitz/blockstates/quartz_pressure_plate.json"
+          "src/main/resources/assets/blockblitz/models/block/quartz_pressure_plate_down.json",
+          "src/main/resources/assets/blockblitz/blockstates/quartz_pressure_plate.json",
+          "src/main/resources/assets/blockblitz/models/item/quartz_pressure_plate.json",
+          "src/main/java/net/mcreator/blockblitz/block/QuartzPressurePlateBlock.java"
         ]
       }
     },
@@ -4611,10 +4611,10 @@
         "files": [
           "src/main/java/net/mcreator/blockblitz/block/IronButtonBlock.java",
           "src/main/resources/assets/blockblitz/models/block/iron_button_pressed.json",
-          "src/main/resources/assets/blockblitz/models/item/iron_button.json",
           "src/main/resources/assets/blockblitz/models/block/iron_button.json",
-          "src/main/resources/assets/blockblitz/models/block/iron_button_inventory.json",
-          "src/main/resources/assets/blockblitz/blockstates/iron_button.json"
+          "src/main/resources/assets/blockblitz/models/item/iron_button.json",
+          "src/main/resources/assets/blockblitz/blockstates/iron_button.json",
+          "src/main/resources/assets/blockblitz/models/block/iron_button_inventory.json"
         ]
       }
     },
@@ -4627,11 +4627,11 @@
       "registry_name": "obsidian_pressure_plate",
       "metadata": {
         "files": [
+          "src/main/resources/assets/blockblitz/models/block/obsidian_pressure_plate.json",
+          "src/main/resources/assets/blockblitz/models/block/obsidian_pressure_plate_down.json",
           "src/main/resources/assets/blockblitz/blockstates/obsidian_pressure_plate.json",
           "src/main/java/net/mcreator/blockblitz/block/ObsidianPressurePlateBlock.java",
-          "src/main/resources/assets/blockblitz/models/item/obsidian_pressure_plate.json",
-          "src/main/resources/assets/blockblitz/models/block/obsidian_pressure_plate.json",
-          "src/main/resources/assets/blockblitz/models/block/obsidian_pressure_plate_down.json"
+          "src/main/resources/assets/blockblitz/models/item/obsidian_pressure_plate.json"
         ]
       }
     },
@@ -4644,12 +4644,12 @@
       "registry_name": "amethyst_button",
       "metadata": {
         "files": [
+          "src/main/resources/assets/blockblitz/models/block/amethyst_button.json",
           "src/main/resources/assets/blockblitz/blockstates/amethyst_button.json",
-          "src/main/resources/assets/blockblitz/models/block/amethyst_button_pressed.json",
-          "src/main/resources/assets/blockblitz/models/item/amethyst_button.json",
           "src/main/resources/assets/blockblitz/models/block/amethyst_button_inventory.json",
           "src/main/java/net/mcreator/blockblitz/block/AmethystButtonBlock.java",
-          "src/main/resources/assets/blockblitz/models/block/amethyst_button.json"
+          "src/main/resources/assets/blockblitz/models/block/amethyst_button_pressed.json",
+          "src/main/resources/assets/blockblitz/models/item/amethyst_button.json"
         ]
       }
     },
@@ -4688,10 +4688,10 @@
       "registry_name": "raw_chrome_block",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/blockblitz/block/RawChromeBlockBlock.java",
-          "src/main/resources/assets/blockblitz/models/block/raw_chrome_block.json",
           "src/main/resources/assets/blockblitz/models/item/raw_chrome_block.json",
-          "src/main/resources/assets/blockblitz/blockstates/raw_chrome_block.json"
+          "src/main/resources/assets/blockblitz/models/block/raw_chrome_block.json",
+          "src/main/resources/assets/blockblitz/blockstates/raw_chrome_block.json",
+          "src/main/java/net/mcreator/blockblitz/block/RawChromeBlockBlock.java"
         ]
       }
     },
@@ -4704,10 +4704,10 @@
       "registry_name": "raw_tungsten_block",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/blockstates/raw_tungsten_block.json",
-          "src/main/java/net/mcreator/blockblitz/block/RawTungstenBlockBlock.java",
+          "src/main/resources/assets/blockblitz/models/block/raw_tungsten_block.json",
           "src/main/resources/assets/blockblitz/models/item/raw_tungsten_block.json",
-          "src/main/resources/assets/blockblitz/models/block/raw_tungsten_block.json"
+          "src/main/java/net/mcreator/blockblitz/block/RawTungstenBlockBlock.java",
+          "src/main/resources/assets/blockblitz/blockstates/raw_tungsten_block.json"
         ]
       }
     },
@@ -4798,12 +4798,12 @@
       "registry_name": "gold_trapdoor",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/blockblitz/block/GoldTrapdoorBlock.java",
-          "src/main/resources/assets/blockblitz/models/block/gold_trapdoor.json",
           "src/main/resources/assets/blockblitz/models/item/gold_trapdoor.json",
-          "src/main/resources/assets/blockblitz/models/block/gold_trapdoor_open.json",
+          "src/main/java/net/mcreator/blockblitz/block/GoldTrapdoorBlock.java",
+          "src/main/resources/assets/blockblitz/models/block/gold_trapdoor_top.json",
           "src/main/resources/assets/blockblitz/blockstates/gold_trapdoor.json",
-          "src/main/resources/assets/blockblitz/models/block/gold_trapdoor_top.json"
+          "src/main/resources/assets/blockblitz/models/block/gold_trapdoor.json",
+          "src/main/resources/assets/blockblitz/models/block/gold_trapdoor_open.json"
         ]
       }
     },
@@ -4868,10 +4868,10 @@
       "registry_name": "apple_sappling",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/block/apple_sappling.json",
-          "src/main/java/net/mcreator/blockblitz/block/AppleSapplingBlock.java",
           "src/main/resources/assets/blockblitz/models/item/apple_sappling.json",
-          "src/main/resources/assets/blockblitz/blockstates/apple_sappling.json"
+          "src/main/resources/assets/blockblitz/blockstates/apple_sappling.json",
+          "src/main/resources/assets/blockblitz/models/block/apple_sappling.json",
+          "src/main/java/net/mcreator/blockblitz/block/AppleSapplingBlock.java"
         ]
       }
     },
@@ -4988,17 +4988,17 @@
       "registry_name": "gold_door",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/blockblitz/block/GoldDoorBlock.java",
-          "src/main/resources/assets/blockblitz/models/block/gold_door_top_left_open.json",
-          "src/main/resources/assets/blockblitz/models/block/gold_door_top_right.json",
           "src/main/resources/assets/blockblitz/blockstates/gold_door.json",
-          "src/main/resources/assets/blockblitz/models/block/gold_door_bottom_left_open.json",
-          "src/main/resources/assets/blockblitz/models/block/gold_door_top_right_open.json",
-          "src/main/resources/assets/blockblitz/models/block/gold_door_bottom_left.json",
-          "src/main/resources/assets/blockblitz/models/block/gold_door_top_left.json",
           "src/main/resources/assets/blockblitz/models/item/gold_door.json",
+          "src/main/resources/assets/blockblitz/models/block/gold_door_bottom_left.json",
+          "src/main/resources/assets/blockblitz/models/block/gold_door_top_right_open.json",
+          "src/main/java/net/mcreator/blockblitz/block/GoldDoorBlock.java",
           "src/main/resources/assets/blockblitz/models/block/gold_door_bottom_right.json",
-          "src/main/resources/assets/blockblitz/models/block/gold_door_bottom_right_open.json"
+          "src/main/resources/assets/blockblitz/models/block/gold_door_top_left.json",
+          "src/main/resources/assets/blockblitz/models/block/gold_door_bottom_right_open.json",
+          "src/main/resources/assets/blockblitz/models/block/gold_door_top_right.json",
+          "src/main/resources/assets/blockblitz/models/block/gold_door_bottom_left_open.json",
+          "src/main/resources/assets/blockblitz/models/block/gold_door_top_left_open.json"
         ]
       }
     },
@@ -5024,10 +5024,10 @@
       "registry_name": "cotton_carpet",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/blockblitz/block/CottonCarpetBlock.java",
           "src/main/resources/assets/blockblitz/models/block/cotton_carpet.json",
+          "src/main/resources/assets/blockblitz/blockstates/cotton_carpet.json",
           "src/main/resources/assets/blockblitz/models/item/cotton_carpet.json",
-          "src/main/resources/assets/blockblitz/blockstates/cotton_carpet.json"
+          "src/main/java/net/mcreator/blockblitz/block/CottonCarpetBlock.java"
         ]
       }
     },
@@ -5042,8 +5042,8 @@
         "files": [
           "src/main/java/net/mcreator/blockblitz/block/DenimCarpetBlock.java",
           "src/main/resources/assets/blockblitz/blockstates/denim_carpet.json",
-          "src/main/resources/assets/blockblitz/models/block/denim_carpet.json",
-          "src/main/resources/assets/blockblitz/models/item/denim_carpet.json"
+          "src/main/resources/assets/blockblitz/models/item/denim_carpet.json",
+          "src/main/resources/assets/blockblitz/models/block/denim_carpet.json"
         ]
       }
     },
@@ -5056,10 +5056,10 @@
       "registry_name": "white_turf_carpet",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/blockblitz/block/WhiteTurfCarpetBlock.java",
-          "src/main/resources/assets/blockblitz/models/block/white_turf_carpet.json",
           "src/main/resources/assets/blockblitz/models/item/white_turf_carpet.json",
-          "src/main/resources/assets/blockblitz/blockstates/white_turf_carpet.json"
+          "src/main/resources/assets/blockblitz/blockstates/white_turf_carpet.json",
+          "src/main/resources/assets/blockblitz/models/block/white_turf_carpet.json",
+          "src/main/java/net/mcreator/blockblitz/block/WhiteTurfCarpetBlock.java"
         ]
       }
     },
@@ -5072,10 +5072,10 @@
       "registry_name": "light_gray_turf_carpet",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/blockblitz/block/LightGrayTurfCarpetBlock.java",
-          "src/main/resources/assets/blockblitz/models/item/light_gray_turf_carpet.json",
+          "src/main/resources/assets/blockblitz/blockstates/light_gray_turf_carpet.json",
           "src/main/resources/assets/blockblitz/models/block/light_gray_turf_carpet.json",
-          "src/main/resources/assets/blockblitz/blockstates/light_gray_turf_carpet.json"
+          "src/main/java/net/mcreator/blockblitz/block/LightGrayTurfCarpetBlock.java",
+          "src/main/resources/assets/blockblitz/models/item/light_gray_turf_carpet.json"
         ]
       }
     },
@@ -5088,10 +5088,10 @@
       "registry_name": "gray_turf_carpet",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/block/gray_turf_carpet.json",
           "src/main/java/net/mcreator/blockblitz/block/GrayTurfCarpetBlock.java",
-          "src/main/resources/assets/blockblitz/models/item/gray_turf_carpet.json",
-          "src/main/resources/assets/blockblitz/blockstates/gray_turf_carpet.json"
+          "src/main/resources/assets/blockblitz/blockstates/gray_turf_carpet.json",
+          "src/main/resources/assets/blockblitz/models/block/gray_turf_carpet.json",
+          "src/main/resources/assets/blockblitz/models/item/gray_turf_carpet.json"
         ]
       }
     },
@@ -5104,10 +5104,10 @@
       "registry_name": "black_turf_carpet",
       "metadata": {
         "files": [
+          "src/main/resources/assets/blockblitz/blockstates/black_turf_carpet.json",
           "src/main/java/net/mcreator/blockblitz/block/BlackTurfCarpetBlock.java",
           "src/main/resources/assets/blockblitz/models/block/black_turf_carpet.json",
-          "src/main/resources/assets/blockblitz/models/item/black_turf_carpet.json",
-          "src/main/resources/assets/blockblitz/blockstates/black_turf_carpet.json"
+          "src/main/resources/assets/blockblitz/models/item/black_turf_carpet.json"
         ]
       }
     },
@@ -5120,10 +5120,10 @@
       "registry_name": "brown_turf_carpet",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/item/brown_turf_carpet.json",
+          "src/main/resources/assets/blockblitz/blockstates/brown_turf_carpet.json",
           "src/main/resources/assets/blockblitz/models/block/brown_turf_carpet.json",
-          "src/main/java/net/mcreator/blockblitz/block/BrownTurfCarpetBlock.java",
-          "src/main/resources/assets/blockblitz/blockstates/brown_turf_carpet.json"
+          "src/main/resources/assets/blockblitz/models/item/brown_turf_carpet.json",
+          "src/main/java/net/mcreator/blockblitz/block/BrownTurfCarpetBlock.java"
         ]
       }
     },
@@ -5136,10 +5136,10 @@
       "registry_name": "red_turf_carpet",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/item/red_turf_carpet.json",
-          "src/main/java/net/mcreator/blockblitz/block/RedTurfCarpetBlock.java",
           "src/main/resources/assets/blockblitz/models/block/red_turf_carpet.json",
-          "src/main/resources/assets/blockblitz/blockstates/red_turf_carpet.json"
+          "src/main/java/net/mcreator/blockblitz/block/RedTurfCarpetBlock.java",
+          "src/main/resources/assets/blockblitz/blockstates/red_turf_carpet.json",
+          "src/main/resources/assets/blockblitz/models/item/red_turf_carpet.json"
         ]
       }
     },
@@ -5152,10 +5152,10 @@
       "registry_name": "orange_turf_carpet",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/blockstates/orange_turf_carpet.json",
           "src/main/java/net/mcreator/blockblitz/block/OrangeTurfCarpetBlock.java",
+          "src/main/resources/assets/blockblitz/models/item/orange_turf_carpet.json",
           "src/main/resources/assets/blockblitz/models/block/orange_turf_carpet.json",
-          "src/main/resources/assets/blockblitz/models/item/orange_turf_carpet.json"
+          "src/main/resources/assets/blockblitz/blockstates/orange_turf_carpet.json"
         ]
       }
     },
@@ -5168,10 +5168,10 @@
       "registry_name": "yellow_turf_carpet",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/blockstates/yellow_turf_carpet.json",
-          "src/main/java/net/mcreator/blockblitz/block/YellowTurfCarpetBlock.java",
           "src/main/resources/assets/blockblitz/models/block/yellow_turf_carpet.json",
-          "src/main/resources/assets/blockblitz/models/item/yellow_turf_carpet.json"
+          "src/main/resources/assets/blockblitz/models/item/yellow_turf_carpet.json",
+          "src/main/resources/assets/blockblitz/blockstates/yellow_turf_carpet.json",
+          "src/main/java/net/mcreator/blockblitz/block/YellowTurfCarpetBlock.java"
         ]
       }
     },
@@ -5200,9 +5200,9 @@
       "registry_name": "lime_turf_carpet",
       "metadata": {
         "files": [
+          "src/main/resources/assets/blockblitz/blockstates/lime_turf_carpet.json",
           "src/main/java/net/mcreator/blockblitz/block/LimeTurfCarpetBlock.java",
           "src/main/resources/assets/blockblitz/models/item/lime_turf_carpet.json",
-          "src/main/resources/assets/blockblitz/blockstates/lime_turf_carpet.json",
           "src/main/resources/assets/blockblitz/models/block/lime_turf_carpet.json"
         ]
       }
@@ -5217,9 +5217,9 @@
       "metadata": {
         "files": [
           "src/main/java/net/mcreator/blockblitz/block/CyanTurfCarpetBlock.java",
-          "src/main/resources/assets/blockblitz/models/item/cyan_turf_carpet.json",
           "src/main/resources/assets/blockblitz/blockstates/cyan_turf_carpet.json",
-          "src/main/resources/assets/blockblitz/models/block/cyan_turf_carpet.json"
+          "src/main/resources/assets/blockblitz/models/block/cyan_turf_carpet.json",
+          "src/main/resources/assets/blockblitz/models/item/cyan_turf_carpet.json"
         ]
       }
     },
@@ -5232,10 +5232,10 @@
       "registry_name": "light_blue_turf_carpet",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/blockstates/light_blue_turf_carpet.json",
-          "src/main/resources/assets/blockblitz/models/block/light_blue_turf_carpet.json",
           "src/main/java/net/mcreator/blockblitz/block/LightBlueTurfCarpetBlock.java",
-          "src/main/resources/assets/blockblitz/models/item/light_blue_turf_carpet.json"
+          "src/main/resources/assets/blockblitz/models/item/light_blue_turf_carpet.json",
+          "src/main/resources/assets/blockblitz/models/block/light_blue_turf_carpet.json",
+          "src/main/resources/assets/blockblitz/blockstates/light_blue_turf_carpet.json"
         ]
       }
     },
@@ -5248,10 +5248,10 @@
       "registry_name": "blue_turf_carpet",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/blockstates/blue_turf_carpet.json",
-          "src/main/resources/assets/blockblitz/models/block/blue_turf_carpet.json",
+          "src/main/resources/assets/blockblitz/models/item/blue_turf_carpet.json",
           "src/main/java/net/mcreator/blockblitz/block/BlueTurfCarpetBlock.java",
-          "src/main/resources/assets/blockblitz/models/item/blue_turf_carpet.json"
+          "src/main/resources/assets/blockblitz/models/block/blue_turf_carpet.json",
+          "src/main/resources/assets/blockblitz/blockstates/blue_turf_carpet.json"
         ]
       }
     },
@@ -5265,8 +5265,8 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/blockblitz/models/block/purple_turf_carpet.json",
-          "src/main/java/net/mcreator/blockblitz/block/PurpleTurfCarpetBlock.java",
           "src/main/resources/assets/blockblitz/models/item/purple_turf_carpet.json",
+          "src/main/java/net/mcreator/blockblitz/block/PurpleTurfCarpetBlock.java",
           "src/main/resources/assets/blockblitz/blockstates/purple_turf_carpet.json"
         ]
       }
@@ -5280,10 +5280,10 @@
       "registry_name": "magenta_turf_carpet",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/blockblitz/block/MagentaTurfCarpetBlock.java",
           "src/main/resources/assets/blockblitz/models/block/magenta_turf_carpet.json",
+          "src/main/resources/assets/blockblitz/blockstates/magenta_turf_carpet.json",
           "src/main/resources/assets/blockblitz/models/item/magenta_turf_carpet.json",
-          "src/main/resources/assets/blockblitz/blockstates/magenta_turf_carpet.json"
+          "src/main/java/net/mcreator/blockblitz/block/MagentaTurfCarpetBlock.java"
         ]
       }
     },
@@ -5296,9 +5296,9 @@
       "registry_name": "pink_turf_carpet",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/block/pink_turf_carpet.json",
           "src/main/java/net/mcreator/blockblitz/block/PinkTurfCarpetBlock.java",
           "src/main/resources/assets/blockblitz/models/item/pink_turf_carpet.json",
+          "src/main/resources/assets/blockblitz/models/block/pink_turf_carpet.json",
           "src/main/resources/assets/blockblitz/blockstates/pink_turf_carpet.json"
         ]
       }
@@ -5312,8 +5312,8 @@
       "registry_name": "steel_ingot",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/item/steel_ingot.json",
-          "src/main/java/net/mcreator/blockblitz/item/SteelIngotItem.java"
+          "src/main/java/net/mcreator/blockblitz/item/SteelIngotItem.java",
+          "src/main/resources/assets/blockblitz/models/item/steel_ingot.json"
         ]
       }
     },
@@ -5365,10 +5365,10 @@
       "registry_name": "golden_apple_bookshelf",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/item/golden_apple_bookshelf.json",
+          "src/main/resources/assets/blockblitz/blockstates/golden_apple_bookshelf.json",
           "src/main/resources/assets/blockblitz/models/block/golden_apple_bookshelf.json",
           "src/main/java/net/mcreator/blockblitz/block/GoldenAppleBookshelfBlock.java",
-          "src/main/resources/assets/blockblitz/blockstates/golden_apple_bookshelf.json"
+          "src/main/resources/assets/blockblitz/models/item/golden_apple_bookshelf.json"
         ]
       }
     },
@@ -5553,8 +5553,8 @@
       "registry_name": "steel_shovel",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/item/steel_shovel.json",
-          "src/main/java/net/mcreator/blockblitz/item/SteelShovelItem.java"
+          "src/main/java/net/mcreator/blockblitz/item/SteelShovelItem.java",
+          "src/main/resources/assets/blockblitz/models/item/steel_shovel.json"
         ]
       }
     },
@@ -5646,8 +5646,8 @@
       "registry_name": "niobium_axe",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/item/niobium_axe.json",
-          "src/main/java/net/mcreator/blockblitz/item/NiobiumAxeItem.java"
+          "src/main/java/net/mcreator/blockblitz/item/NiobiumAxeItem.java",
+          "src/main/resources/assets/blockblitz/models/item/niobium_axe.json"
         ]
       }
     },
@@ -5660,8 +5660,8 @@
       "registry_name": "niobium_hoe",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/blockblitz/item/NiobiumHoeItem.java",
-          "src/main/resources/assets/blockblitz/models/item/niobium_hoe.json"
+          "src/main/resources/assets/blockblitz/models/item/niobium_hoe.json",
+          "src/main/java/net/mcreator/blockblitz/item/NiobiumHoeItem.java"
         ]
       }
     },
@@ -5688,8 +5688,8 @@
       "registry_name": "niobium_shovel",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/blockblitz/item/NiobiumShovelItem.java",
-          "src/main/resources/assets/blockblitz/models/item/niobium_shovel.json"
+          "src/main/resources/assets/blockblitz/models/item/niobium_shovel.json",
+          "src/main/java/net/mcreator/blockblitz/item/NiobiumShovelItem.java"
         ]
       }
     },
@@ -5877,11 +5877,11 @@
       "registry_name": "mold_lava",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/blockblitz/block/MoldLavaBlock.java",
-          "src/main/resources/assets/blockblitz/models/item/mold_lava.json",
+          "src/main/java/net/mcreator/blockblitz/block/entity/MoldLavaBlockEntity.java",
           "src/main/resources/assets/blockblitz/models/block/mold_lava.json",
-          "src/main/resources/assets/blockblitz/blockstates/mold_lava.json",
-          "src/main/java/net/mcreator/blockblitz/block/entity/MoldLavaBlockEntity.java"
+          "src/main/resources/assets/blockblitz/models/item/mold_lava.json",
+          "src/main/java/net/mcreator/blockblitz/block/MoldLavaBlock.java",
+          "src/main/resources/assets/blockblitz/blockstates/mold_lava.json"
         ]
       },
       "path": "~/MoldStuff"
@@ -5895,14 +5895,40 @@
       "registry_name": "mold_ingot",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/blockblitz/block/entity/MoldIngotBlockEntity.java",
           "src/main/resources/assets/blockblitz/models/block/mold_ingot.json",
-          "src/main/java/net/mcreator/blockblitz/block/MoldIngotBlock.java",
           "src/main/resources/assets/blockblitz/models/item/mold_ingot.json",
-          "src/main/resources/assets/blockblitz/blockstates/mold_ingot.json"
+          "src/main/resources/assets/blockblitz/blockstates/mold_ingot.json",
+          "src/main/java/net/mcreator/blockblitz/block/entity/MoldIngotBlockEntity.java",
+          "src/main/java/net/mcreator/blockblitz/block/MoldIngotBlock.java"
         ]
       },
       "path": "~/MoldStuff"
+    },
+    {
+      "name": "RWhiteTurf",
+      "type": "recipe",
+      "sortid": 390,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_white_turf",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_white_turf.json"
+        ]
+      }
+    },
+    {
+      "name": "RLightGrayTurf",
+      "type": "recipe",
+      "sortid": 391,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_light_gray_turf",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_light_gray_turf.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -5922,8 +5948,8 @@
       "block.blockblitz.chiseled_calcite": "Chiseled Calcite",
       "block.blockblitz.black_turf": "Gray Turf",
       "block.blockblitz.chrome_deepslate_ore": "Chrome Deepslate Ore",
-      "block.blockblitz.maple_trapdoor": "Кленовый люк",
       "item.blockblitz.niobium_pickaxe": "Niobium Pickaxe",
+      "block.blockblitz.maple_trapdoor": "Кленовый люк",
       "block.blockblitz.calcite_slab": "Calcite Slab",
       "block.blockblitz.denim_carpet": "Denim Block",
       "block.blockblitz.granite_button": "Granite Button",
@@ -5948,19 +5974,19 @@
       "block.blockblitz.birch_bookshelf": "Берёзовая книжная полка",
       "item.blockblitz.turquoise": "Бирюза",
       "block.blockblitz.light_gray_turf": "White Turf",
-      "block.blockblitz.calcite_brick_wall": "Calcite Brick Wall",
       "block.blockblitz.niobium_ore": "Ниобиевая руда",
+      "block.blockblitz.calcite_brick_wall": "Calcite Brick Wall",
       "block.blockblitz.light_blue_turf_carpet": "Cyan Turf Carpet",
       "biome.blockblitz.autumn_forest": "Осенний лес",
-      "block.blockblitz.apple_log": "Яблочное бревно",
       "block.blockblitz.block_of_aluminium": "Блок алюминия",
+      "block.blockblitz.apple_log": "Яблочное бревно",
       "block.blockblitz.diorite_pressure_plate": "Diorite Pressure Plate",
       "block.blockblitz.brown_turf_carpet": "Black Turf Carpet",
       "block.blockblitz.oil_ore": "Маслянная руда",
       "block.blockblitz.apple_bookshelf": "Apple Bookshelf",
       "block.blockblitz.gray_turf": "Light Gray Turf",
-      "block.blockblitz.mulberry_wood": "Mulberry Wood",
       "item.blockblitz.steel_hoe": "Steel Hoe",
+      "block.blockblitz.mulberry_wood": "Mulberry Wood",
       "block.blockblitz.pink_turf": "Yellow Turf",
       "block.blockblitz.maple_bookshelf": "Кленовая книжная полка",
       "block.blockblitz.black_turf_carpet": "Gray Turf Carpet",
@@ -5974,8 +6000,8 @@
       "item.blockblitz.amethyst_hoe": "Аметистовая мотыга",
       "item.blockblitz.chrome_ingot": "Chrome Ingot",
       "block.blockblitz.deepslate_button": "Gold Button",
-      "block.blockblitz.apple_stairs": "Яблочные ступеньки",
       "block.blockblitz.aluminium_ore": "Алюминиевая руда",
+      "block.blockblitz.apple_stairs": "Яблочные ступеньки",
       "block.blockblitz.acacia_bookshelf": "Книжная полка из акации",
       "item.blockblitz.turquoise_powder": "Порошок бирюзы",
       "block.blockblitz.aerogel_block": "Блок аэрогеля",
@@ -6175,15 +6201,15 @@
       "block.blockblitz.calcite_brick_wall": "Calcite Brick Wall",
       "block.blockblitz.light_blue_turf_carpet": "Cyan Turf Carpet",
       "biome.blockblitz.autumn_forest": "Jesienny las",
-      "block.blockblitz.apple_log": "Kłoda z jabłoni",
       "block.blockblitz.block_of_aluminium": "Block Of Aluminium",
+      "block.blockblitz.apple_log": "Kłoda z jabłoni",
       "block.blockblitz.diorite_pressure_plate": "Diorite Pressure Plate",
       "block.blockblitz.brown_turf_carpet": "Black Turf Carpet",
       "block.blockblitz.oil_ore": "Ruda ropy",
       "block.blockblitz.apple_bookshelf": "Apple Bookshelf",
       "block.blockblitz.gray_turf": "Light Gray Turf",
-      "block.blockblitz.mulberry_wood": "Mulberry Wood",
       "item.blockblitz.steel_hoe": "Steel Hoe",
+      "block.blockblitz.mulberry_wood": "Mulberry Wood",
       "block.blockblitz.pink_turf": "Yellow Turf",
       "block.blockblitz.maple_bookshelf": "Klonowa półka na książki ",
       "block.blockblitz.black_turf_carpet": "Gray Turf Carpet",
@@ -6192,14 +6218,14 @@
       "block.blockblitz.mulberry_planks": "Deska morwowa",
       "block.blockblitz.maple_wood": "Maple Wood",
       "block.blockblitz.gapple_door": "Golden Apple Door",
-      "block.blockblitz.cherry_ladder": "Acacia Ladder",
       "block.blockblitz.magenta_turf_carpet": "Purple Turf Carpet",
+      "block.blockblitz.cherry_ladder": "Acacia Ladder",
       "block.blockblitz.polished_calcite_wall": "Polished Calcite Wall",
       "item.blockblitz.amethyst_hoe": "Ametystowa motyka",
       "item.blockblitz.chrome_ingot": "Chrome Ingot",
       "block.blockblitz.deepslate_button": "Gold Button",
-      "block.blockblitz.apple_stairs": "Schody z jabłoni",
       "block.blockblitz.aluminium_ore": "Aluminium Ore",
+      "block.blockblitz.apple_stairs": "Schody z jabłoni",
       "block.blockblitz.acacia_bookshelf": "Półka na książki z akacji",
       "block.blockblitz.aerogel_block": "Aerogel Block",
       "block.blockblitz.orange_turf_carpet": "Red Turf Carpet",
@@ -6403,19 +6429,19 @@
       "block.blockblitz.birch_bookshelf": "Birch Bookshelf",
       "item.blockblitz.turquoise": "Turquoise",
       "block.blockblitz.light_gray_turf": "Light Gray Turf",
-      "block.blockblitz.niobium_ore": "Niobium Ore",
       "block.blockblitz.calcite_brick_wall": "Calcite Brick Wall",
+      "block.blockblitz.niobium_ore": "Niobium Ore",
       "block.blockblitz.light_blue_turf_carpet": "Light Blue Turf Carpet",
       "biome.blockblitz.autumn_forest": "Autumn Forest",
       "block.blockblitz.block_of_aluminium": "Block Of Aluminium",
       "block.blockblitz.apple_log": "Apple Log",
       "block.blockblitz.diorite_pressure_plate": "Diorite Pressure Plate",
       "block.blockblitz.brown_turf_carpet": "Brown Turf Carpet",
-      "block.blockblitz.oil_ore": "Oil Ore",
       "block.blockblitz.apple_bookshelf": "Apple Bookshelf",
+      "block.blockblitz.oil_ore": "Oil Ore",
       "block.blockblitz.gray_turf": "Gray Turf",
-      "item.blockblitz.steel_hoe": "Steel Hoe",
       "block.blockblitz.mulberry_wood": "Mulberry Wood",
+      "item.blockblitz.steel_hoe": "Steel Hoe",
       "block.blockblitz.pink_turf": "Pink Turf",
       "block.blockblitz.maple_bookshelf": "Maple Bookshelf",
       "block.blockblitz.black_turf_carpet": "Black Turf Carpet",
@@ -6425,14 +6451,14 @@
       "block.blockblitz.mulberry_planks": "Mulberry Planks",
       "block.blockblitz.maple_wood": "Maple Wood",
       "block.blockblitz.gapple_door": "Golden Apple Door",
-      "block.blockblitz.cherry_ladder": "Cherry Ladder",
       "block.blockblitz.magenta_turf_carpet": "Magenta Turf Carpet",
+      "block.blockblitz.cherry_ladder": "Cherry Ladder",
       "block.blockblitz.polished_calcite_wall": "Polished Calcite Wall",
       "item.blockblitz.amethyst_hoe": "Amethyst Hoe",
       "item.blockblitz.chrome_ingot": "Chrome Ingot",
       "block.blockblitz.deepslate_button": "Deepslate Button",
-      "block.blockblitz.aluminium_ore": "Aluminium Ore",
       "block.blockblitz.apple_stairs": "Apple Stairs",
+      "block.blockblitz.aluminium_ore": "Aluminium Ore",
       "block.blockblitz.acacia_bookshelf": "Acacia Bookshelf",
       "block.blockblitz.aerogel_block": "Aerogel Block",
       "item.blockblitz.turquoise_powder": "Turquoise Powder",
@@ -6644,19 +6670,19 @@
       "block.blockblitz.birch_bookshelf": "Librería de Abedul",
       "item.blockblitz.turquoise": "Turquesa",
       "block.blockblitz.light_gray_turf": "White Turf",
-      "block.blockblitz.niobium_ore": "Niobium Ore",
       "block.blockblitz.calcite_brick_wall": "Calcite Brick Wall",
+      "block.blockblitz.niobium_ore": "Niobium Ore",
       "block.blockblitz.light_blue_turf_carpet": "Cyan Turf Carpet",
       "biome.blockblitz.autumn_forest": "Bosque del Otoño",
       "block.blockblitz.block_of_aluminium": "Block Of Aluminium",
       "block.blockblitz.apple_log": "Tronco de Manzano",
       "block.blockblitz.diorite_pressure_plate": "Diorite Pressure Plate",
       "block.blockblitz.brown_turf_carpet": "Black Turf Carpet",
-      "block.blockblitz.oil_ore": "Mena de Petróleo",
       "block.blockblitz.apple_bookshelf": "Apple Bookshelf",
+      "block.blockblitz.oil_ore": "Mena de Petróleo",
       "block.blockblitz.gray_turf": "Light Gray Turf",
-      "item.blockblitz.steel_hoe": "Steel Hoe",
       "block.blockblitz.mulberry_wood": "Mulberry Wood",
+      "item.blockblitz.steel_hoe": "Steel Hoe",
       "block.blockblitz.pink_turf": "Yellow Turf",
       "block.blockblitz.maple_bookshelf": "Librería de Arce",
       "block.blockblitz.black_turf_carpet": "Gray Turf Carpet",
@@ -6666,14 +6692,14 @@
       "block.blockblitz.mulberry_planks": "Tablones de Mora",
       "block.blockblitz.maple_wood": "Maple Wood",
       "block.blockblitz.gapple_door": "Golden Apple Door",
-      "block.blockblitz.cherry_ladder": "Acacia Ladder",
       "block.blockblitz.magenta_turf_carpet": "Purple Turf Carpet",
+      "block.blockblitz.cherry_ladder": "Acacia Ladder",
       "block.blockblitz.polished_calcite_wall": "Polished Calcite Wall",
       "item.blockblitz.amethyst_hoe": "Azada de Amatista",
       "item.blockblitz.chrome_ingot": "Chrome Ingot",
       "block.blockblitz.deepslate_button": "Gold Button",
-      "block.blockblitz.aluminium_ore": "Aluminium Ore",
       "block.blockblitz.apple_stairs": "Escaleras de Manzano",
+      "block.blockblitz.aluminium_ore": "Aluminium Ore",
       "block.blockblitz.acacia_bookshelf": "Librería de Acacia",
       "block.blockblitz.aerogel_block": "Aerogel Block",
       "item.blockblitz.turquoise_powder": "Turquoise Powder",
@@ -6885,19 +6911,19 @@
       "block.blockblitz.birch_bookshelf": "Birkenholzbücherregal",
       "item.blockblitz.turquoise": "Türkis",
       "block.blockblitz.light_gray_turf": "White Turf",
-      "block.blockblitz.niobium_ore": "Niobium Ore",
       "block.blockblitz.calcite_brick_wall": "Calcite Brick Wall",
+      "block.blockblitz.niobium_ore": "Niobium Ore",
       "block.blockblitz.light_blue_turf_carpet": "Cyan Turf Carpet",
       "biome.blockblitz.autumn_forest": "Herbst Wald",
       "block.blockblitz.apple_log": "Apfelbaumstamm",
       "block.blockblitz.block_of_aluminium": "Block Of Aluminium",
       "block.blockblitz.diorite_pressure_plate": "Diorite Pressure Plate",
       "block.blockblitz.brown_turf_carpet": "Black Turf Carpet",
-      "block.blockblitz.oil_ore": "Erdölerz",
       "block.blockblitz.apple_bookshelf": "Apple Bookshelf",
+      "block.blockblitz.oil_ore": "Erdölerz",
       "block.blockblitz.gray_turf": "Light Gray Turf",
-      "item.blockblitz.steel_hoe": "Steel Hoe",
       "block.blockblitz.mulberry_wood": "Mulberry Wood",
+      "item.blockblitz.steel_hoe": "Steel Hoe",
       "block.blockblitz.pink_turf": "Yellow Turf",
       "block.blockblitz.maple_bookshelf": "Ahornholzbücherregal",
       "block.blockblitz.black_turf_carpet": "Gray Turf Carpet",
@@ -6907,14 +6933,14 @@
       "block.blockblitz.mulberry_planks": "Maulbeerenholzstämmer",
       "block.blockblitz.maple_wood": "Maple Wood",
       "block.blockblitz.gapple_door": "Golden Apple Door",
-      "block.blockblitz.cherry_ladder": "Acacia Ladder",
       "block.blockblitz.magenta_turf_carpet": "Purple Turf Carpet",
+      "block.blockblitz.cherry_ladder": "Acacia Ladder",
       "block.blockblitz.polished_calcite_wall": "Polished Calcite Wall",
       "item.blockblitz.amethyst_hoe": "AmethysthackeR",
       "item.blockblitz.chrome_ingot": "Chrome Ingot",
       "block.blockblitz.deepslate_button": "Gold Button",
-      "block.blockblitz.aluminium_ore": "Aluminium Ore",
       "block.blockblitz.apple_stairs": "Apfelholztreppen",
+      "block.blockblitz.aluminium_ore": "Aluminium Ore",
       "block.blockblitz.acacia_bookshelf": "Akazienholzbücherregal",
       "block.blockblitz.aerogel_block": "Aerogel Block",
       "item.blockblitz.turquoise_powder": "Turquoise Powder",
