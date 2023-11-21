@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 10.0,
+    "cookingTime": 100,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:RawNiobium"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:NiobiumIngot"
+    },
+    "name": "niob_blast",
+    "namespace": "mod"
+  }
+}

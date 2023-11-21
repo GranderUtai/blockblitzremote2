@@ -2,7 +2,7 @@
   "_fv": 47,
   "_type": "structure",
   "definition": {
-    "structure": "gappletree1",
+    "structure": "gappletree4",
     "randomlyRotateStructure": true,
     "surfaceDetectionType": "First motion blocking block",
     "spawnProbability": 500,

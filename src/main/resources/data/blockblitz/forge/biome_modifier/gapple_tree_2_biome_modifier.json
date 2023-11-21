@@ -1,0 +1,13 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "forest",
+    "blockblitz:mulberry_forest",
+    "blockblitz:autumn_forest",
+    "plains",
+    "birch_forest",
+    "blockblitz:apple_forest"
+  ],
+  "features": "blockblitz:gapple_tree_2",
+  "step": "surface_structures"
+}

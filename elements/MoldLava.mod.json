@@ -96,7 +96,7 @@
     "stepSound": {
       "value": ""
     },
-    "luminance": 7,
+    "luminance": 12,
     "unbreakable": false,
     "breakHarvestLevel": 1,
     "placingCondition": {
@@ -111,7 +111,10 @@
     "inventoryDropWhenDestroyed": true,
     "inventoryComparatorPower": true,
     "inventoryOutSlotIDs": [],
-    "inventoryInSlotIDs": [],
+    "inventoryInSlotIDs": [
+      1,
+      2
+    ],
     "hasEnergyStorage": false,
     "energyInitial": 0,
     "energyCapacity": 400000,

@@ -25,6 +25,9 @@ import net.mcreator.blockblitz.world.features.ores.DeepslateOilOreFeature;
 import net.mcreator.blockblitz.world.features.ores.ChromeOreFeature;
 import net.mcreator.blockblitz.world.features.ores.ChromeDeepslateOreFeature;
 import net.mcreator.blockblitz.world.features.TumbleweedMessFeature;
+import net.mcreator.blockblitz.world.features.GappleTree4Feature;
+import net.mcreator.blockblitz.world.features.GappleTree3Feature;
+import net.mcreator.blockblitz.world.features.GappleTree2Feature;
 import net.mcreator.blockblitz.world.features.GappleTree1Feature;
 import net.mcreator.blockblitz.world.features.FrequentTumblesFeature;
 import net.mcreator.blockblitz.BlockblitzMod;
@@ -48,4 +51,7 @@ public class BlockblitzModFeatures {
 	public static final RegistryObject<Feature<?>> TUMBLEWEED_MESS = REGISTRY.register("tumbleweed_mess", TumbleweedMessFeature::new);
 	public static final RegistryObject<Feature<?>> FREQUENT_TUMBLES = REGISTRY.register("frequent_tumbles", FrequentTumblesFeature::new);
 	public static final RegistryObject<Feature<?>> GAPPLE_TREE_1 = REGISTRY.register("gapple_tree_1", GappleTree1Feature::new);
+	public static final RegistryObject<Feature<?>> GAPPLE_TREE_2 = REGISTRY.register("gapple_tree_2", GappleTree2Feature::new);
+	public static final RegistryObject<Feature<?>> GAPPLE_TREE_3 = REGISTRY.register("gapple_tree_3", GappleTree3Feature::new);
+	public static final RegistryObject<Feature<?>> GAPPLE_TREE_4 = REGISTRY.register("gapple_tree_4", GappleTree4Feature::new);
 }

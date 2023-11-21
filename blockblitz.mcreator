@@ -2513,7 +2513,6 @@
       "metadata": {
         "files": [
           "src/main/java/net/mcreator/blockblitz/client/gui/MoldGuiScreen.java",
-          "src/main/java/net/mcreator/blockblitz/network/MoldGuiSlotMessage.java",
           "src/main/java/net/mcreator/blockblitz/world/inventory/MoldGuiMenu.java"
         ]
       },
@@ -5806,70 +5805,6 @@
       "path": "~/MoldStuff/Procedures"
     },
     {
-      "name": "FuelScript",
-      "type": "procedure",
-      "sortid": 386,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "fuel_script",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/blockblitz/procedures/FuelScriptProcedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/MoldStuff/Procedures"
-    },
-    {
-      "name": "MoldSteelRecipe",
-      "type": "procedure",
-      "sortid": 387,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "mold_steel_recipe",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/blockblitz/procedures/MoldSteelRecipeProcedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/MoldStuff/Recipes"
-    },
-    {
       "name": "MoldLava",
       "type": "block",
       "sortid": 388,
@@ -5970,38 +5905,6 @@
       "path": "~/MoldStuff/Procedures"
     },
     {
-      "name": "MainRecipeScript",
-      "type": "procedure",
-      "sortid": 392,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "main_recipe_script",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/blockblitz/procedures/MainRecipeScriptProcedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/MoldStuff/Procedures"
-    },
-    {
       "name": "MoldIngotReset",
       "type": "procedure",
       "sortid": 393,
@@ -6032,6 +5935,93 @@
         ]
       },
       "path": "~/MoldStuff/Procedures"
+    },
+    {
+      "name": "GappleTree2",
+      "type": "structure",
+      "sortid": 394,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gapple_tree_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/blockblitz/world/features/GappleTree2Feature.java",
+          "src/main/resources/data/blockblitz/forge/biome_modifier/gapple_tree_2_biome_modifier.json",
+          "src/main/resources/data/blockblitz/worldgen/placed_feature/gapple_tree_2.json",
+          "src/main/resources/data/blockblitz/worldgen/configured_feature/gapple_tree_2.json"
+        ]
+      }
+    },
+    {
+      "name": "GappleTree3",
+      "type": "structure",
+      "sortid": 395,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gapple_tree_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/worldgen/configured_feature/gapple_tree_3.json",
+          "src/main/java/net/mcreator/blockblitz/world/features/GappleTree3Feature.java",
+          "src/main/resources/data/blockblitz/worldgen/placed_feature/gapple_tree_3.json",
+          "src/main/resources/data/blockblitz/forge/biome_modifier/gapple_tree_3_biome_modifier.json"
+        ]
+      }
+    },
+    {
+      "name": "GappleTree4",
+      "type": "structure",
+      "sortid": 396,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gapple_tree_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/forge/biome_modifier/gapple_tree_4_biome_modifier.json",
+          "src/main/resources/data/blockblitz/worldgen/configured_feature/gapple_tree_4.json",
+          "src/main/resources/data/blockblitz/worldgen/placed_feature/gapple_tree_4.json",
+          "src/main/java/net/mcreator/blockblitz/world/features/GappleTree4Feature.java"
+        ]
+      }
+    },
+    {
+      "name": "TungBlast",
+      "type": "recipe",
+      "sortid": 397,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tung_blast",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/tung_blast.json"
+        ]
+      }
+    },
+    {
+      "name": "ChromeBlast",
+      "type": "recipe",
+      "sortid": 398,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chrome_blast",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/chrome_blast.json"
+        ]
+      }
+    },
+    {
+      "name": "NiobBlast",
+      "type": "recipe",
+      "sortid": 399,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "niob_blast",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/niob_blast.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -7231,10 +7221,6 @@
         "children": [
           {
             "name": "Procedures",
-            "children": []
-          },
-          {
-            "name": "Recipes",
             "children": []
           }
         ]

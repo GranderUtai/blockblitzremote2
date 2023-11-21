@@ -105,7 +105,7 @@
     "isBonemealable": false,
     "hasInventory": true,
     "guiBoundTo": "MoldGui",
-    "openGUIOnRightClick": true,
+    "openGUIOnRightClick": false,
     "inventorySize": 5,
     "inventoryStackSize": 1,
     "inventoryDropWhenDestroyed": true,
@@ -120,6 +120,9 @@
     "isFluidTank": false,
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
+    "onRightClicked": {
+      "name": "MoldIngotReset"
+    },
     "spawnWorldTypes": [],
     "restrictionBiomes": [],
     "blocksToReplace": [

@@ -51,9 +51,6 @@
             "fixedValue": false
           },
           "dropItemsWhenNotBound": true,
-          "onTakenFromSlot": {
-            "name": "MoldIngotReset"
-          },
           "x": 204,
           "y": 44
         }

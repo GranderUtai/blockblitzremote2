@@ -20,12 +20,12 @@ import net.minecraft.core.BlockPos;
 import java.util.Set;
 import java.util.List;
 
-public class GappleTree1Feature extends Feature<NoneFeatureConfiguration> {
+public class GappleTree3Feature extends Feature<NoneFeatureConfiguration> {
 	private final Set<ResourceKey<Level>> generate_dimensions = Set.of(Level.OVERWORLD);
 	private final List<Block> base_blocks;
 	private StructureTemplate template = null;
 
-	public GappleTree1Feature() {
+	public GappleTree3Feature() {
 		super(NoneFeatureConfiguration.CODEC);
 		base_blocks = List.of(Blocks.GRASS_BLOCK, Blocks.DIRT);
 	}
@@ -35,7 +35,7 @@ public class GappleTree1Feature extends Feature<NoneFeatureConfiguration> {
 		if (!generate_dimensions.contains(context.level().getLevel().dimension()))
 			return false;
 		if (template == null)
-			template = context.level().getLevel().getStructureManager().getOrCreate(new ResourceLocation("blockblitz", "gappletree1"));
+			template = context.level().getLevel().getStructureManager().getOrCreate(new ResourceLocation("blockblitz", "gappletree3"));
 		if (template == null)
 			return false;
 		boolean anyPlaced = false;

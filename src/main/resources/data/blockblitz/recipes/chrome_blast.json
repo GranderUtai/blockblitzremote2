@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "experience": 30,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "blockblitz:raw_chrome"
+  },
+  "result": "blockblitz:chrome_ingot"
+}

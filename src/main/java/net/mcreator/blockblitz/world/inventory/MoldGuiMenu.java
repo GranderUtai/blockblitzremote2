@@ -22,9 +22,7 @@ import net.minecraft.resources.ResourceLocation;
 import net.minecraft.network.FriendlyByteBuf;
 import net.minecraft.core.BlockPos;
 
-import net.mcreator.blockblitz.network.MoldGuiSlotMessage;
 import net.mcreator.blockblitz.init.BlockblitzModMenus;
-import net.mcreator.blockblitz.BlockblitzMod;
 
 import java.util.function.Supplier;
 import java.util.Map;
@@ -92,12 +90,6 @@ public class MoldGuiMenu extends AbstractContainerMenu implements Supplier<Map<I
 		}));
 		this.customSlots.put(3, this.addSlot(new SlotItemHandler(internal, 3, 78, 7) {
 			private final int slot = 3;
-
-			@Override
-			public void onTake(Player entity, ItemStack stack) {
-				super.onTake(entity, stack);
-				slotChanged(3, 1, 0);
-			}
 
 			@Override
 			public boolean mayPlace(ItemStack stack) {
@@ -261,13 +253,6 @@ public class MoldGuiMenu extends AbstractContainerMenu implements Supplier<Map<I
 					playerIn.getInventory().placeItemBackInInventory(internal.extractItem(i, internal.getStackInSlot(i).getCount(), false));
 				}
 			}
-		}
-	}
-
-	private void slotChanged(int slotid, int ctype, int meta) {
-		if (this.world != null && this.world.isClientSide()) {
-			BlockblitzMod.PACKET_HANDLER.sendToServer(new MoldGuiSlotMessage(slotid, x, y, z, ctype, meta));
-			MoldGuiSlotMessage.handleSlotAction(entity, slotid, ctype, meta, x, y, z);
 		}
 	}
 

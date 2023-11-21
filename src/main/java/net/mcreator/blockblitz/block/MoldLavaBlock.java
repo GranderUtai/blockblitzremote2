@@ -60,7 +60,7 @@ public class MoldLavaBlock extends Block implements EntityBlock {
 	public static final DirectionProperty FACING = HorizontalDirectionalBlock.FACING;
 
 	public MoldLavaBlock() {
-		super(BlockBehaviour.Properties.of().sound(SoundType.ANVIL).strength(1f, 10f).lightLevel(s -> 7).noOcclusion().pushReaction(PushReaction.BLOCK).isRedstoneConductor((bs, br, bp) -> false));
+		super(BlockBehaviour.Properties.of().sound(SoundType.ANVIL).strength(1f, 10f).lightLevel(s -> 12).noOcclusion().pushReaction(PushReaction.BLOCK).isRedstoneConductor((bs, br, bp) -> false));
 		this.registerDefaultState(this.stateDefinition.any().setValue(FACING, Direction.NORTH));
 	}
 
