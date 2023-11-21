@@ -5937,6 +5937,19 @@
       "path": "~/MoldStuff/Procedures"
     },
     {
+      "name": "NiobBlast",
+      "type": "recipe",
+      "sortid": 399,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "niob_blast",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/niob_blast.json"
+        ]
+      }
+    },
+    {
       "name": "GappleTree2",
       "type": "structure",
       "sortid": 394,
@@ -5953,22 +5966,6 @@
       }
     },
     {
-      "name": "GappleTree3",
-      "type": "structure",
-      "sortid": 395,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "gapple_tree_3",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/blockblitz/worldgen/configured_feature/gapple_tree_3.json",
-          "src/main/java/net/mcreator/blockblitz/world/features/GappleTree3Feature.java",
-          "src/main/resources/data/blockblitz/worldgen/placed_feature/gapple_tree_3.json",
-          "src/main/resources/data/blockblitz/forge/biome_modifier/gapple_tree_3_biome_modifier.json"
-        ]
-      }
-    },
-    {
       "name": "GappleTree4",
       "type": "structure",
       "sortid": 396,
@@ -5981,6 +5978,22 @@
           "src/main/resources/data/blockblitz/worldgen/configured_feature/gapple_tree_4.json",
           "src/main/resources/data/blockblitz/worldgen/placed_feature/gapple_tree_4.json",
           "src/main/java/net/mcreator/blockblitz/world/features/GappleTree4Feature.java"
+        ]
+      }
+    },
+    {
+      "name": "GappleTree3",
+      "type": "structure",
+      "sortid": 395,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gapple_tree_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/worldgen/configured_feature/gapple_tree_3.json",
+          "src/main/java/net/mcreator/blockblitz/world/features/GappleTree3Feature.java",
+          "src/main/resources/data/blockblitz/worldgen/placed_feature/gapple_tree_3.json",
+          "src/main/resources/data/blockblitz/forge/biome_modifier/gapple_tree_3_biome_modifier.json"
         ]
       }
     },
@@ -6011,15 +6024,418 @@
       }
     },
     {
-      "name": "NiobBlast",
+      "name": "RBlackTurfCarpet",
+      "type": "recipe",
+      "sortid": 411,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_black_turf_carpet",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_black_turf_carpet.json"
+        ]
+      }
+    },
+    {
+      "name": "RCyanTurf",
+      "type": "recipe",
+      "sortid": 402,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_cyan_turf",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_cyan_turf.json"
+        ]
+      }
+    },
+    {
+      "name": "RBlackTurf",
+      "type": "recipe",
+      "sortid": 395,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_black_turf",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_black_turf.json"
+        ]
+      }
+    },
+    {
+      "name": "RLightBlueTurf",
+      "type": "recipe",
+      "sortid": 403,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_light_blue_turf",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_light_blue_turf.json"
+        ]
+      }
+    },
+    {
+      "name": "RPinkTurf",
+      "type": "recipe",
+      "sortid": 407,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_pink_turf",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_pink_turf.json"
+        ]
+      }
+    },
+    {
+      "name": "RLightGrayTurf",
+      "type": "recipe",
+      "sortid": 391,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_light_gray_turf",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_light_gray_turf.json"
+        ]
+      }
+    },
+    {
+      "name": "RYellowTurfCarpet",
+      "type": "recipe",
+      "sortid": 415,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_yellow_turf_carpet",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_yellow_turf_carpet.json"
+        ]
+      }
+    },
+    {
+      "name": "RGreenTurf",
+      "type": "recipe",
+      "sortid": 401,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_green_turf",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_green_turf.json"
+        ]
+      }
+    },
+    {
+      "name": "RCyanTurfCarpet",
+      "type": "recipe",
+      "sortid": 418,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_cyan_turf_carpet",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_cyan_turf_carpet.json"
+        ]
+      }
+    },
+    {
+      "name": "RMagentaTurf",
+      "type": "recipe",
+      "sortid": 406,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_magenta_turf",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_magenta_turf.json"
+        ]
+      }
+    },
+    {
+      "name": "ROrangeTurfCarpet",
+      "type": "recipe",
+      "sortid": 414,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_orange_turf_carpet",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_orange_turf_carpet.json"
+        ]
+      }
+    },
+    {
+      "name": "RBrownTurf",
+      "type": "recipe",
+      "sortid": 396,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_brown_turf",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_brown_turf.json"
+        ]
+      }
+    },
+    {
+      "name": "RWhiteTurf",
+      "type": "recipe",
+      "sortid": 390,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_white_turf",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_white_turf.json"
+        ]
+      }
+    },
+    {
+      "name": "RRedTurf",
+      "type": "recipe",
+      "sortid": 397,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_red_turf",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_red_turf.json"
+        ]
+      }
+    },
+    {
+      "name": "RGrayTurf",
+      "type": "recipe",
+      "sortid": 394,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_gray_turf",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_gray_turf.json"
+        ]
+      }
+    },
+    {
+      "name": "RBlueTurf",
+      "type": "recipe",
+      "sortid": 404,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_blue_turf",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_blue_turf.json"
+        ]
+      }
+    },
+    {
+      "name": "RGrayTurfCarpet",
+      "type": "recipe",
+      "sortid": 410,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_gray_turf_carpet",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_gray_turf_carpet.json"
+        ]
+      }
+    },
+    {
+      "name": "RMagentaTurfCarpet",
+      "type": "recipe",
+      "sortid": 422,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_magenta_turf_carpet",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_magenta_turf_carpet.json"
+        ]
+      }
+    },
+    {
+      "name": "RPurpleTurfCarpet",
+      "type": "recipe",
+      "sortid": 421,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_purple_turf_carpet",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_purple_turf_carpet.json"
+        ]
+      }
+    },
+    {
+      "name": "RBlueTurfCarpet",
+      "type": "recipe",
+      "sortid": 420,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_blue_turf_carpet",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_blue_turf_carpet.json"
+        ]
+      }
+    },
+    {
+      "name": "RLightGrayTurfCarpet",
+      "type": "recipe",
+      "sortid": 409,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_light_gray_turf_carpet",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_light_gray_turf_carpet.json"
+        ]
+      }
+    },
+    {
+      "name": "RWhiteTurfCarpet",
+      "type": "recipe",
+      "sortid": 408,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_white_turf_carpet",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_white_turf_carpet.json"
+        ]
+      }
+    },
+    {
+      "name": "ROrangeTurf",
+      "type": "recipe",
+      "sortid": 398,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_orange_turf",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_orange_turf.json"
+        ]
+      }
+    },
+    {
+      "name": "RPinkTurfCarpet",
+      "type": "recipe",
+      "sortid": 423,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_pink_turf_carpet",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_pink_turf_carpet.json"
+        ]
+      }
+    },
+    {
+      "name": "RRedTurfCarpet",
+      "type": "recipe",
+      "sortid": 413,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_red_turf_carpet",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_red_turf_carpet.json"
+        ]
+      }
+    },
+    {
+      "name": "RYellowTurf",
       "type": "recipe",
       "sortid": 399,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "niob_blast",
+      "registry_name": "r_yellow_turf",
       "metadata": {
         "files": [
-          "src/main/resources/data/blockblitz/recipes/niob_blast.json"
+          "src/main/resources/data/blockblitz/recipes/r_yellow_turf.json"
+        ]
+      }
+    },
+    {
+      "name": "RLightBlueTurfCarpet",
+      "type": "recipe",
+      "sortid": 419,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_light_blue_turf_carpet",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_light_blue_turf_carpet.json"
+        ]
+      }
+    },
+    {
+      "name": "RLimeTurf",
+      "type": "recipe",
+      "sortid": 400,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_lime_turf",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_lime_turf.json"
+        ]
+      }
+    },
+    {
+      "name": "RGreenTurfCarpet",
+      "type": "recipe",
+      "sortid": 417,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_green_turf_carpet",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_green_turf_carpet.json"
+        ]
+      }
+    },
+    {
+      "name": "RLimeTurfCarpet",
+      "type": "recipe",
+      "sortid": 416,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_lime_turf_carpet",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_lime_turf_carpet.json"
+        ]
+      }
+    },
+    {
+      "name": "RBrownTurfCarpet",
+      "type": "recipe",
+      "sortid": 412,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_brown_turf_carpet",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_brown_turf_carpet.json"
+        ]
+      }
+    },
+    {
+      "name": "RPurpleTurf",
+      "type": "recipe",
+      "sortid": 405,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_purple_turf",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_purple_turf.json"
         ]
       }
     }
@@ -6041,8 +6457,8 @@
       "block.blockblitz.chiseled_calcite": "Chiseled Calcite",
       "block.blockblitz.black_turf": "Gray Turf",
       "block.blockblitz.chrome_deepslate_ore": "Chrome Deepslate Ore",
-      "item.blockblitz.niobium_pickaxe": "Niobium Pickaxe",
       "block.blockblitz.maple_trapdoor": "Кленовый люк",
+      "item.blockblitz.niobium_pickaxe": "Niobium Pickaxe",
       "block.blockblitz.calcite_slab": "Calcite Slab",
       "block.blockblitz.denim_carpet": "Denim Block",
       "block.blockblitz.granite_button": "Granite Button",
@@ -6067,19 +6483,19 @@
       "block.blockblitz.birch_bookshelf": "Берёзовая книжная полка",
       "item.blockblitz.turquoise": "Бирюза",
       "block.blockblitz.light_gray_turf": "White Turf",
-      "block.blockblitz.niobium_ore": "Ниобиевая руда",
       "block.blockblitz.calcite_brick_wall": "Calcite Brick Wall",
+      "block.blockblitz.niobium_ore": "Ниобиевая руда",
       "block.blockblitz.light_blue_turf_carpet": "Cyan Turf Carpet",
       "biome.blockblitz.autumn_forest": "Осенний лес",
-      "block.blockblitz.block_of_aluminium": "Блок алюминия",
       "block.blockblitz.apple_log": "Яблочное бревно",
+      "block.blockblitz.block_of_aluminium": "Блок алюминия",
       "block.blockblitz.diorite_pressure_plate": "Diorite Pressure Plate",
       "block.blockblitz.brown_turf_carpet": "Black Turf Carpet",
       "block.blockblitz.oil_ore": "Маслянная руда",
       "block.blockblitz.apple_bookshelf": "Apple Bookshelf",
       "block.blockblitz.gray_turf": "Light Gray Turf",
-      "item.blockblitz.steel_hoe": "Steel Hoe",
       "block.blockblitz.mulberry_wood": "Mulberry Wood",
+      "item.blockblitz.steel_hoe": "Steel Hoe",
       "block.blockblitz.pink_turf": "Yellow Turf",
       "block.blockblitz.maple_bookshelf": "Кленовая книжная полка",
       "block.blockblitz.black_turf_carpet": "Gray Turf Carpet",
@@ -6093,8 +6509,8 @@
       "item.blockblitz.amethyst_hoe": "Аметистовая мотыга",
       "item.blockblitz.chrome_ingot": "Chrome Ingot",
       "block.blockblitz.deepslate_button": "Gold Button",
-      "block.blockblitz.aluminium_ore": "Алюминиевая руда",
       "block.blockblitz.apple_stairs": "Яблочные ступеньки",
+      "block.blockblitz.aluminium_ore": "Алюминиевая руда",
       "block.blockblitz.acacia_bookshelf": "Книжная полка из акации",
       "item.blockblitz.turquoise_powder": "Порошок бирюзы",
       "block.blockblitz.aerogel_block": "Блок аэрогеля",
@@ -6294,15 +6710,15 @@
       "block.blockblitz.calcite_brick_wall": "Calcite Brick Wall",
       "block.blockblitz.light_blue_turf_carpet": "Cyan Turf Carpet",
       "biome.blockblitz.autumn_forest": "Jesienny las",
-      "block.blockblitz.block_of_aluminium": "Block Of Aluminium",
       "block.blockblitz.apple_log": "Kłoda z jabłoni",
+      "block.blockblitz.block_of_aluminium": "Block Of Aluminium",
       "block.blockblitz.diorite_pressure_plate": "Diorite Pressure Plate",
       "block.blockblitz.brown_turf_carpet": "Black Turf Carpet",
       "block.blockblitz.oil_ore": "Ruda ropy",
       "block.blockblitz.apple_bookshelf": "Apple Bookshelf",
       "block.blockblitz.gray_turf": "Light Gray Turf",
-      "item.blockblitz.steel_hoe": "Steel Hoe",
       "block.blockblitz.mulberry_wood": "Mulberry Wood",
+      "item.blockblitz.steel_hoe": "Steel Hoe",
       "block.blockblitz.pink_turf": "Yellow Turf",
       "block.blockblitz.maple_bookshelf": "Klonowa półka na książki ",
       "block.blockblitz.black_turf_carpet": "Gray Turf Carpet",
@@ -6311,14 +6727,14 @@
       "block.blockblitz.mulberry_planks": "Deska morwowa",
       "block.blockblitz.maple_wood": "Maple Wood",
       "block.blockblitz.gapple_door": "Golden Apple Door",
-      "block.blockblitz.magenta_turf_carpet": "Purple Turf Carpet",
       "block.blockblitz.cherry_ladder": "Acacia Ladder",
+      "block.blockblitz.magenta_turf_carpet": "Purple Turf Carpet",
       "block.blockblitz.polished_calcite_wall": "Polished Calcite Wall",
       "item.blockblitz.amethyst_hoe": "Ametystowa motyka",
       "item.blockblitz.chrome_ingot": "Chrome Ingot",
       "block.blockblitz.deepslate_button": "Gold Button",
-      "block.blockblitz.aluminium_ore": "Aluminium Ore",
       "block.blockblitz.apple_stairs": "Schody z jabłoni",
+      "block.blockblitz.aluminium_ore": "Aluminium Ore",
       "block.blockblitz.acacia_bookshelf": "Półka na książki z akacji",
       "block.blockblitz.aerogel_block": "Aerogel Block",
       "block.blockblitz.orange_turf_carpet": "Red Turf Carpet",
@@ -6522,19 +6938,19 @@
       "block.blockblitz.birch_bookshelf": "Birch Bookshelf",
       "item.blockblitz.turquoise": "Turquoise",
       "block.blockblitz.light_gray_turf": "Light Gray Turf",
-      "block.blockblitz.calcite_brick_wall": "Calcite Brick Wall",
       "block.blockblitz.niobium_ore": "Niobium Ore",
+      "block.blockblitz.calcite_brick_wall": "Calcite Brick Wall",
       "block.blockblitz.light_blue_turf_carpet": "Light Blue Turf Carpet",
       "biome.blockblitz.autumn_forest": "Autumn Forest",
       "block.blockblitz.block_of_aluminium": "Block Of Aluminium",
       "block.blockblitz.apple_log": "Apple Log",
       "block.blockblitz.diorite_pressure_plate": "Diorite Pressure Plate",
       "block.blockblitz.brown_turf_carpet": "Brown Turf Carpet",
-      "block.blockblitz.apple_bookshelf": "Apple Bookshelf",
       "block.blockblitz.oil_ore": "Oil Ore",
+      "block.blockblitz.apple_bookshelf": "Apple Bookshelf",
       "block.blockblitz.gray_turf": "Gray Turf",
-      "block.blockblitz.mulberry_wood": "Mulberry Wood",
       "item.blockblitz.steel_hoe": "Steel Hoe",
+      "block.blockblitz.mulberry_wood": "Mulberry Wood",
       "block.blockblitz.pink_turf": "Pink Turf",
       "block.blockblitz.maple_bookshelf": "Maple Bookshelf",
       "block.blockblitz.black_turf_carpet": "Black Turf Carpet",
@@ -6544,14 +6960,14 @@
       "block.blockblitz.mulberry_planks": "Mulberry Planks",
       "block.blockblitz.maple_wood": "Maple Wood",
       "block.blockblitz.gapple_door": "Golden Apple Door",
-      "block.blockblitz.magenta_turf_carpet": "Magenta Turf Carpet",
       "block.blockblitz.cherry_ladder": "Cherry Ladder",
+      "block.blockblitz.magenta_turf_carpet": "Magenta Turf Carpet",
       "block.blockblitz.polished_calcite_wall": "Polished Calcite Wall",
       "item.blockblitz.amethyst_hoe": "Amethyst Hoe",
       "item.blockblitz.chrome_ingot": "Chrome Ingot",
       "block.blockblitz.deepslate_button": "Deepslate Button",
-      "block.blockblitz.apple_stairs": "Apple Stairs",
       "block.blockblitz.aluminium_ore": "Aluminium Ore",
+      "block.blockblitz.apple_stairs": "Apple Stairs",
       "block.blockblitz.acacia_bookshelf": "Acacia Bookshelf",
       "block.blockblitz.aerogel_block": "Aerogel Block",
       "item.blockblitz.turquoise_powder": "Turquoise Powder",
@@ -6763,19 +7179,19 @@
       "block.blockblitz.birch_bookshelf": "Librería de Abedul",
       "item.blockblitz.turquoise": "Turquesa",
       "block.blockblitz.light_gray_turf": "White Turf",
-      "block.blockblitz.calcite_brick_wall": "Calcite Brick Wall",
       "block.blockblitz.niobium_ore": "Niobium Ore",
+      "block.blockblitz.calcite_brick_wall": "Calcite Brick Wall",
       "block.blockblitz.light_blue_turf_carpet": "Cyan Turf Carpet",
       "biome.blockblitz.autumn_forest": "Bosque del Otoño",
       "block.blockblitz.block_of_aluminium": "Block Of Aluminium",
       "block.blockblitz.apple_log": "Tronco de Manzano",
       "block.blockblitz.diorite_pressure_plate": "Diorite Pressure Plate",
       "block.blockblitz.brown_turf_carpet": "Black Turf Carpet",
-      "block.blockblitz.apple_bookshelf": "Apple Bookshelf",
       "block.blockblitz.oil_ore": "Mena de Petróleo",
+      "block.blockblitz.apple_bookshelf": "Apple Bookshelf",
       "block.blockblitz.gray_turf": "Light Gray Turf",
-      "block.blockblitz.mulberry_wood": "Mulberry Wood",
       "item.blockblitz.steel_hoe": "Steel Hoe",
+      "block.blockblitz.mulberry_wood": "Mulberry Wood",
       "block.blockblitz.pink_turf": "Yellow Turf",
       "block.blockblitz.maple_bookshelf": "Librería de Arce",
       "block.blockblitz.black_turf_carpet": "Gray Turf Carpet",
@@ -6785,14 +7201,14 @@
       "block.blockblitz.mulberry_planks": "Tablones de Mora",
       "block.blockblitz.maple_wood": "Maple Wood",
       "block.blockblitz.gapple_door": "Golden Apple Door",
-      "block.blockblitz.magenta_turf_carpet": "Purple Turf Carpet",
       "block.blockblitz.cherry_ladder": "Acacia Ladder",
+      "block.blockblitz.magenta_turf_carpet": "Purple Turf Carpet",
       "block.blockblitz.polished_calcite_wall": "Polished Calcite Wall",
       "item.blockblitz.amethyst_hoe": "Azada de Amatista",
       "item.blockblitz.chrome_ingot": "Chrome Ingot",
       "block.blockblitz.deepslate_button": "Gold Button",
-      "block.blockblitz.apple_stairs": "Escaleras de Manzano",
       "block.blockblitz.aluminium_ore": "Aluminium Ore",
+      "block.blockblitz.apple_stairs": "Escaleras de Manzano",
       "block.blockblitz.acacia_bookshelf": "Librería de Acacia",
       "block.blockblitz.aerogel_block": "Aerogel Block",
       "item.blockblitz.turquoise_powder": "Turquoise Powder",
@@ -7004,19 +7420,19 @@
       "block.blockblitz.birch_bookshelf": "Birkenholzbücherregal",
       "item.blockblitz.turquoise": "Türkis",
       "block.blockblitz.light_gray_turf": "White Turf",
-      "block.blockblitz.calcite_brick_wall": "Calcite Brick Wall",
       "block.blockblitz.niobium_ore": "Niobium Ore",
+      "block.blockblitz.calcite_brick_wall": "Calcite Brick Wall",
       "block.blockblitz.light_blue_turf_carpet": "Cyan Turf Carpet",
       "biome.blockblitz.autumn_forest": "Herbst Wald",
       "block.blockblitz.apple_log": "Apfelbaumstamm",
       "block.blockblitz.block_of_aluminium": "Block Of Aluminium",
       "block.blockblitz.diorite_pressure_plate": "Diorite Pressure Plate",
       "block.blockblitz.brown_turf_carpet": "Black Turf Carpet",
-      "block.blockblitz.apple_bookshelf": "Apple Bookshelf",
       "block.blockblitz.oil_ore": "Erdölerz",
+      "block.blockblitz.apple_bookshelf": "Apple Bookshelf",
       "block.blockblitz.gray_turf": "Light Gray Turf",
-      "block.blockblitz.mulberry_wood": "Mulberry Wood",
       "item.blockblitz.steel_hoe": "Steel Hoe",
+      "block.blockblitz.mulberry_wood": "Mulberry Wood",
       "block.blockblitz.pink_turf": "Yellow Turf",
       "block.blockblitz.maple_bookshelf": "Ahornholzbücherregal",
       "block.blockblitz.black_turf_carpet": "Gray Turf Carpet",
@@ -7026,14 +7442,14 @@
       "block.blockblitz.mulberry_planks": "Maulbeerenholzstämmer",
       "block.blockblitz.maple_wood": "Maple Wood",
       "block.blockblitz.gapple_door": "Golden Apple Door",
-      "block.blockblitz.magenta_turf_carpet": "Purple Turf Carpet",
       "block.blockblitz.cherry_ladder": "Acacia Ladder",
+      "block.blockblitz.magenta_turf_carpet": "Purple Turf Carpet",
       "block.blockblitz.polished_calcite_wall": "Polished Calcite Wall",
       "item.blockblitz.amethyst_hoe": "AmethysthackeR",
       "item.blockblitz.chrome_ingot": "Chrome Ingot",
       "block.blockblitz.deepslate_button": "Gold Button",
-      "block.blockblitz.apple_stairs": "Apfelholztreppen",
       "block.blockblitz.aluminium_ore": "Aluminium Ore",
+      "block.blockblitz.apple_stairs": "Apfelholztreppen",
       "block.blockblitz.acacia_bookshelf": "Akazienholzbücherregal",
       "block.blockblitz.aerogel_block": "Aerogel Block",
       "item.blockblitz.turquoise_powder": "Turquoise Powder",

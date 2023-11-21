@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:grass_block"
+    },
+    "3": {
+      "item": "blockblitz:silica"
+    },
+    "4": {
+      "item": "minecraft:blue_dye"
+    },
+    "5": {
+      "item": "blockblitz:silica"
+    },
+    "7": {
+      "item": "minecraft:grass_block"
+    }
+  },
+  "result": {
+    "item": "blockblitz:blue_turf",
+    "count": 1
+  }
+}
