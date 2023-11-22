@@ -55,6 +55,9 @@
     "blockblitz:niobium_deepslate_ore",
     "blockblitz:chrome_ore",
     "blockblitz:chrome_deepslate_ore",
-    "blockblitz:mold"
+    "blockblitz:mold",
+    "blockblitz:polished_andesite_wall",
+    "blockblitz:polished_diorite_wall",
+    "blockblitz:polished_granite_wall"
   ]
 }

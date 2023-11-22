@@ -30,10 +30,13 @@ import net.mcreator.blockblitz.block.QuartzOreBlock;
 import net.mcreator.blockblitz.block.QuartzButtonBlock;
 import net.mcreator.blockblitz.block.PurpleTurfCarpetBlock;
 import net.mcreator.blockblitz.block.PurpleTurfBlock;
+import net.mcreator.blockblitz.block.PolishedGraniteWallBlock;
+import net.mcreator.blockblitz.block.PolishedDioriteWallBlock;
 import net.mcreator.blockblitz.block.PolishedCalciteWallBlock;
 import net.mcreator.blockblitz.block.PolishedCalciteStairsBlock;
 import net.mcreator.blockblitz.block.PolishedCalciteSlabBlock;
 import net.mcreator.blockblitz.block.PolishedCalciteBlock;
+import net.mcreator.blockblitz.block.PolishedAndesiteWallBlock;
 import net.mcreator.blockblitz.block.PinkTurfCarpetBlock;
 import net.mcreator.blockblitz.block.PinkTurfBlock;
 import net.mcreator.blockblitz.block.OrangeTurfCarpetBlock;
@@ -346,4 +349,7 @@ public class BlockblitzModBlocks {
 	public static final RegistryObject<Block> PINK_TURF_CARPET = REGISTRY.register("pink_turf_carpet", () -> new PinkTurfCarpetBlock());
 	public static final RegistryObject<Block> MOLD_LAVA = REGISTRY.register("mold_lava", () -> new MoldLavaBlock());
 	public static final RegistryObject<Block> MOLD_INGOT = REGISTRY.register("mold_ingot", () -> new MoldIngotBlock());
+	public static final RegistryObject<Block> POLISHED_ANDESITE_WALL = REGISTRY.register("polished_andesite_wall", () -> new PolishedAndesiteWallBlock());
+	public static final RegistryObject<Block> POLISHED_DIORITE_WALL = REGISTRY.register("polished_diorite_wall", () -> new PolishedDioriteWallBlock());
+	public static final RegistryObject<Block> POLISHED_GRANITE_WALL = REGISTRY.register("polished_granite_wall", () -> new PolishedGraniteWallBlock());
 }

@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "blockblitz:block/polished_andesite_texture_je2_be2",
+    "particle": "blockblitz:block/polished_andesite_texture_je2_be2"
+  },
+  "render_type": "solid"
+}

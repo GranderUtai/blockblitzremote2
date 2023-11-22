@@ -259,6 +259,9 @@ public class BlockblitzModItems {
 	public static final RegistryObject<Item> PINK_TURF_CARPET = block(BlockblitzModBlocks.PINK_TURF_CARPET);
 	public static final RegistryObject<Item> MOLD_LAVA = block(BlockblitzModBlocks.MOLD_LAVA);
 	public static final RegistryObject<Item> MOLD_INGOT = block(BlockblitzModBlocks.MOLD_INGOT);
+	public static final RegistryObject<Item> POLISHED_ANDESITE_WALL = block(BlockblitzModBlocks.POLISHED_ANDESITE_WALL);
+	public static final RegistryObject<Item> POLISHED_DIORITE_WALL = block(BlockblitzModBlocks.POLISHED_DIORITE_WALL);
+	public static final RegistryObject<Item> POLISHED_GRANITE_WALL = block(BlockblitzModBlocks.POLISHED_GRANITE_WALL);
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));

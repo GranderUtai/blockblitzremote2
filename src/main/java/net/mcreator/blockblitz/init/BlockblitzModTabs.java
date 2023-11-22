@@ -80,6 +80,9 @@ public class BlockblitzModTabs {
 			tabData.accept(BlockblitzModBlocks.POLISHED_CALCITE_STAIRS.get().asItem());
 			tabData.accept(BlockblitzModBlocks.POLISHED_CALCITE_SLAB.get().asItem());
 			tabData.accept(BlockblitzModBlocks.POLISHED_CALCITE_WALL.get().asItem());
+			tabData.accept(BlockblitzModBlocks.POLISHED_ANDESITE_WALL.get().asItem());
+			tabData.accept(BlockblitzModBlocks.POLISHED_DIORITE_WALL.get().asItem());
+			tabData.accept(BlockblitzModBlocks.POLISHED_GRANITE_WALL.get().asItem());
 		}
 
 		if (tabData.getTabKey() == CreativeModeTabs.REDSTONE_BLOCKS) {
