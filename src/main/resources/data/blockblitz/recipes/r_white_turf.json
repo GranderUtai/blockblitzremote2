@@ -8,7 +8,7 @@
   ],
   "key": {
     "1": {
-      "item": "minecraft:grass_block"
+      "item": "minecraft:grass"
     },
     "3": {
       "item": "blockblitz:silica"
@@ -20,7 +20,7 @@
       "item": "blockblitz:silica"
     },
     "7": {
-      "item": "minecraft:grass_block"
+      "item": "minecraft:grass"
     }
   },
   "result": {

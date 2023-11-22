@@ -55,18 +55,18 @@ public class BlockblitzModBiomes {
 							Climate.Parameter.span(-1f, 1f), 0), biomeRegistry.getHolderOrThrow(ResourceKey.create(Registries.BIOME, new ResourceLocation("blockblitz", "autumn_forest")))));
 					parameters.add(new Pair<>(new Climate.ParameterPoint(Climate.Parameter.span(0.0021f, 0.5f), Climate.Parameter.span(-0.5f, 0.5f), Climate.Parameter.span(0f, 0.5f), Climate.Parameter.span(-0.5f, 0.5f), Climate.Parameter.point(1.0f),
 							Climate.Parameter.span(-1f, 1f), 0), biomeRegistry.getHolderOrThrow(ResourceKey.create(Registries.BIOME, new ResourceLocation("blockblitz", "autumn_forest")))));
-					parameters.add(new Pair<>(new Climate.ParameterPoint(Climate.Parameter.span(-0.4f, 0.3f), Climate.Parameter.span(-0.5f, 0.5f), Climate.Parameter.span(0.1f, 1f), Climate.Parameter.span(-0.5f, 0.5f), Climate.Parameter.point(0.0f),
+					parameters.add(new Pair<>(new Climate.ParameterPoint(Climate.Parameter.span(0f, 0.2f), Climate.Parameter.span(-0.5f, 0.5f), Climate.Parameter.span(0.1f, 1f), Climate.Parameter.span(-0.5f, 0.5f), Climate.Parameter.point(0.0f),
 							Climate.Parameter.span(-1f, 1f), 0), biomeRegistry.getHolderOrThrow(ResourceKey.create(Registries.BIOME, new ResourceLocation("blockblitz", "mulberry_forest")))));
-					parameters.add(new Pair<>(new Climate.ParameterPoint(Climate.Parameter.span(-0.4f, 0.3f), Climate.Parameter.span(-0.5f, 0.5f), Climate.Parameter.span(0.1f, 1f), Climate.Parameter.span(-0.5f, 0.5f), Climate.Parameter.point(1.0f),
+					parameters.add(new Pair<>(new Climate.ParameterPoint(Climate.Parameter.span(0f, 0.2f), Climate.Parameter.span(-0.5f, 0.5f), Climate.Parameter.span(0.1f, 1f), Climate.Parameter.span(-0.5f, 0.5f), Climate.Parameter.point(1.0f),
 							Climate.Parameter.span(-1f, 1f), 0), biomeRegistry.getHolderOrThrow(ResourceKey.create(Registries.BIOME, new ResourceLocation("blockblitz", "mulberry_forest")))));
-					parameters.add(new Pair<>(new Climate.ParameterPoint(Climate.Parameter.span(-0.5f, 2f), Climate.Parameter.span(-0.5f, 1f), Climate.Parameter.span(0f, 1f), Climate.Parameter.span(0.45f, 0.75f), Climate.Parameter.point(0.0f),
+					parameters.add(new Pair<>(new Climate.ParameterPoint(Climate.Parameter.span(0f, 2f), Climate.Parameter.span(-0.5f, 1f), Climate.Parameter.span(0f, 1f), Climate.Parameter.span(0.25f, 0.5f), Climate.Parameter.point(0.0f),
 							Climate.Parameter.span(-1f, 1f), 0), biomeRegistry.getHolderOrThrow(ResourceKey.create(Registries.BIOME, new ResourceLocation("blockblitz", "tumbleweed_wasteland")))));
-					parameters.add(new Pair<>(new Climate.ParameterPoint(Climate.Parameter.span(-0.5f, 2f), Climate.Parameter.span(-0.5f, 1f), Climate.Parameter.span(0f, 1f), Climate.Parameter.span(0.45f, 0.75f), Climate.Parameter.point(1.0f),
+					parameters.add(new Pair<>(new Climate.ParameterPoint(Climate.Parameter.span(0f, 2f), Climate.Parameter.span(-0.5f, 1f), Climate.Parameter.span(0f, 1f), Climate.Parameter.span(0.25f, 0.5f), Climate.Parameter.point(1.0f),
 							Climate.Parameter.span(-1f, 1f), 0), biomeRegistry.getHolderOrThrow(ResourceKey.create(Registries.BIOME, new ResourceLocation("blockblitz", "tumbleweed_wasteland")))));
-					parameters.add(new Pair<>(new Climate.ParameterPoint(Climate.Parameter.span(-0.4f, 0.4f), Climate.Parameter.span(-0.5f, 1f), Climate.Parameter.span(-0.5f, 0.5f), Climate.Parameter.span(0f, 0.5f), Climate.Parameter.point(0.0f),
-							Climate.Parameter.span(-0.25f, 1f), 0), biomeRegistry.getHolderOrThrow(ResourceKey.create(Registries.BIOME, new ResourceLocation("blockblitz", "apple_forest")))));
-					parameters.add(new Pair<>(new Climate.ParameterPoint(Climate.Parameter.span(-0.4f, 0.4f), Climate.Parameter.span(-0.5f, 1f), Climate.Parameter.span(-0.5f, 0.5f), Climate.Parameter.span(0f, 0.5f), Climate.Parameter.point(1.0f),
-							Climate.Parameter.span(-0.25f, 1f), 0), biomeRegistry.getHolderOrThrow(ResourceKey.create(Registries.BIOME, new ResourceLocation("blockblitz", "apple_forest")))));
+					parameters.add(new Pair<>(new Climate.ParameterPoint(Climate.Parameter.span(-0.1f, 0.3f), Climate.Parameter.span(-0.5f, 1f), Climate.Parameter.span(-0.5f, 0.5f), Climate.Parameter.span(0f, 0.5f), Climate.Parameter.point(0.0f),
+							Climate.Parameter.span(-1f, 1f), 0), biomeRegistry.getHolderOrThrow(ResourceKey.create(Registries.BIOME, new ResourceLocation("blockblitz", "apple_forest")))));
+					parameters.add(new Pair<>(new Climate.ParameterPoint(Climate.Parameter.span(-0.1f, 0.3f), Climate.Parameter.span(-0.5f, 1f), Climate.Parameter.span(-0.5f, 0.5f), Climate.Parameter.span(0f, 0.5f), Climate.Parameter.point(1.0f),
+							Climate.Parameter.span(-1f, 1f), 0), biomeRegistry.getHolderOrThrow(ResourceKey.create(Registries.BIOME, new ResourceLocation("blockblitz", "apple_forest")))));
 					chunkGenerator.biomeSource = MultiNoiseBiomeSource.createFromList(new Climate.ParameterList<>(parameters));
 					chunkGenerator.featuresPerStep = Suppliers
 							.memoize(() -> FeatureSorter.buildFeaturesPerStep(List.copyOf(chunkGenerator.biomeSource.possibleBiomes()), biome -> chunkGenerator.generationSettingsGetter.apply(biome).features(), true));

@@ -1,7 +1,7 @@
 {
   "type": "minecraft:blasting",
   "category": "misc",
-  "experience": 10,
+  "experience": 0.5,
   "cookingtime": 100,
   "ingredient": {
     "item": "blockblitz:raw_niobium"

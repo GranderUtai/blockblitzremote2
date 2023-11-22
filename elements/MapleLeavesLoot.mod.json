@@ -16,7 +16,7 @@
             "item": {
               "value": "CUSTOM:MapleSapling"
             },
-            "weight": 5,
+            "weight": 3,
             "minCount": 0,
             "maxCount": 1,
             "minEnchantmentLevel": 0,

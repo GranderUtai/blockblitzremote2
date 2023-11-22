@@ -52,8 +52,24 @@ public class MoldIngotResetProcedure {
 			entityToSpawn.setPickUpDelay(10);
 			_level.addFreshEntity(entityToSpawn);
 		}
-		if (world instanceof ServerLevel _level)
-			_level.addFreshEntity(new ExperienceOrb(_level, x, y, z, 20));
+		if (new Object() {
+			public double getValue(LevelAccessor world, BlockPos pos, String tag) {
+				BlockEntity blockEntity = world.getBlockEntity(pos);
+				if (blockEntity != null)
+					return blockEntity.getPersistentData().getDouble(tag);
+				return -1;
+			}
+		}.getValue(world, BlockPos.containing(x, y, z), "dropxp") > 0) {
+			if (world instanceof ServerLevel _level)
+				_level.addFreshEntity(new ExperienceOrb(_level, x, y, z, (int) (new Object() {
+					public double getValue(LevelAccessor world, BlockPos pos, String tag) {
+						BlockEntity blockEntity = world.getBlockEntity(pos);
+						if (blockEntity != null)
+							return blockEntity.getPersistentData().getDouble(tag);
+						return -1;
+					}
+				}.getValue(world, BlockPos.containing(x, y, z), "dropxp"))));
+		}
 		{
 			BlockEntity _ent = world.getBlockEntity(BlockPos.containing(x, y, z));
 			if (_ent != null) {
@@ -120,6 +136,15 @@ public class MoldIngotResetProcedure {
 			BlockState _bs = world.getBlockState(_bp);
 			if (_blockEntity != null)
 				_blockEntity.getPersistentData().putString("recipe", "none");
+			if (world instanceof Level _level)
+				_level.sendBlockUpdated(_bp, _bs, _bs, 3);
+		}
+		if (!world.isClientSide()) {
+			BlockPos _bp = BlockPos.containing(x, y, z);
+			BlockEntity _blockEntity = world.getBlockEntity(_bp);
+			BlockState _bs = world.getBlockState(_bp);
+			if (_blockEntity != null)
+				_blockEntity.getPersistentData().putDouble("dropxp", 0);
 			if (world instanceof Level _level)
 				_level.sendBlockUpdated(_bp, _bs, _bs, 3);
 		}

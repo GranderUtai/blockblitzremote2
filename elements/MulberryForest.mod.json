@@ -52,8 +52,8 @@
     "spawnInCaves": false,
     "spawnBiomeNether": false,
     "genTemperature": {
-      "min": -0.4,
-      "max": 0.3
+      "min": 0.0,
+      "max": 0.2
     },
     "genHumidity": {
       "min": -0.5,

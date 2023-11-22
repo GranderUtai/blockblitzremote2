@@ -124,10 +124,6 @@ public class MoldLavaBlockEntity extends RandomizableContainerBlockEntity implem
 
 	@Override
 	public boolean canTakeItemThroughFace(int index, ItemStack stack, Direction direction) {
-		if (index == 1)
-			return false;
-		if (index == 2)
-			return false;
 		return true;
 	}
 
