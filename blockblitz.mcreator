@@ -76,7 +76,7 @@
     {
       "name": "AutumnPlant",
       "type": "plant",
-      "sortid": 124,
+      "sortid": 128,
       "compiles": true,
       "locked_code": false,
       "registry_name": "autumn_plant",
@@ -205,7 +205,7 @@
     {
       "name": "Bluebell",
       "type": "plant",
-      "sortid": 125,
+      "sortid": 129,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bluebell",
@@ -225,7 +225,7 @@
     {
       "name": "Buttercup",
       "type": "plant",
-      "sortid": 126,
+      "sortid": 130,
       "compiles": true,
       "locked_code": false,
       "registry_name": "buttercup",
@@ -245,7 +245,7 @@
     {
       "name": "MapleBookshelf",
       "type": "block",
-      "sortid": 162,
+      "sortid": 158,
       "compiles": true,
       "locked_code": false,
       "registry_name": "maple_bookshelf",
@@ -293,7 +293,7 @@
     {
       "name": "MapleLeaves",
       "type": "block",
-      "sortid": 143,
+      "sortid": 149,
       "compiles": true,
       "locked_code": false,
       "registry_name": "maple_leaves",
@@ -546,7 +546,7 @@
     {
       "name": "MulberryLeaves",
       "type": "block",
-      "sortid": 144,
+      "sortid": 150,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mulberry_leaves",
@@ -597,7 +597,7 @@
     {
       "name": "MulberryBookshelf",
       "type": "block",
-      "sortid": 163,
+      "sortid": 159,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mulberry_bookshelf",
@@ -701,7 +701,7 @@
     {
       "name": "CopperSword",
       "type": "tool",
-      "sortid": 166,
+      "sortid": 123,
       "compiles": true,
       "locked_code": false,
       "registry_name": "copper_sword",
@@ -827,7 +827,7 @@
     {
       "name": "AmethystKnife",
       "type": "tool",
-      "sortid": 169,
+      "sortid": 127,
       "compiles": true,
       "locked_code": false,
       "registry_name": "amethyst_knife",
@@ -841,7 +841,7 @@
     {
       "name": "QuartzOre",
       "type": "block",
-      "sortid": 131,
+      "sortid": 137,
       "compiles": true,
       "locked_code": false,
       "registry_name": "quartz_ore",
@@ -861,7 +861,7 @@
     {
       "name": "DeepslateQuartzOre",
       "type": "block",
-      "sortid": 132,
+      "sortid": 138,
       "compiles": true,
       "locked_code": false,
       "registry_name": "deepslate_quartz_ore",
@@ -881,7 +881,7 @@
     {
       "name": "Tumbleweed",
       "type": "block",
-      "sortid": 128,
+      "sortid": 132,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tumbleweed",
@@ -897,7 +897,7 @@
     {
       "name": "AcaciaBookshelf",
       "type": "block",
-      "sortid": 153,
+      "sortid": 160,
       "compiles": true,
       "locked_code": false,
       "registry_name": "acacia_bookshelf",
@@ -913,7 +913,7 @@
     {
       "name": "BirchBookshelf",
       "type": "block",
-      "sortid": 155,
+      "sortid": 162,
       "compiles": true,
       "locked_code": false,
       "registry_name": "birch_bookshelf",
@@ -929,7 +929,7 @@
     {
       "name": "BambooBookshelf",
       "type": "block",
-      "sortid": 154,
+      "sortid": 161,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bamboo_bookshelf",
@@ -945,7 +945,7 @@
     {
       "name": "CherryBookshelf",
       "type": "block",
-      "sortid": 156,
+      "sortid": 163,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cherry_bookshelf",
@@ -961,7 +961,7 @@
     {
       "name": "CrimsonBookshelf",
       "type": "block",
-      "sortid": 157,
+      "sortid": 164,
       "compiles": true,
       "locked_code": false,
       "registry_name": "crimson_bookshelf",
@@ -977,7 +977,7 @@
     {
       "name": "DarkOakBookshelf",
       "type": "block",
-      "sortid": 158,
+      "sortid": 165,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dark_oak_bookshelf",
@@ -993,7 +993,7 @@
     {
       "name": "JungleBookshelf",
       "type": "block",
-      "sortid": 159,
+      "sortid": 166,
       "compiles": true,
       "locked_code": false,
       "registry_name": "jungle_bookshelf",
@@ -1009,7 +1009,7 @@
     {
       "name": "MangroveBookshelf",
       "type": "block",
-      "sortid": 160,
+      "sortid": 167,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mangrove_bookshelf",
@@ -1025,7 +1025,7 @@
     {
       "name": "SpruceBookshelf",
       "type": "block",
-      "sortid": 164,
+      "sortid": 168,
       "compiles": true,
       "locked_code": false,
       "registry_name": "spruce_bookshelf",
@@ -1041,7 +1041,7 @@
     {
       "name": "WarpedBookshelf",
       "type": "block",
-      "sortid": 165,
+      "sortid": 169,
       "compiles": true,
       "locked_code": false,
       "registry_name": "warped_bookshelf",
@@ -1070,7 +1070,7 @@
     {
       "name": "OilOre",
       "type": "block",
-      "sortid": 133,
+      "sortid": 139,
       "compiles": true,
       "locked_code": false,
       "registry_name": "oil_ore",
@@ -1184,7 +1184,7 @@
     {
       "name": "CottonPlant",
       "type": "plant",
-      "sortid": 127,
+      "sortid": 131,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cotton_plant",
@@ -1204,7 +1204,7 @@
     {
       "name": "DenimBlock",
       "type": "block",
-      "sortid": 130,
+      "sortid": 135,
       "compiles": true,
       "locked_code": false,
       "registry_name": "denim_block",
@@ -1220,7 +1220,7 @@
     {
       "name": "CottonBlock",
       "type": "block",
-      "sortid": 129,
+      "sortid": 133,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cotton_block",
@@ -1460,7 +1460,7 @@
     {
       "name": "TungstenOre",
       "type": "block",
-      "sortid": 135,
+      "sortid": 141,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tungsten_ore",
@@ -1480,7 +1480,7 @@
     {
       "name": "DeepslateTungstenOre",
       "type": "block",
-      "sortid": 136,
+      "sortid": 142,
       "compiles": true,
       "locked_code": false,
       "registry_name": "deepslate_tungsten_ore",
@@ -1718,7 +1718,7 @@
     {
       "name": "NiobiumOre",
       "type": "block",
-      "sortid": 137,
+      "sortid": 143,
       "compiles": true,
       "locked_code": false,
       "registry_name": "niobium_ore",
@@ -1738,7 +1738,7 @@
     {
       "name": "NiobiumDeepslateOre",
       "type": "block",
-      "sortid": 138,
+      "sortid": 144,
       "compiles": true,
       "locked_code": false,
       "registry_name": "niobium_deepslate_ore",
@@ -1828,7 +1828,7 @@
     {
       "name": "ChromeOre",
       "type": "block",
-      "sortid": 139,
+      "sortid": 145,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chrome_ore",
@@ -1848,7 +1848,7 @@
     {
       "name": "ChromeDeepslateOre",
       "type": "block",
-      "sortid": 140,
+      "sortid": 146,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chrome_deepslate_ore",
@@ -2275,7 +2275,7 @@
     {
       "name": "CalciteStairs",
       "type": "block",
-      "sortid": 46,
+      "sortid": 45,
       "compiles": true,
       "locked_code": false,
       "registry_name": "calcite_stairs",
@@ -2293,7 +2293,7 @@
     {
       "name": "CalciteSlab",
       "type": "block",
-      "sortid": 47,
+      "sortid": 46,
       "compiles": true,
       "locked_code": false,
       "registry_name": "calcite_slab",
@@ -2311,7 +2311,7 @@
     {
       "name": "CalciteWall",
       "type": "block",
-      "sortid": 48,
+      "sortid": 47,
       "compiles": true,
       "locked_code": false,
       "registry_name": "calcite_wall",
@@ -2330,7 +2330,7 @@
     {
       "name": "CalciteBricks",
       "type": "block",
-      "sortid": 49,
+      "sortid": 48,
       "compiles": true,
       "locked_code": false,
       "registry_name": "calcite_bricks",
@@ -2346,7 +2346,7 @@
     {
       "name": "CalciteBrickStairs",
       "type": "block",
-      "sortid": 50,
+      "sortid": 49,
       "compiles": true,
       "locked_code": false,
       "registry_name": "calcite_brick_stairs",
@@ -2364,7 +2364,7 @@
     {
       "name": "CalciteBrickSlab",
       "type": "block",
-      "sortid": 51,
+      "sortid": 50,
       "compiles": true,
       "locked_code": false,
       "registry_name": "calcite_brick_slab",
@@ -2382,7 +2382,7 @@
     {
       "name": "CalciteBrickWall",
       "type": "block",
-      "sortid": 52,
+      "sortid": 51,
       "compiles": true,
       "locked_code": false,
       "registry_name": "calcite_brick_wall",
@@ -2401,7 +2401,7 @@
     {
       "name": "ChiseledCalcite",
       "type": "block",
-      "sortid": 53,
+      "sortid": 52,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiseled_calcite",
@@ -2417,7 +2417,7 @@
     {
       "name": "PolishedCalcite",
       "type": "block",
-      "sortid": 54,
+      "sortid": 53,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_calcite",
@@ -2433,7 +2433,7 @@
     {
       "name": "PolishedCalciteStairs",
       "type": "block",
-      "sortid": 55,
+      "sortid": 54,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_calcite_stairs",
@@ -2451,7 +2451,7 @@
     {
       "name": "PolishedCalciteSlab",
       "type": "block",
-      "sortid": 56,
+      "sortid": 55,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_calcite_slab",
@@ -2469,7 +2469,7 @@
     {
       "name": "PolishedCalciteWall",
       "type": "block",
-      "sortid": 57,
+      "sortid": 56,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_calcite_wall",
@@ -2488,7 +2488,7 @@
     {
       "name": "Mold",
       "type": "block",
-      "sortid": 152,
+      "sortid": 155,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mold",
@@ -2534,7 +2534,7 @@
     {
       "name": "ChromeSword",
       "type": "tool",
-      "sortid": 168,
+      "sortid": 126,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chrome_sword",
@@ -3281,7 +3281,7 @@
     {
       "name": "AppleBookshelf",
       "type": "block",
-      "sortid": 161,
+      "sortid": 156,
       "compiles": true,
       "locked_code": false,
       "registry_name": "apple_bookshelf",
@@ -3576,7 +3576,7 @@
     {
       "name": "DeepslateOilOre",
       "type": "block",
-      "sortid": 134,
+      "sortid": 140,
       "compiles": true,
       "locked_code": false,
       "registry_name": "deepslate_oil_ore",
@@ -3865,7 +3865,7 @@
     {
       "name": "AppleLeaves",
       "type": "block",
-      "sortid": 141,
+      "sortid": 147,
       "compiles": true,
       "locked_code": false,
       "registry_name": "apple_leaves",
@@ -3912,7 +3912,7 @@
     {
       "name": "GappleLeaves",
       "type": "block",
-      "sortid": 142,
+      "sortid": 148,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gapple_leaves",
@@ -3957,7 +3957,7 @@
     {
       "name": "MapleSapling",
       "type": "plant",
-      "sortid": 145,
+      "sortid": 153,
       "compiles": true,
       "locked_code": false,
       "registry_name": "maple_sapling",
@@ -3973,7 +3973,7 @@
     {
       "name": "MulberrySapling",
       "type": "plant",
-      "sortid": 146,
+      "sortid": 154,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mulberry_sapling",
@@ -4285,7 +4285,7 @@
     {
       "name": "GappleSapling",
       "type": "plant",
-      "sortid": 147,
+      "sortid": 152,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gapple_sapling",
@@ -4862,7 +4862,7 @@
     {
       "name": "AppleSappling",
       "type": "plant",
-      "sortid": 148,
+      "sortid": 151,
       "compiles": true,
       "locked_code": false,
       "registry_name": "apple_sappling",
@@ -4982,7 +4982,7 @@
     {
       "name": "GoldDoor",
       "type": "block",
-      "sortid": 45,
+      "sortid": 57,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gold_door",
@@ -5018,7 +5018,7 @@
     {
       "name": "CottonCarpet",
       "type": "block",
-      "sortid": 149,
+      "sortid": 134,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cotton_carpet",
@@ -5034,7 +5034,7 @@
     {
       "name": "DenimCarpet",
       "type": "block",
-      "sortid": 150,
+      "sortid": 136,
       "compiles": true,
       "locked_code": false,
       "registry_name": "denim_carpet",
@@ -5359,7 +5359,7 @@
     {
       "name": "GoldenAppleBookshelf",
       "type": "block",
-      "sortid": 151,
+      "sortid": 157,
       "compiles": true,
       "locked_code": false,
       "registry_name": "golden_apple_bookshelf",
@@ -5561,7 +5561,7 @@
     {
       "name": "SteelSword",
       "type": "tool",
-      "sortid": 167,
+      "sortid": 124,
       "compiles": true,
       "locked_code": false,
       "registry_name": "steel_sword",
@@ -5696,7 +5696,7 @@
     {
       "name": "NiobiumSword",
       "type": "tool",
-      "sortid": 123,
+      "sortid": 125,
       "compiles": true,
       "locked_code": false,
       "registry_name": "niobium_sword",
@@ -5807,7 +5807,7 @@
     {
       "name": "MoldLava",
       "type": "block",
-      "sortid": 388,
+      "sortid": 386,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mold_lava",
@@ -5825,7 +5825,7 @@
     {
       "name": "MoldIngot",
       "type": "block",
-      "sortid": 389,
+      "sortid": 387,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mold_ingot",
@@ -5843,7 +5843,7 @@
     {
       "name": "MoldOffUpdateTick",
       "type": "procedure",
-      "sortid": 390,
+      "sortid": 388,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mold_off_update_tick",
@@ -5875,7 +5875,7 @@
     {
       "name": "MoldOnUpdateTick",
       "type": "procedure",
-      "sortid": 391,
+      "sortid": 389,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mold_on_update_tick",
@@ -5907,7 +5907,7 @@
     {
       "name": "MoldIngotReset",
       "type": "procedure",
-      "sortid": 393,
+      "sortid": 390,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mold_ingot_reset",
@@ -5939,7 +5939,7 @@
     {
       "name": "NiobBlast",
       "type": "recipe",
-      "sortid": 399,
+      "sortid": 391,
       "compiles": true,
       "locked_code": false,
       "registry_name": "niob_blast",
@@ -5952,7 +5952,7 @@
     {
       "name": "GappleTree2",
       "type": "structure",
-      "sortid": 394,
+      "sortid": 392,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gapple_tree_2",
@@ -5968,7 +5968,7 @@
     {
       "name": "GappleTree4",
       "type": "structure",
-      "sortid": 396,
+      "sortid": 393,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gapple_tree_4",
@@ -5984,7 +5984,7 @@
     {
       "name": "GappleTree3",
       "type": "structure",
-      "sortid": 395,
+      "sortid": 394,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gapple_tree_3",
@@ -6000,7 +6000,7 @@
     {
       "name": "TungBlast",
       "type": "recipe",
-      "sortid": 397,
+      "sortid": 395,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tung_blast",
@@ -6013,7 +6013,7 @@
     {
       "name": "ChromeBlast",
       "type": "recipe",
-      "sortid": 398,
+      "sortid": 396,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chrome_blast",
@@ -6026,7 +6026,7 @@
     {
       "name": "RBlackTurfCarpet",
       "type": "recipe",
-      "sortid": 411,
+      "sortid": 397,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_black_turf_carpet",
@@ -6039,7 +6039,7 @@
     {
       "name": "RCyanTurf",
       "type": "recipe",
-      "sortid": 402,
+      "sortid": 398,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_cyan_turf",
@@ -6052,7 +6052,7 @@
     {
       "name": "RBlackTurf",
       "type": "recipe",
-      "sortid": 395,
+      "sortid": 399,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_black_turf",
@@ -6065,7 +6065,7 @@
     {
       "name": "RLightBlueTurf",
       "type": "recipe",
-      "sortid": 403,
+      "sortid": 400,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_light_blue_turf",
@@ -6078,7 +6078,7 @@
     {
       "name": "RPinkTurf",
       "type": "recipe",
-      "sortid": 407,
+      "sortid": 401,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_pink_turf",
@@ -6091,7 +6091,7 @@
     {
       "name": "RLightGrayTurf",
       "type": "recipe",
-      "sortid": 391,
+      "sortid": 402,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_light_gray_turf",
@@ -6104,7 +6104,7 @@
     {
       "name": "RYellowTurfCarpet",
       "type": "recipe",
-      "sortid": 415,
+      "sortid": 403,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_yellow_turf_carpet",
@@ -6117,7 +6117,7 @@
     {
       "name": "RGreenTurf",
       "type": "recipe",
-      "sortid": 401,
+      "sortid": 404,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_green_turf",
@@ -6130,7 +6130,7 @@
     {
       "name": "RCyanTurfCarpet",
       "type": "recipe",
-      "sortid": 418,
+      "sortid": 405,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_cyan_turf_carpet",
@@ -6156,7 +6156,7 @@
     {
       "name": "ROrangeTurfCarpet",
       "type": "recipe",
-      "sortid": 414,
+      "sortid": 407,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_orange_turf_carpet",
@@ -6169,7 +6169,7 @@
     {
       "name": "RBrownTurf",
       "type": "recipe",
-      "sortid": 396,
+      "sortid": 408,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_brown_turf",
@@ -6182,7 +6182,7 @@
     {
       "name": "RWhiteTurf",
       "type": "recipe",
-      "sortid": 390,
+      "sortid": 409,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_white_turf",
@@ -6195,7 +6195,7 @@
     {
       "name": "RRedTurf",
       "type": "recipe",
-      "sortid": 397,
+      "sortid": 410,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_red_turf",
@@ -6208,7 +6208,7 @@
     {
       "name": "RGrayTurf",
       "type": "recipe",
-      "sortid": 394,
+      "sortid": 411,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_gray_turf",
@@ -6221,7 +6221,7 @@
     {
       "name": "RBlueTurf",
       "type": "recipe",
-      "sortid": 404,
+      "sortid": 412,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_blue_turf",
@@ -6234,7 +6234,7 @@
     {
       "name": "RGrayTurfCarpet",
       "type": "recipe",
-      "sortid": 410,
+      "sortid": 413,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_gray_turf_carpet",
@@ -6247,7 +6247,7 @@
     {
       "name": "RMagentaTurfCarpet",
       "type": "recipe",
-      "sortid": 422,
+      "sortid": 414,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_magenta_turf_carpet",
@@ -6260,7 +6260,7 @@
     {
       "name": "RPurpleTurfCarpet",
       "type": "recipe",
-      "sortid": 421,
+      "sortid": 415,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_purple_turf_carpet",
@@ -6273,7 +6273,7 @@
     {
       "name": "RBlueTurfCarpet",
       "type": "recipe",
-      "sortid": 420,
+      "sortid": 416,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_blue_turf_carpet",
@@ -6286,7 +6286,7 @@
     {
       "name": "RLightGrayTurfCarpet",
       "type": "recipe",
-      "sortid": 409,
+      "sortid": 417,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_light_gray_turf_carpet",
@@ -6299,7 +6299,7 @@
     {
       "name": "RWhiteTurfCarpet",
       "type": "recipe",
-      "sortid": 408,
+      "sortid": 418,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_white_turf_carpet",
@@ -6312,7 +6312,7 @@
     {
       "name": "ROrangeTurf",
       "type": "recipe",
-      "sortid": 398,
+      "sortid": 419,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_orange_turf",
@@ -6325,7 +6325,7 @@
     {
       "name": "RPinkTurfCarpet",
       "type": "recipe",
-      "sortid": 423,
+      "sortid": 420,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_pink_turf_carpet",
@@ -6338,7 +6338,7 @@
     {
       "name": "RRedTurfCarpet",
       "type": "recipe",
-      "sortid": 413,
+      "sortid": 421,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_red_turf_carpet",
@@ -6351,7 +6351,7 @@
     {
       "name": "RYellowTurf",
       "type": "recipe",
-      "sortid": 399,
+      "sortid": 422,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_yellow_turf",
@@ -6364,7 +6364,7 @@
     {
       "name": "RLightBlueTurfCarpet",
       "type": "recipe",
-      "sortid": 419,
+      "sortid": 423,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_light_blue_turf_carpet",
@@ -6377,7 +6377,7 @@
     {
       "name": "RLimeTurf",
       "type": "recipe",
-      "sortid": 400,
+      "sortid": 424,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_lime_turf",
@@ -6390,7 +6390,7 @@
     {
       "name": "RGreenTurfCarpet",
       "type": "recipe",
-      "sortid": 417,
+      "sortid": 425,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_green_turf_carpet",
@@ -6403,7 +6403,7 @@
     {
       "name": "RLimeTurfCarpet",
       "type": "recipe",
-      "sortid": 416,
+      "sortid": 426,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_lime_turf_carpet",
@@ -6416,7 +6416,7 @@
     {
       "name": "RBrownTurfCarpet",
       "type": "recipe",
-      "sortid": 412,
+      "sortid": 427,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_brown_turf_carpet",
@@ -6429,7 +6429,7 @@
     {
       "name": "RPurpleTurf",
       "type": "recipe",
-      "sortid": 405,
+      "sortid": 428,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_purple_turf",
@@ -6442,7 +6442,7 @@
     {
       "name": "CastingAdvancement",
       "type": "achievement",
-      "sortid": 424,
+      "sortid": 429,
       "compiles": true,
       "locked_code": false,
       "registry_name": "casting_advancement",
@@ -6455,13 +6455,235 @@
     {
       "name": "Alloys",
       "type": "tag",
-      "sortid": 425,
+      "sortid": 430,
       "compiles": true,
       "locked_code": false,
       "registry_name": "alloys",
       "metadata": {
         "files": [
           "src/main/resources/data/forge/tags/items/alloys.json"
+        ]
+      }
+    },
+    {
+      "name": "CastAdvancementGiver",
+      "type": "procedure",
+      "sortid": 431,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cast_advancement_giver",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/blockblitz/procedures/CastAdvancementGiverProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RCyanTurfAlt",
+      "type": "recipe",
+      "sortid": 432,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_cyan_turf_alt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_cyan_turf_alt.json"
+        ]
+      }
+    },
+    {
+      "name": "RBlackTurfAlt",
+      "type": "recipe",
+      "sortid": 433,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_black_turf_alt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_black_turf_alt.json"
+        ]
+      }
+    },
+    {
+      "name": "RLightBlueTurfAlt",
+      "type": "recipe",
+      "sortid": 434,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_light_blue_turf_alt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_light_blue_turf_alt.json"
+        ]
+      }
+    },
+    {
+      "name": "RPinkTurfAlt",
+      "type": "recipe",
+      "sortid": 435,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_pink_turf_alt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_pink_turf_alt.json"
+        ]
+      }
+    },
+    {
+      "name": "RLGrayTurfAlt",
+      "type": "recipe",
+      "sortid": 436,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rl_gray_turf_alt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/rl_gray_turf_alt.json"
+        ]
+      }
+    },
+    {
+      "name": "RGreenTurfAlt",
+      "type": "recipe",
+      "sortid": 437,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_green_turf_alt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_green_turf_alt.json"
+        ]
+      }
+    },
+    {
+      "name": "RMagentaTurfAlt",
+      "type": "recipe",
+      "sortid": 438,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_magenta_turf_alt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_magenta_turf_alt.json"
+        ]
+      }
+    },
+    {
+      "name": "RBrownTurfAlt",
+      "type": "recipe",
+      "sortid": 439,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_brown_turf_alt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_brown_turf_alt.json"
+        ]
+      }
+    },
+    {
+      "name": "RredTurfAlt",
+      "type": "recipe",
+      "sortid": 440,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rred_turf_alt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/rred_turf_alt.json"
+        ]
+      }
+    },
+    {
+      "name": "RGrayTurfAlt",
+      "type": "recipe",
+      "sortid": 441,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_gray_turf_alt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_gray_turf_alt.json"
+        ]
+      }
+    },
+    {
+      "name": "RBlueTurfAlt",
+      "type": "recipe",
+      "sortid": 442,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_blue_turf_alt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_blue_turf_alt.json"
+        ]
+      }
+    },
+    {
+      "name": "ROrangeTurfAlt",
+      "type": "recipe",
+      "sortid": 443,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_orange_turf_alt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_orange_turf_alt.json"
+        ]
+      }
+    },
+    {
+      "name": "RYellowTurfAlt",
+      "type": "recipe",
+      "sortid": 444,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_yellow_turf_alt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_yellow_turf_alt.json"
+        ]
+      }
+    },
+    {
+      "name": "RLimeTurfAlt",
+      "type": "recipe",
+      "sortid": 445,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_lime_turf_alt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_lime_turf_alt.json"
+        ]
+      }
+    },
+    {
+      "name": "RPurpleTurfAlt",
+      "type": "recipe",
+      "sortid": 446,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_purple_turf_alt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_purple_turf_alt.json"
         ]
       }
     }
@@ -7117,7 +7339,7 @@
       "block.blockblitz.dark_oak_ladder": "Dark Oak Ladder",
       "block.blockblitz.mulberry_pressure_plate": "Mulberry Pressure Plate",
       "block.blockblitz.quartz_button": "Quartz Button",
-      "advancements.casting_advancement.title": "master combiner",
+      "advancements.casting_advancement.title": "Master Caster",
       "block.blockblitz.mulberry_leaves": "Mulberry Leaves",
       "item.blockblitz.niobium_ingot": "Niobium Ingot",
       "block.blockblitz.purple_turf_carpet": "Purple Turf Carpet",
@@ -7142,7 +7364,7 @@
       "block.blockblitz.block_of_steel": "Block Of Steel",
       "item.blockblitz.aluminium_ingot": "Aluminium Ingot",
       "block.blockblitz.maple_ladder": "Maple Ladder",
-      "advancements.casting_advancement.descr": "Make your first alloy in the mold",
+      "advancements.casting_advancement.descr": "cast an alloy in a mold",
       "block.blockblitz.red_turf_carpet": "Red Turf Carpet",
       "block.blockblitz.gapple_fence": "Golden Apple Fence",
       "block.blockblitz.polished_calcite_stairs": "Polished Calcite Stairs",

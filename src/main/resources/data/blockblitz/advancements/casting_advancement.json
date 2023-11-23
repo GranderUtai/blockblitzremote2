@@ -1,8 +1,7 @@
 {
   "display": {
-    "background": "minecraft:textures/block/stone.png",
     "icon": {
-      "item": "blockblitz:steel_ingot"
+      "item": "blockblitz:mold"
     },
     "title": {
       "translate": "advancements.casting_advancement.title"
@@ -21,6 +20,7 @@
     }
   },
   "rewards": {
-    "experience": 15
-  }
+    "experience": 30
+  },
+  "parent": "minecraft:story/smelt_iron"
 }

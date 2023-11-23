@@ -9,40 +9,40 @@
     "xpReward": 0.0,
     "cookingTime": 200,
     "craftingBookCategory": "MISC",
-    "recipeShapeless": false,
+    "recipeShapeless": true,
     "recipeSlots": [
       {
         "value": ""
       },
       {
-        "value": "Blocks.TALLGRASS#1"
+        "value": ""
       },
       {
         "value": ""
       },
       {
-        "value": "CUSTOM:Silica"
+        "value": "CUSTOM:WhiteTurf"
       },
       {
-        "value": "Items.DYE#0"
-      },
-      {
-        "value": "CUSTOM:Silica"
+        "value": "Items.DYE#18"
       },
       {
         "value": ""
       },
       {
-        "value": "Blocks.TALLGRASS#1"
+        "value": ""
+      },
+      {
+        "value": ""
       },
       {
         "value": ""
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:BlackTurf"
+      "value": "CUSTOM:BlueTurf"
     },
-    "name": "r_black_turf",
+    "name": "r_blue_turf_alt",
     "namespace": "mod"
   }
 }
