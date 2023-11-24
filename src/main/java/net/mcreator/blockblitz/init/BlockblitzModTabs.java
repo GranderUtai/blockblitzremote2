@@ -82,7 +82,6 @@ public class BlockblitzModTabs {
 		}
 
 		if (tabData.getTabKey() == CreativeModeTabs.REDSTONE_BLOCKS) {
-			tabData.accept(BlockblitzModBlocks.GOLD_DOOR.get().asItem());
 			tabData.accept(BlockblitzModBlocks.APPLE_TRAPDOOR.get().asItem());
 			tabData.accept(BlockblitzModBlocks.APPLE_BUTTON.get().asItem());
 			tabData.accept(BlockblitzModBlocks.APPLE_PRESSURE_PLATE.get().asItem());
@@ -98,7 +97,9 @@ public class BlockblitzModTabs {
 			tabData.accept(BlockblitzModBlocks.ANDESITE_BUTTON.get().asItem());
 			tabData.accept(BlockblitzModBlocks.ANDESITE_PRESSURE_PLATE.get().asItem());
 			tabData.accept(BlockblitzModBlocks.DIORITE_BUTTON.get().asItem());
+			tabData.accept(BlockblitzModBlocks.GOLD_DOOR.get().asItem());
 			tabData.accept(BlockblitzModBlocks.GOLD_TRAPDOOR.get().asItem());
+			tabData.accept(BlockblitzModBlocks.GOLD_BUTTON.get().asItem());
 			tabData.accept(BlockblitzModBlocks.DIORITE_PRESSURE_PLATE.get().asItem());
 			tabData.accept(BlockblitzModBlocks.GRANITE_BUTTON.get().asItem());
 			tabData.accept(BlockblitzModBlocks.GRANITE_PRESSURE_PLATE.get().asItem());
@@ -106,7 +107,6 @@ public class BlockblitzModTabs {
 			tabData.accept(BlockblitzModBlocks.CALCITE_PRESSURE_PLATE.get().asItem());
 			tabData.accept(BlockblitzModBlocks.TUFF_BUTTON.get().asItem());
 			tabData.accept(BlockblitzModBlocks.TUFF_PRESSURE_PLATE.get().asItem());
-			tabData.accept(BlockblitzModBlocks.GOLD_BUTTON.get().asItem());
 			tabData.accept(BlockblitzModBlocks.IRON_BUTTON.get().asItem());
 			tabData.accept(BlockblitzModBlocks.AMETHYST_BUTTON.get().asItem());
 			tabData.accept(BlockblitzModBlocks.AMETHYST_PRESSURE_PLATE.get().asItem());

@@ -58,7 +58,7 @@
     {
       "name": "AppleTrapdoor",
       "type": "block",
-      "sortid": 58,
+      "sortid": 57,
       "compiles": true,
       "locked_code": false,
       "registry_name": "apple_trapdoor",
@@ -97,7 +97,7 @@
     {
       "name": "AppleButton",
       "type": "block",
-      "sortid": 59,
+      "sortid": 58,
       "compiles": true,
       "locked_code": false,
       "registry_name": "apple_button",
@@ -115,7 +115,7 @@
     {
       "name": "ApplePressurePlate",
       "type": "block",
-      "sortid": 60,
+      "sortid": 59,
       "compiles": true,
       "locked_code": false,
       "registry_name": "apple_pressure_plate",
@@ -332,7 +332,7 @@
     {
       "name": "MapleTrapdoor",
       "type": "block",
-      "sortid": 64,
+      "sortid": 63,
       "compiles": true,
       "locked_code": false,
       "registry_name": "maple_trapdoor",
@@ -350,7 +350,7 @@
     {
       "name": "MapleButton",
       "type": "block",
-      "sortid": 65,
+      "sortid": 64,
       "compiles": true,
       "locked_code": false,
       "registry_name": "maple_button",
@@ -368,7 +368,7 @@
     {
       "name": "MaplePressurePlate",
       "type": "block",
-      "sortid": 66,
+      "sortid": 65,
       "compiles": true,
       "locked_code": false,
       "registry_name": "maple_pressure_plate",
@@ -528,7 +528,7 @@
     {
       "name": "MulberryTrapdoor",
       "type": "block",
-      "sortid": 67,
+      "sortid": 66,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mulberry_trapdoor",
@@ -562,7 +562,7 @@
     {
       "name": "MulberryButton",
       "type": "block",
-      "sortid": 68,
+      "sortid": 67,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mulberry_button",
@@ -580,7 +580,7 @@
     {
       "name": "MulberryPressurePlate",
       "type": "block",
-      "sortid": 69,
+      "sortid": 68,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mulberry_pressure_plate",
@@ -2760,7 +2760,7 @@
     {
       "name": "AndesiteButton",
       "type": "block",
-      "sortid": 70,
+      "sortid": 69,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_button",
@@ -2791,7 +2791,7 @@
     {
       "name": "AndesitePressurePlate",
       "type": "block",
-      "sortid": 71,
+      "sortid": 70,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_pressure_plate",
@@ -2821,7 +2821,7 @@
     {
       "name": "DioriteButton",
       "type": "block",
-      "sortid": 72,
+      "sortid": 71,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_button",
@@ -2852,7 +2852,7 @@
     {
       "name": "DioritePressurePlate",
       "type": "block",
-      "sortid": 74,
+      "sortid": 75,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_pressure_plate",
@@ -2882,7 +2882,7 @@
     {
       "name": "GraniteButton",
       "type": "block",
-      "sortid": 75,
+      "sortid": 76,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_button",
@@ -2913,7 +2913,7 @@
     {
       "name": "GranitePressurePlate",
       "type": "block",
-      "sortid": 76,
+      "sortid": 77,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_pressure_plate",
@@ -4073,7 +4073,7 @@
     {
       "name": "GappleButton",
       "type": "block",
-      "sortid": 62,
+      "sortid": 61,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gapple_button",
@@ -4091,7 +4091,7 @@
     {
       "name": "GapplePressurePlate",
       "type": "block",
-      "sortid": 63,
+      "sortid": 62,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gapple_pressure_plate",
@@ -4350,7 +4350,7 @@
     {
       "name": "GappleTrapdoor",
       "type": "block",
-      "sortid": 61,
+      "sortid": 60,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gapple_trapdoor",
@@ -4410,7 +4410,7 @@
     {
       "name": "CalcitePressurePlate",
       "type": "block",
-      "sortid": 78,
+      "sortid": 79,
       "compiles": true,
       "locked_code": false,
       "registry_name": "calcite_pressure_plate",
@@ -4463,7 +4463,7 @@
     {
       "name": "CalciteButton",
       "type": "block",
-      "sortid": 77,
+      "sortid": 78,
       "compiles": true,
       "locked_code": false,
       "registry_name": "calcite_button",
@@ -4481,7 +4481,7 @@
     {
       "name": "TuffButton",
       "type": "block",
-      "sortid": 79,
+      "sortid": 80,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tuff_button",
@@ -4499,7 +4499,7 @@
     {
       "name": "TuffPressurePlate",
       "type": "block",
-      "sortid": 80,
+      "sortid": 81,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tuff_pressure_plate",
@@ -4533,7 +4533,7 @@
     {
       "name": "GoldButton",
       "type": "block",
-      "sortid": 81,
+      "sortid": 74,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gold_button",
@@ -4982,7 +4982,7 @@
     {
       "name": "GoldDoor",
       "type": "block",
-      "sortid": 57,
+      "sortid": 72,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gold_door",
@@ -6482,8 +6482,16 @@
             "type": "entity"
           },
           {
-            "name": "itemstack",
-            "type": "itemstack"
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
           },
           {
             "name": "world",
@@ -6686,6 +6694,32 @@
           "src/main/resources/data/blockblitz/recipes/r_purple_turf_alt.json"
         ]
       }
+    },
+    {
+      "name": "TungstenAdvancement",
+      "type": "achievement",
+      "sortid": 447,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungsten_advancement",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/advancements/tungsten_advancement.json"
+        ]
+      }
+    },
+    {
+      "name": "NiobiumAdvancement",
+      "type": "achievement",
+      "sortid": 448,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "niobium_advancement",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/advancements/niobium_advancement.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -6720,6 +6754,7 @@
       "block.blockblitz.golden_grate": "Golden Grate",
       "item.blockblitz.raw_tungsten": "Сырой вольфрам",
       "block.blockblitz.cotton_plant": "Хлопковое растение",
+      "advancements.tungsten_advancement.descr": "Obtain Tungsten",
       "block.blockblitz.block_of_chrome": "Block Of Chrome",
       "block.blockblitz.polished_calcite": "Polished Calcite",
       "block.blockblitz.spruce_bookshelf": "Еловая книжная полка",
@@ -6805,6 +6840,7 @@
       "item.blockblitz.steel_pickaxe": "Steel Pickaxe",
       "block.blockblitz.mulberry_sapling": "Mulberry Sapling",
       "block.blockblitz.orange_turf": "Red Turf",
+      "advancements.tungsten_advancement.title": "Not Quite Netherite",
       "block.blockblitz.raw_chrome_block": "Block of Raw Chrome",
       "item.blockblitz.chrome_pickaxe": "Chrome Pickaxe",
       "block.blockblitz.gapple_stairs": "Golden Apple Planks",
@@ -6867,6 +6903,7 @@
       "block.blockblitz.gapple_fence_gate": "Golden Apple Planks",
       "block.blockblitz.cotton_block": "Хлопковый блок",
       "block.blockblitz.obsidian_pressure_plate": "Obsidian Button",
+      "advancements.niobium_advancement.descr": "Smith a Niobium pickaxe",
       "block.blockblitz.andesite_pressure_plate": "Andesite Pressure Plate",
       "block.blockblitz.gapple_wood": "Gapple Wood",
       "block.blockblitz.mulberry_pressure_plate": "Шелковиная нажимная плита",
@@ -6877,6 +6914,7 @@
       "block.blockblitz.purple_turf_carpet": "Blue Turf Carpet",
       "item.blockblitz.copper_sword": "Медный меч",
       "item.blockblitz.chrome_sword": "Chrome Sword",
+      "advancements.niobium_advancement.title": "The Supreme",
       "block.blockblitz.calcite_wall": "Calcite Wall",
       "block.blockblitz.apple_slab": "Яблочная плита",
       "block.blockblitz.obsidian_button": "Deepslate Button",
@@ -6946,6 +6984,7 @@
       "item.blockblitz.raw_tungsten": "Raw Tungsten",
       "block.blockblitz.cotton_plant": "Cotton Plant",
       "block.blockblitz.warped_ladder": "Acacia Ladder",
+      "advancements.tungsten_advancement.descr": "Obtain Tungsten",
       "block.blockblitz.block_of_chrome": "Block Of Chrome",
       "block.blockblitz.polished_calcite": "Polished Calcite",
       "block.blockblitz.spruce_bookshelf": "Półka na książki ze świerku",
@@ -7031,6 +7070,7 @@
       "item.blockblitz.steel_pickaxe": "Steel Pickaxe",
       "block.blockblitz.mulberry_sapling": "Mulberry Sapling",
       "block.blockblitz.orange_turf": "Red Turf",
+      "advancements.tungsten_advancement.title": "Not Quite Netherite",
       "block.blockblitz.raw_chrome_block": "Raw Chrome Block",
       "item.blockblitz.chrome_pickaxe": "Chrome Pickaxe",
       "block.blockblitz.gapple_stairs": "Golden Apple Planks",
@@ -7094,6 +7134,7 @@
       "block.blockblitz.gapple_fence_gate": "Golden Apple Planks",
       "block.blockblitz.cotton_block": "Cotton Block",
       "block.blockblitz.obsidian_pressure_plate": "Obsidian Button",
+      "advancements.niobium_advancement.descr": "Smith a Niobium pickaxe",
       "block.blockblitz.andesite_pressure_plate": "Andesite Pressure Plate",
       "block.blockblitz.gapple_wood": "Gapple Wood",
       "block.blockblitz.dark_oak_ladder": "Acacia Ladder",
@@ -7105,6 +7146,7 @@
       "block.blockblitz.purple_turf_carpet": "Blue Turf Carpet",
       "item.blockblitz.copper_sword": "Miedziany miecz",
       "item.blockblitz.chrome_sword": "Chrome Sword",
+      "advancements.niobium_advancement.title": "The Supreme",
       "block.blockblitz.calcite_wall": "Calcite Wall",
       "block.blockblitz.apple_slab": "Półpłytka z jabłoni",
       "block.blockblitz.obsidian_button": "Deepslate Button",
@@ -7179,6 +7221,7 @@
       "item.blockblitz.raw_tungsten": "Raw Tungsten",
       "block.blockblitz.cotton_plant": "Cotton",
       "block.blockblitz.warped_ladder": "Warped Ladder",
+      "advancements.tungsten_advancement.descr": "Obtain Tungsten",
       "block.blockblitz.block_of_chrome": "Block Of Chrome",
       "block.blockblitz.polished_calcite": "Polished Calcite",
       "block.blockblitz.spruce_bookshelf": "Spruce Bookshelf",
@@ -7268,6 +7311,7 @@
       "item.blockblitz.steel_pickaxe": "Steel Pickaxe",
       "block.blockblitz.mulberry_sapling": "Mulberry Sapling",
       "block.blockblitz.orange_turf": "Orange Turf",
+      "advancements.tungsten_advancement.title": "Not Quite Netherite",
       "block.blockblitz.raw_chrome_block": "Block of Raw Chrome",
       "item.blockblitz.chrome_pickaxe": "Chrome Pickaxe",
       "block.blockblitz.gapple_stairs": "Golden Apple Stairs",
@@ -7334,6 +7378,7 @@
       "block.blockblitz.gapple_fence_gate": "Golden Apple Gate",
       "block.blockblitz.cotton_block": "Cotton Block",
       "block.blockblitz.obsidian_pressure_plate": "Obsidian Pressure Plate",
+      "advancements.niobium_advancement.descr": "Upgrade your Steel Pickaxe with Niobium",
       "block.blockblitz.andesite_pressure_plate": "Andesite Pressure Plate",
       "block.blockblitz.gapple_wood": "Golden Apple Wood",
       "block.blockblitz.dark_oak_ladder": "Dark Oak Ladder",
@@ -7346,6 +7391,7 @@
       "item.blockblitz.copper_sword": "Copper Sword",
       "item.blockblitz.chrome_sword": "Chrome Sword",
       "fluid.blockblitz.contaminated_water": "Contaminated Water",
+      "advancements.niobium_advancement.title": "The Supreme",
       "block.blockblitz.calcite_wall": "Calcite Wall",
       "block.blockblitz.apple_slab": "Apple Slab",
       "block.blockblitz.obsidian_button": "Obsidian Button",
@@ -7364,7 +7410,7 @@
       "block.blockblitz.block_of_steel": "Block Of Steel",
       "item.blockblitz.aluminium_ingot": "Aluminium Ingot",
       "block.blockblitz.maple_ladder": "Maple Ladder",
-      "advancements.casting_advancement.descr": "cast an alloy in a mold",
+      "advancements.casting_advancement.descr": "Make an alloy in a mold",
       "block.blockblitz.red_turf_carpet": "Red Turf Carpet",
       "block.blockblitz.gapple_fence": "Golden Apple Fence",
       "block.blockblitz.polished_calcite_stairs": "Polished Calcite Stairs",
@@ -7422,6 +7468,7 @@
       "item.blockblitz.raw_tungsten": "Raw Tungsten",
       "block.blockblitz.cotton_plant": "Cotton Plant",
       "block.blockblitz.warped_ladder": "Acacia Ladder",
+      "advancements.tungsten_advancement.descr": "Obtain Tungsten",
       "block.blockblitz.block_of_chrome": "Block Of Chrome",
       "block.blockblitz.polished_calcite": "Polished Calcite",
       "block.blockblitz.spruce_bookshelf": "Librería de Abeto",
@@ -7511,6 +7558,7 @@
       "item.blockblitz.steel_pickaxe": "Steel Pickaxe",
       "block.blockblitz.mulberry_sapling": "Mulberry Sapling",
       "block.blockblitz.orange_turf": "Red Turf",
+      "advancements.tungsten_advancement.title": "Not Quite Netherite",
       "block.blockblitz.raw_chrome_block": "Raw Chrome Block",
       "item.blockblitz.chrome_pickaxe": "Chrome Pickaxe",
       "block.blockblitz.gapple_stairs": "Golden Apple Planks",
@@ -7577,6 +7625,7 @@
       "block.blockblitz.gapple_fence_gate": "Golden Apple Planks",
       "block.blockblitz.cotton_block": "Cotton Block",
       "block.blockblitz.obsidian_pressure_plate": "Obsidian Button",
+      "advancements.niobium_advancement.descr": "Smith a Niobium pickaxe",
       "block.blockblitz.andesite_pressure_plate": "Andesite Pressure Plate",
       "block.blockblitz.gapple_wood": "Gapple Wood",
       "block.blockblitz.dark_oak_ladder": "Acacia Ladder",
@@ -7589,6 +7638,7 @@
       "item.blockblitz.copper_sword": "Espada de Cobre",
       "item.blockblitz.chrome_sword": "Chrome Sword",
       "fluid.blockblitz.contaminated_water": "Agua Contaminada",
+      "advancements.niobium_advancement.title": "The Supreme",
       "block.blockblitz.calcite_wall": "Calcite Wall",
       "block.blockblitz.apple_slab": "Losa de Manzano",
       "block.blockblitz.obsidian_button": "Deepslate Button",
@@ -7665,6 +7715,7 @@
       "item.blockblitz.raw_tungsten": "Raw Tungsten",
       "block.blockblitz.cotton_plant": "Cotton Plant",
       "block.blockblitz.warped_ladder": "Acacia Ladder",
+      "advancements.tungsten_advancement.descr": "Obtain Tungsten",
       "block.blockblitz.block_of_chrome": "Block Of Chrome",
       "block.blockblitz.polished_calcite": "Polished Calcite",
       "block.blockblitz.spruce_bookshelf": "Fichtenholzbücherregal",
@@ -7754,6 +7805,7 @@
       "item.blockblitz.steel_pickaxe": "Steel Pickaxe",
       "block.blockblitz.mulberry_sapling": "Mulberry Sapling",
       "block.blockblitz.orange_turf": "Red Turf",
+      "advancements.tungsten_advancement.title": "Not Quite Netherite",
       "block.blockblitz.raw_chrome_block": "Raw Chrome Block",
       "item.blockblitz.chrome_pickaxe": "Chrome Pickaxe",
       "block.blockblitz.gapple_stairs": "Golden Apple Planks",
@@ -7820,6 +7872,7 @@
       "block.blockblitz.gapple_fence_gate": "Golden Apple Planks",
       "block.blockblitz.cotton_block": "Cotton Block",
       "block.blockblitz.obsidian_pressure_plate": "Obsidian Button",
+      "advancements.niobium_advancement.descr": "Smith a Niobium pickaxe",
       "block.blockblitz.andesite_pressure_plate": "Andesite Pressure Plate",
       "block.blockblitz.gapple_wood": "Gapple Wood",
       "block.blockblitz.dark_oak_ladder": "Acacia Ladder",
@@ -7832,6 +7885,7 @@
       "item.blockblitz.copper_sword": "Kupferschwert     (where are the oxidized versions btw)",
       "item.blockblitz.chrome_sword": "Chrome Sword",
       "fluid.blockblitz.contaminated_water": "Kontaminiertes Wasser",
+      "advancements.niobium_advancement.title": "The Supreme",
       "block.blockblitz.calcite_wall": "Calcite Wall",
       "block.blockblitz.apple_slab": "Apfelholzstufe",
       "block.blockblitz.obsidian_button": "Deepslate Button",

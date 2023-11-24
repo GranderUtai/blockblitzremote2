@@ -22,5 +22,5 @@
   "rewards": {
     "experience": 30
   },
-  "parent": "minecraft:story/smelt_iron"
+  "parent": "blockblitz:tungsten_advancement"
 }

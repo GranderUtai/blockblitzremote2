@@ -236,7 +236,6 @@ public class BlockblitzModBlocks {
 	public static final RegistryObject<Block> POLISHED_CALCITE_STAIRS = REGISTRY.register("polished_calcite_stairs", () -> new PolishedCalciteStairsBlock());
 	public static final RegistryObject<Block> POLISHED_CALCITE_SLAB = REGISTRY.register("polished_calcite_slab", () -> new PolishedCalciteSlabBlock());
 	public static final RegistryObject<Block> POLISHED_CALCITE_WALL = REGISTRY.register("polished_calcite_wall", () -> new PolishedCalciteWallBlock());
-	public static final RegistryObject<Block> GOLD_DOOR = REGISTRY.register("gold_door", () -> new GoldDoorBlock());
 	public static final RegistryObject<Block> APPLE_TRAPDOOR = REGISTRY.register("apple_trapdoor", () -> new AppleTrapdoorBlock());
 	public static final RegistryObject<Block> APPLE_BUTTON = REGISTRY.register("apple_button", () -> new AppleButtonBlock());
 	public static final RegistryObject<Block> APPLE_PRESSURE_PLATE = REGISTRY.register("apple_pressure_plate", () -> new ApplePressurePlateBlock());
@@ -252,7 +251,9 @@ public class BlockblitzModBlocks {
 	public static final RegistryObject<Block> ANDESITE_BUTTON = REGISTRY.register("andesite_button", () -> new AndesiteButtonBlock());
 	public static final RegistryObject<Block> ANDESITE_PRESSURE_PLATE = REGISTRY.register("andesite_pressure_plate", () -> new AndesitePressurePlateBlock());
 	public static final RegistryObject<Block> DIORITE_BUTTON = REGISTRY.register("diorite_button", () -> new DioriteButtonBlock());
+	public static final RegistryObject<Block> GOLD_DOOR = REGISTRY.register("gold_door", () -> new GoldDoorBlock());
 	public static final RegistryObject<Block> GOLD_TRAPDOOR = REGISTRY.register("gold_trapdoor", () -> new GoldTrapdoorBlock());
+	public static final RegistryObject<Block> GOLD_BUTTON = REGISTRY.register("gold_button", () -> new GoldButtonBlock());
 	public static final RegistryObject<Block> DIORITE_PRESSURE_PLATE = REGISTRY.register("diorite_pressure_plate", () -> new DioritePressurePlateBlock());
 	public static final RegistryObject<Block> GRANITE_BUTTON = REGISTRY.register("granite_button", () -> new GraniteButtonBlock());
 	public static final RegistryObject<Block> GRANITE_PRESSURE_PLATE = REGISTRY.register("granite_pressure_plate", () -> new GranitePressurePlateBlock());
@@ -260,7 +261,6 @@ public class BlockblitzModBlocks {
 	public static final RegistryObject<Block> CALCITE_PRESSURE_PLATE = REGISTRY.register("calcite_pressure_plate", () -> new CalcitePressurePlateBlock());
 	public static final RegistryObject<Block> TUFF_BUTTON = REGISTRY.register("tuff_button", () -> new TuffButtonBlock());
 	public static final RegistryObject<Block> TUFF_PRESSURE_PLATE = REGISTRY.register("tuff_pressure_plate", () -> new TuffPressurePlateBlock());
-	public static final RegistryObject<Block> GOLD_BUTTON = REGISTRY.register("gold_button", () -> new GoldButtonBlock());
 	public static final RegistryObject<Block> IRON_BUTTON = REGISTRY.register("iron_button", () -> new IronButtonBlock());
 	public static final RegistryObject<Block> AMETHYST_BUTTON = REGISTRY.register("amethyst_button", () -> new AmethystButtonBlock());
 	public static final RegistryObject<Block> AMETHYST_PRESSURE_PLATE = REGISTRY.register("amethyst_pressure_plate", () -> new AmethystPressurePlateBlock());

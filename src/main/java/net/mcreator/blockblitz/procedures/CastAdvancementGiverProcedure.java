@@ -3,35 +3,38 @@ package net.mcreator.blockblitz.procedures;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.eventbus.api.Event;
-import net.minecraftforge.event.entity.player.EntityItemPickupEvent;
+import net.minecraftforge.event.entity.player.PlayerInteractEvent;
 
 import net.minecraft.world.level.LevelAccessor;
-import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.entity.Entity;
-import net.minecraft.tags.ItemTags;
 import net.minecraft.server.level.ServerPlayer;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.network.chat.Component;
+import net.minecraft.core.BlockPos;
 import net.minecraft.advancements.AdvancementProgress;
 import net.minecraft.advancements.Advancement;
+
+import net.mcreator.blockblitz.init.BlockblitzModBlocks;
 
 import javax.annotation.Nullable;
 
 @Mod.EventBusSubscriber
 public class CastAdvancementGiverProcedure {
 	@SubscribeEvent
-	public static void onPickup(EntityItemPickupEvent event) {
-		execute(event, event.getEntity().level(), event.getEntity(), event.getItem().getItem());
+	public static void onRightClickBlock(PlayerInteractEvent.RightClickBlock event) {
+		if (event.getHand() != event.getEntity().getUsedItemHand())
+			return;
+		execute(event, event.getLevel(), event.getPos().getX(), event.getPos().getY(), event.getPos().getZ(), event.getEntity());
 	}
 
-	public static void execute(LevelAccessor world, Entity entity, ItemStack itemstack) {
-		execute(null, world, entity, itemstack);
+	public static void execute(LevelAccessor world, double x, double y, double z, Entity entity) {
+		execute(null, world, x, y, z, entity);
 	}
 
-	private static void execute(@Nullable Event event, LevelAccessor world, Entity entity, ItemStack itemstack) {
+	private static void execute(@Nullable Event event, LevelAccessor world, double x, double y, double z, Entity entity) {
 		if (entity == null)
 			return;
-		if (itemstack.is(ItemTags.create(new ResourceLocation("blockblitz:alloys")))) {
+		if ((world.getBlockState(BlockPos.containing(x, y, z))).getBlock() == BlockblitzModBlocks.MOLD_INGOT.get()) {
 			if (entity instanceof ServerPlayer _player) {
 				Advancement _adv = _player.server.getAdvancements().getAdvancement(new ResourceLocation("blockblitz:casting_advancement"));
 				AdvancementProgress _ap = _player.getAdvancements().getOrStartProgress(_adv);

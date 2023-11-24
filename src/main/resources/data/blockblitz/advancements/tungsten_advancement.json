@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "blockblitz:block_of_tungsten"
+    },
+    "title": {
+      "translate": "advancements.tungsten_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.tungsten_advancement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "tungsten_advancement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "blockblitz:tungsten_ingot"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 5
+  },
+  "parent": "minecraft:story/smelt_iron"
+}

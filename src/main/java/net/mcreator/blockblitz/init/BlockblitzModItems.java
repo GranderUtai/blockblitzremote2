@@ -111,7 +111,6 @@ public class BlockblitzModItems {
 	public static final RegistryObject<Item> POLISHED_CALCITE_STAIRS = block(BlockblitzModBlocks.POLISHED_CALCITE_STAIRS);
 	public static final RegistryObject<Item> POLISHED_CALCITE_SLAB = block(BlockblitzModBlocks.POLISHED_CALCITE_SLAB);
 	public static final RegistryObject<Item> POLISHED_CALCITE_WALL = block(BlockblitzModBlocks.POLISHED_CALCITE_WALL);
-	public static final RegistryObject<Item> GOLD_DOOR = doubleBlock(BlockblitzModBlocks.GOLD_DOOR);
 	public static final RegistryObject<Item> APPLE_TRAPDOOR = block(BlockblitzModBlocks.APPLE_TRAPDOOR);
 	public static final RegistryObject<Item> APPLE_BUTTON = block(BlockblitzModBlocks.APPLE_BUTTON);
 	public static final RegistryObject<Item> APPLE_PRESSURE_PLATE = block(BlockblitzModBlocks.APPLE_PRESSURE_PLATE);
@@ -127,7 +126,9 @@ public class BlockblitzModItems {
 	public static final RegistryObject<Item> ANDESITE_BUTTON = block(BlockblitzModBlocks.ANDESITE_BUTTON);
 	public static final RegistryObject<Item> ANDESITE_PRESSURE_PLATE = block(BlockblitzModBlocks.ANDESITE_PRESSURE_PLATE);
 	public static final RegistryObject<Item> DIORITE_BUTTON = block(BlockblitzModBlocks.DIORITE_BUTTON);
+	public static final RegistryObject<Item> GOLD_DOOR = doubleBlock(BlockblitzModBlocks.GOLD_DOOR);
 	public static final RegistryObject<Item> GOLD_TRAPDOOR = block(BlockblitzModBlocks.GOLD_TRAPDOOR);
+	public static final RegistryObject<Item> GOLD_BUTTON = block(BlockblitzModBlocks.GOLD_BUTTON);
 	public static final RegistryObject<Item> DIORITE_PRESSURE_PLATE = block(BlockblitzModBlocks.DIORITE_PRESSURE_PLATE);
 	public static final RegistryObject<Item> GRANITE_BUTTON = block(BlockblitzModBlocks.GRANITE_BUTTON);
 	public static final RegistryObject<Item> GRANITE_PRESSURE_PLATE = block(BlockblitzModBlocks.GRANITE_PRESSURE_PLATE);
@@ -135,7 +136,6 @@ public class BlockblitzModItems {
 	public static final RegistryObject<Item> CALCITE_PRESSURE_PLATE = block(BlockblitzModBlocks.CALCITE_PRESSURE_PLATE);
 	public static final RegistryObject<Item> TUFF_BUTTON = block(BlockblitzModBlocks.TUFF_BUTTON);
 	public static final RegistryObject<Item> TUFF_PRESSURE_PLATE = block(BlockblitzModBlocks.TUFF_PRESSURE_PLATE);
-	public static final RegistryObject<Item> GOLD_BUTTON = block(BlockblitzModBlocks.GOLD_BUTTON);
 	public static final RegistryObject<Item> IRON_BUTTON = block(BlockblitzModBlocks.IRON_BUTTON);
 	public static final RegistryObject<Item> AMETHYST_BUTTON = block(BlockblitzModBlocks.AMETHYST_BUTTON);
 	public static final RegistryObject<Item> AMETHYST_PRESSURE_PLATE = block(BlockblitzModBlocks.AMETHYST_PRESSURE_PLATE);
