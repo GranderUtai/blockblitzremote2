@@ -52,6 +52,6 @@ public class BlockblitzModFeatures {
 	public static final RegistryObject<Feature<?>> FREQUENT_TUMBLES = REGISTRY.register("frequent_tumbles", FrequentTumblesFeature::new);
 	public static final RegistryObject<Feature<?>> GAPPLE_TREE_1 = REGISTRY.register("gapple_tree_1", GappleTree1Feature::new);
 	public static final RegistryObject<Feature<?>> GAPPLE_TREE_2 = REGISTRY.register("gapple_tree_2", GappleTree2Feature::new);
-	public static final RegistryObject<Feature<?>> GAPPLE_TREE_3 = REGISTRY.register("gapple_tree_3", GappleTree3Feature::new);
 	public static final RegistryObject<Feature<?>> GAPPLE_TREE_4 = REGISTRY.register("gapple_tree_4", GappleTree4Feature::new);
+	public static final RegistryObject<Feature<?>> GAPPLE_TREE_3 = REGISTRY.register("gapple_tree_3", GappleTree3Feature::new);
 }

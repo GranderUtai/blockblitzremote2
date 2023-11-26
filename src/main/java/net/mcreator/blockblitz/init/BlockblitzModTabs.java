@@ -79,13 +79,9 @@ public class BlockblitzModTabs {
 			tabData.accept(BlockblitzModBlocks.POLISHED_CALCITE_STAIRS.get().asItem());
 			tabData.accept(BlockblitzModBlocks.POLISHED_CALCITE_SLAB.get().asItem());
 			tabData.accept(BlockblitzModBlocks.POLISHED_CALCITE_WALL.get().asItem());
-			tabData.accept(BlockblitzModBlocks.POLISHED_ANDESITE_WALL.get().asItem());
-			tabData.accept(BlockblitzModBlocks.POLISHED_DIORITE_WALL.get().asItem());
-			tabData.accept(BlockblitzModBlocks.POLISHED_GRANITE_WALL.get().asItem());
 		}
 
 		if (tabData.getTabKey() == CreativeModeTabs.REDSTONE_BLOCKS) {
-			tabData.accept(BlockblitzModBlocks.GOLD_DOOR.get().asItem());
 			tabData.accept(BlockblitzModBlocks.APPLE_TRAPDOOR.get().asItem());
 			tabData.accept(BlockblitzModBlocks.APPLE_BUTTON.get().asItem());
 			tabData.accept(BlockblitzModBlocks.APPLE_PRESSURE_PLATE.get().asItem());
@@ -101,7 +97,9 @@ public class BlockblitzModTabs {
 			tabData.accept(BlockblitzModBlocks.ANDESITE_BUTTON.get().asItem());
 			tabData.accept(BlockblitzModBlocks.ANDESITE_PRESSURE_PLATE.get().asItem());
 			tabData.accept(BlockblitzModBlocks.DIORITE_BUTTON.get().asItem());
+			tabData.accept(BlockblitzModBlocks.GOLD_DOOR.get().asItem());
 			tabData.accept(BlockblitzModBlocks.GOLD_TRAPDOOR.get().asItem());
+			tabData.accept(BlockblitzModBlocks.GOLD_BUTTON.get().asItem());
 			tabData.accept(BlockblitzModBlocks.DIORITE_PRESSURE_PLATE.get().asItem());
 			tabData.accept(BlockblitzModBlocks.GRANITE_BUTTON.get().asItem());
 			tabData.accept(BlockblitzModBlocks.GRANITE_PRESSURE_PLATE.get().asItem());
@@ -109,7 +107,6 @@ public class BlockblitzModTabs {
 			tabData.accept(BlockblitzModBlocks.CALCITE_PRESSURE_PLATE.get().asItem());
 			tabData.accept(BlockblitzModBlocks.TUFF_BUTTON.get().asItem());
 			tabData.accept(BlockblitzModBlocks.TUFF_PRESSURE_PLATE.get().asItem());
-			tabData.accept(BlockblitzModBlocks.GOLD_BUTTON.get().asItem());
 			tabData.accept(BlockblitzModBlocks.IRON_BUTTON.get().asItem());
 			tabData.accept(BlockblitzModBlocks.AMETHYST_BUTTON.get().asItem());
 			tabData.accept(BlockblitzModBlocks.AMETHYST_PRESSURE_PLATE.get().asItem());
@@ -122,8 +119,11 @@ public class BlockblitzModTabs {
 		}
 
 		if (tabData.getTabKey() == CreativeModeTabs.FUNCTIONAL_BLOCKS) {
-			tabData.accept(BlockblitzModBlocks.GOLDEN_APPLE_BOOKSHELF.get().asItem());
 			tabData.accept(BlockblitzModBlocks.MOLD.get().asItem());
+			tabData.accept(BlockblitzModBlocks.APPLE_BOOKSHELF.get().asItem());
+			tabData.accept(BlockblitzModBlocks.GOLDEN_APPLE_BOOKSHELF.get().asItem());
+			tabData.accept(BlockblitzModBlocks.MAPLE_BOOKSHELF.get().asItem());
+			tabData.accept(BlockblitzModBlocks.MULBERRY_BOOKSHELF.get().asItem());
 			tabData.accept(BlockblitzModBlocks.ACACIA_BOOKSHELF.get().asItem());
 			tabData.accept(BlockblitzModBlocks.BAMBOO_BOOKSHELF.get().asItem());
 			tabData.accept(BlockblitzModBlocks.BIRCH_BOOKSHELF.get().asItem());
@@ -132,17 +132,14 @@ public class BlockblitzModTabs {
 			tabData.accept(BlockblitzModBlocks.DARK_OAK_BOOKSHELF.get().asItem());
 			tabData.accept(BlockblitzModBlocks.JUNGLE_BOOKSHELF.get().asItem());
 			tabData.accept(BlockblitzModBlocks.MANGROVE_BOOKSHELF.get().asItem());
-			tabData.accept(BlockblitzModBlocks.APPLE_BOOKSHELF.get().asItem());
-			tabData.accept(BlockblitzModBlocks.MAPLE_BOOKSHELF.get().asItem());
-			tabData.accept(BlockblitzModBlocks.MULBERRY_BOOKSHELF.get().asItem());
 			tabData.accept(BlockblitzModBlocks.SPRUCE_BOOKSHELF.get().asItem());
 			tabData.accept(BlockblitzModBlocks.WARPED_BOOKSHELF.get().asItem());
 		}
 
 		if (tabData.getTabKey() == CreativeModeTabs.COMBAT) {
-			tabData.accept(BlockblitzModItems.NIOBIUM_SWORD.get());
 			tabData.accept(BlockblitzModItems.COPPER_SWORD.get());
 			tabData.accept(BlockblitzModItems.STEEL_SWORD.get());
+			tabData.accept(BlockblitzModItems.NIOBIUM_SWORD.get());
 			tabData.accept(BlockblitzModItems.CHROME_SWORD.get());
 			tabData.accept(BlockblitzModItems.AMETHYST_KNIFE.get());
 		}
@@ -227,7 +224,9 @@ public class BlockblitzModTabs {
 			tabData.accept(BlockblitzModBlocks.COTTON_PLANT.get().asItem());
 			tabData.accept(BlockblitzModBlocks.TUMBLEWEED.get().asItem());
 			tabData.accept(BlockblitzModBlocks.COTTON_BLOCK.get().asItem());
+			tabData.accept(BlockblitzModBlocks.COTTON_CARPET.get().asItem());
 			tabData.accept(BlockblitzModBlocks.DENIM_BLOCK.get().asItem());
+			tabData.accept(BlockblitzModBlocks.DENIM_CARPET.get().asItem());
 			tabData.accept(BlockblitzModBlocks.QUARTZ_ORE.get().asItem());
 			tabData.accept(BlockblitzModBlocks.DEEPSLATE_QUARTZ_ORE.get().asItem());
 			tabData.accept(BlockblitzModBlocks.OIL_ORE.get().asItem());
@@ -242,12 +241,10 @@ public class BlockblitzModTabs {
 			tabData.accept(BlockblitzModBlocks.GAPPLE_LEAVES.get().asItem());
 			tabData.accept(BlockblitzModBlocks.MAPLE_LEAVES.get().asItem());
 			tabData.accept(BlockblitzModBlocks.MULBERRY_LEAVES.get().asItem());
+			tabData.accept(BlockblitzModBlocks.APPLE_SAPPLING.get().asItem());
+			tabData.accept(BlockblitzModBlocks.GAPPLE_SAPLING.get().asItem());
 			tabData.accept(BlockblitzModBlocks.MAPLE_SAPLING.get().asItem());
 			tabData.accept(BlockblitzModBlocks.MULBERRY_SAPLING.get().asItem());
-			tabData.accept(BlockblitzModBlocks.GAPPLE_SAPLING.get().asItem());
-			tabData.accept(BlockblitzModBlocks.APPLE_SAPPLING.get().asItem());
-			tabData.accept(BlockblitzModBlocks.COTTON_CARPET.get().asItem());
-			tabData.accept(BlockblitzModBlocks.DENIM_CARPET.get().asItem());
 		}
 
 		if (tabData.getTabKey() == CreativeModeTabs.FOOD_AND_DRINKS) {

@@ -11,7 +11,6 @@
     "blockblitz:block_of_chrome",
     "blockblitz:iron_grate",
     "blockblitz:golden_grate",
-    "blockblitz:gold_door",
     "blockblitz:calcite_stairs",
     "blockblitz:calcite_slab",
     "blockblitz:calcite_wall",
@@ -27,7 +26,9 @@
     "blockblitz:andesite_button",
     "blockblitz:andesite_pressure_plate",
     "blockblitz:diorite_button",
+    "blockblitz:gold_door",
     "blockblitz:gold_trapdoor",
+    "blockblitz:gold_button",
     "blockblitz:diorite_pressure_plate",
     "blockblitz:granite_button",
     "blockblitz:granite_pressure_plate",
@@ -35,7 +36,6 @@
     "blockblitz:calcite_pressure_plate",
     "blockblitz:tuff_button",
     "blockblitz:tuff_pressure_plate",
-    "blockblitz:gold_button",
     "blockblitz:iron_button",
     "blockblitz:amethyst_button",
     "blockblitz:amethyst_pressure_plate",
@@ -55,9 +55,6 @@
     "blockblitz:niobium_deepslate_ore",
     "blockblitz:chrome_ore",
     "blockblitz:chrome_deepslate_ore",
-    "blockblitz:mold",
-    "blockblitz:polished_andesite_wall",
-    "blockblitz:polished_diorite_wall",
-    "blockblitz:polished_granite_wall"
+    "blockblitz:mold"
   ]
 }
