@@ -16,7 +16,7 @@ import java.util.Collections;
 
 public class BambooBookshelfBlock extends Block {
 	public BambooBookshelfBlock() {
-		super(BlockBehaviour.Properties.of().ignitedByLava().sound(SoundType.WOOD).strength(1f, 10f));
+		super(BlockBehaviour.Properties.of().ignitedByLava().sound(SoundType.BAMBOO_WOOD).strength(1f, 10f));
 	}
 
 	@Override
