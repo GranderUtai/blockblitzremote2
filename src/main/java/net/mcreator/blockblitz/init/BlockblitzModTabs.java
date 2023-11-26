@@ -67,7 +67,6 @@ public class BlockblitzModTabs {
 			tabData.accept(BlockblitzModBlocks.BLOCK_OF_CHROME.get().asItem());
 			tabData.accept(BlockblitzModBlocks.IRON_GRATE.get().asItem());
 			tabData.accept(BlockblitzModBlocks.GOLDEN_GRATE.get().asItem());
-			tabData.accept(BlockblitzModBlocks.GOLD_DOOR.get().asItem());
 			tabData.accept(BlockblitzModBlocks.CALCITE_STAIRS.get().asItem());
 			tabData.accept(BlockblitzModBlocks.CALCITE_SLAB.get().asItem());
 			tabData.accept(BlockblitzModBlocks.CALCITE_WALL.get().asItem());
@@ -86,6 +85,7 @@ public class BlockblitzModTabs {
 		}
 
 		if (tabData.getTabKey() == CreativeModeTabs.REDSTONE_BLOCKS) {
+			tabData.accept(BlockblitzModBlocks.GOLD_DOOR.get().asItem());
 			tabData.accept(BlockblitzModBlocks.APPLE_TRAPDOOR.get().asItem());
 			tabData.accept(BlockblitzModBlocks.APPLE_BUTTON.get().asItem());
 			tabData.accept(BlockblitzModBlocks.APPLE_PRESSURE_PLATE.get().asItem());

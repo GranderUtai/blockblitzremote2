@@ -20,7 +20,7 @@ import java.util.Collections;
 
 public class ChromeDeepslateOreBlock extends Block {
 	public ChromeDeepslateOreBlock() {
-		super(BlockBehaviour.Properties.of().instrument(NoteBlockInstrument.BASEDRUM).sound(SoundType.STONE).strength(4f, 10f).requiresCorrectToolForDrops());
+		super(BlockBehaviour.Properties.of().instrument(NoteBlockInstrument.BASEDRUM).sound(SoundType.DEEPSLATE).strength(4f, 10f).requiresCorrectToolForDrops());
 	}
 
 	@Override

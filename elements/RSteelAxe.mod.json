@@ -12,16 +12,16 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "CUSTOM:TungstenIngot"
+        "value": "CUSTOM:SteelIngot"
       },
       {
-        "value": "CUSTOM:TungstenIngot"
+        "value": "CUSTOM:SteelIngot"
       },
       {
         "value": ""
       },
       {
-        "value": "CUSTOM:TungstenIngot"
+        "value": "CUSTOM:SteelIngot"
       },
       {
         "value": "Items.STICK"

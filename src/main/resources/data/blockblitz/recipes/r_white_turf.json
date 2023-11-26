@@ -8,19 +8,19 @@
   ],
   "key": {
     "1": {
-      "item": "minecraft:grass_block"
+      "item": "minecraft:grass"
     },
     "3": {
       "item": "blockblitz:silica"
     },
     "4": {
-      "item": "minecraft:white_dye"
+      "item": "blockblitz:cotton_plant"
     },
     "5": {
       "item": "blockblitz:silica"
     },
     "7": {
-      "item": "minecraft:grass_block"
+      "item": "minecraft:grass"
     }
   },
   "result": {

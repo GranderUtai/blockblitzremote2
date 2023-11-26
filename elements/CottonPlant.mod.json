@@ -77,8 +77,8 @@
     "jumpFactor": 1.0,
     "speedFactor": 1.0,
     "canBePlacedOn": [],
-    "isBonemealable": true,
-    "frequencyOnChunks": 2,
+    "isBonemealable": false,
+    "frequencyOnChunks": 3,
     "spawnWorldTypes": [
       "Surface"
     ],
