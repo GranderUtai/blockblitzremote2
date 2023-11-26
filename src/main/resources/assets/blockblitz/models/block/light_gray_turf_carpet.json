@@ -3,7 +3,7 @@
   "textures": {
     "all": "blockblitz:block/turf_lightgray2",
     "particle": "blockblitz:block/turf_lightgray2",
-    "9": "blockblitz:block/turf_lightgray"
+    "9": "blockblitz:block/turf_lightgray2"
   },
   "render_type": "solid"
 }

@@ -2,7 +2,7 @@
   "mappings": {
     "default": {
       "map": {
-        "9": "turf_lightgray"
+        "9": "turf_lightgray2"
       },
       "name": "default"
     }
