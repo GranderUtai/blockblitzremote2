@@ -99,6 +99,7 @@ public class BlockblitzModItems {
 	public static final RegistryObject<Item> BLOCK_OF_CHROME = block(BlockblitzModBlocks.BLOCK_OF_CHROME);
 	public static final RegistryObject<Item> IRON_GRATE = block(BlockblitzModBlocks.IRON_GRATE);
 	public static final RegistryObject<Item> GOLDEN_GRATE = block(BlockblitzModBlocks.GOLDEN_GRATE);
+	public static final RegistryObject<Item> GOLD_DOOR = doubleBlock(BlockblitzModBlocks.GOLD_DOOR);
 	public static final RegistryObject<Item> CALCITE_STAIRS = block(BlockblitzModBlocks.CALCITE_STAIRS);
 	public static final RegistryObject<Item> CALCITE_SLAB = block(BlockblitzModBlocks.CALCITE_SLAB);
 	public static final RegistryObject<Item> CALCITE_WALL = block(BlockblitzModBlocks.CALCITE_WALL);
@@ -126,9 +127,7 @@ public class BlockblitzModItems {
 	public static final RegistryObject<Item> ANDESITE_BUTTON = block(BlockblitzModBlocks.ANDESITE_BUTTON);
 	public static final RegistryObject<Item> ANDESITE_PRESSURE_PLATE = block(BlockblitzModBlocks.ANDESITE_PRESSURE_PLATE);
 	public static final RegistryObject<Item> DIORITE_BUTTON = block(BlockblitzModBlocks.DIORITE_BUTTON);
-	public static final RegistryObject<Item> GOLD_DOOR = doubleBlock(BlockblitzModBlocks.GOLD_DOOR);
 	public static final RegistryObject<Item> GOLD_TRAPDOOR = block(BlockblitzModBlocks.GOLD_TRAPDOOR);
-	public static final RegistryObject<Item> GOLD_BUTTON = block(BlockblitzModBlocks.GOLD_BUTTON);
 	public static final RegistryObject<Item> DIORITE_PRESSURE_PLATE = block(BlockblitzModBlocks.DIORITE_PRESSURE_PLATE);
 	public static final RegistryObject<Item> GRANITE_BUTTON = block(BlockblitzModBlocks.GRANITE_BUTTON);
 	public static final RegistryObject<Item> GRANITE_PRESSURE_PLATE = block(BlockblitzModBlocks.GRANITE_PRESSURE_PLATE);
@@ -136,6 +135,7 @@ public class BlockblitzModItems {
 	public static final RegistryObject<Item> CALCITE_PRESSURE_PLATE = block(BlockblitzModBlocks.CALCITE_PRESSURE_PLATE);
 	public static final RegistryObject<Item> TUFF_BUTTON = block(BlockblitzModBlocks.TUFF_BUTTON);
 	public static final RegistryObject<Item> TUFF_PRESSURE_PLATE = block(BlockblitzModBlocks.TUFF_PRESSURE_PLATE);
+	public static final RegistryObject<Item> GOLD_BUTTON = block(BlockblitzModBlocks.GOLD_BUTTON);
 	public static final RegistryObject<Item> IRON_BUTTON = block(BlockblitzModBlocks.IRON_BUTTON);
 	public static final RegistryObject<Item> AMETHYST_BUTTON = block(BlockblitzModBlocks.AMETHYST_BUTTON);
 	public static final RegistryObject<Item> AMETHYST_PRESSURE_PLATE = block(BlockblitzModBlocks.AMETHYST_PRESSURE_PLATE);
@@ -177,20 +177,14 @@ public class BlockblitzModItems {
 	public static final RegistryObject<Item> AMETHYST_PICKAXE = REGISTRY.register("amethyst_pickaxe", () -> new AmethystPickaxeItem());
 	public static final RegistryObject<Item> AMETHYST_AXE = REGISTRY.register("amethyst_axe", () -> new AmethystAxeItem());
 	public static final RegistryObject<Item> AMETHYST_HOE = REGISTRY.register("amethyst_hoe", () -> new AmethystHoeItem());
-	public static final RegistryObject<Item> COPPER_SWORD = REGISTRY.register("copper_sword", () -> new CopperSwordItem());
-	public static final RegistryObject<Item> STEEL_SWORD = REGISTRY.register("steel_sword", () -> new SteelSwordItem());
 	public static final RegistryObject<Item> NIOBIUM_SWORD = REGISTRY.register("niobium_sword", () -> new NiobiumSwordItem());
-	public static final RegistryObject<Item> CHROME_SWORD = REGISTRY.register("chrome_sword", () -> new ChromeSwordItem());
-	public static final RegistryObject<Item> AMETHYST_KNIFE = REGISTRY.register("amethyst_knife", () -> new AmethystKnifeItem());
 	public static final RegistryObject<Item> AUTUMN_PLANT = doubleBlock(BlockblitzModBlocks.AUTUMN_PLANT);
 	public static final RegistryObject<Item> BLUEBELL = block(BlockblitzModBlocks.BLUEBELL);
 	public static final RegistryObject<Item> BUTTERCUP = block(BlockblitzModBlocks.BUTTERCUP);
 	public static final RegistryObject<Item> COTTON_PLANT = block(BlockblitzModBlocks.COTTON_PLANT);
 	public static final RegistryObject<Item> TUMBLEWEED = block(BlockblitzModBlocks.TUMBLEWEED);
 	public static final RegistryObject<Item> COTTON_BLOCK = block(BlockblitzModBlocks.COTTON_BLOCK);
-	public static final RegistryObject<Item> COTTON_CARPET = block(BlockblitzModBlocks.COTTON_CARPET);
 	public static final RegistryObject<Item> DENIM_BLOCK = block(BlockblitzModBlocks.DENIM_BLOCK);
-	public static final RegistryObject<Item> DENIM_CARPET = block(BlockblitzModBlocks.DENIM_CARPET);
 	public static final RegistryObject<Item> QUARTZ_ORE = block(BlockblitzModBlocks.QUARTZ_ORE);
 	public static final RegistryObject<Item> DEEPSLATE_QUARTZ_ORE = block(BlockblitzModBlocks.DEEPSLATE_QUARTZ_ORE);
 	public static final RegistryObject<Item> OIL_ORE = block(BlockblitzModBlocks.OIL_ORE);
@@ -205,15 +199,14 @@ public class BlockblitzModItems {
 	public static final RegistryObject<Item> GAPPLE_LEAVES = block(BlockblitzModBlocks.GAPPLE_LEAVES);
 	public static final RegistryObject<Item> MAPLE_LEAVES = block(BlockblitzModBlocks.MAPLE_LEAVES);
 	public static final RegistryObject<Item> MULBERRY_LEAVES = block(BlockblitzModBlocks.MULBERRY_LEAVES);
-	public static final RegistryObject<Item> APPLE_SAPPLING = block(BlockblitzModBlocks.APPLE_SAPPLING);
-	public static final RegistryObject<Item> GAPPLE_SAPLING = block(BlockblitzModBlocks.GAPPLE_SAPLING);
 	public static final RegistryObject<Item> MAPLE_SAPLING = block(BlockblitzModBlocks.MAPLE_SAPLING);
 	public static final RegistryObject<Item> MULBERRY_SAPLING = block(BlockblitzModBlocks.MULBERRY_SAPLING);
-	public static final RegistryObject<Item> MOLD = block(BlockblitzModBlocks.MOLD);
-	public static final RegistryObject<Item> APPLE_BOOKSHELF = block(BlockblitzModBlocks.APPLE_BOOKSHELF);
+	public static final RegistryObject<Item> GAPPLE_SAPLING = block(BlockblitzModBlocks.GAPPLE_SAPLING);
+	public static final RegistryObject<Item> APPLE_SAPPLING = block(BlockblitzModBlocks.APPLE_SAPPLING);
+	public static final RegistryObject<Item> COTTON_CARPET = block(BlockblitzModBlocks.COTTON_CARPET);
+	public static final RegistryObject<Item> DENIM_CARPET = block(BlockblitzModBlocks.DENIM_CARPET);
 	public static final RegistryObject<Item> GOLDEN_APPLE_BOOKSHELF = block(BlockblitzModBlocks.GOLDEN_APPLE_BOOKSHELF);
-	public static final RegistryObject<Item> MAPLE_BOOKSHELF = block(BlockblitzModBlocks.MAPLE_BOOKSHELF);
-	public static final RegistryObject<Item> MULBERRY_BOOKSHELF = block(BlockblitzModBlocks.MULBERRY_BOOKSHELF);
+	public static final RegistryObject<Item> MOLD = block(BlockblitzModBlocks.MOLD);
 	public static final RegistryObject<Item> ACACIA_BOOKSHELF = block(BlockblitzModBlocks.ACACIA_BOOKSHELF);
 	public static final RegistryObject<Item> BAMBOO_BOOKSHELF = block(BlockblitzModBlocks.BAMBOO_BOOKSHELF);
 	public static final RegistryObject<Item> BIRCH_BOOKSHELF = block(BlockblitzModBlocks.BIRCH_BOOKSHELF);
@@ -222,8 +215,15 @@ public class BlockblitzModItems {
 	public static final RegistryObject<Item> DARK_OAK_BOOKSHELF = block(BlockblitzModBlocks.DARK_OAK_BOOKSHELF);
 	public static final RegistryObject<Item> JUNGLE_BOOKSHELF = block(BlockblitzModBlocks.JUNGLE_BOOKSHELF);
 	public static final RegistryObject<Item> MANGROVE_BOOKSHELF = block(BlockblitzModBlocks.MANGROVE_BOOKSHELF);
+	public static final RegistryObject<Item> APPLE_BOOKSHELF = block(BlockblitzModBlocks.APPLE_BOOKSHELF);
+	public static final RegistryObject<Item> MAPLE_BOOKSHELF = block(BlockblitzModBlocks.MAPLE_BOOKSHELF);
+	public static final RegistryObject<Item> MULBERRY_BOOKSHELF = block(BlockblitzModBlocks.MULBERRY_BOOKSHELF);
 	public static final RegistryObject<Item> SPRUCE_BOOKSHELF = block(BlockblitzModBlocks.SPRUCE_BOOKSHELF);
 	public static final RegistryObject<Item> WARPED_BOOKSHELF = block(BlockblitzModBlocks.WARPED_BOOKSHELF);
+	public static final RegistryObject<Item> COPPER_SWORD = REGISTRY.register("copper_sword", () -> new CopperSwordItem());
+	public static final RegistryObject<Item> STEEL_SWORD = REGISTRY.register("steel_sword", () -> new SteelSwordItem());
+	public static final RegistryObject<Item> CHROME_SWORD = REGISTRY.register("chrome_sword", () -> new ChromeSwordItem());
+	public static final RegistryObject<Item> AMETHYST_KNIFE = REGISTRY.register("amethyst_knife", () -> new AmethystKnifeItem());
 	public static final RegistryObject<Item> MULBERRIES = REGISTRY.register("mulberries", () -> new MulberriesItem());
 	public static final RegistryObject<Item> WHITE_TURF = block(BlockblitzModBlocks.WHITE_TURF);
 	public static final RegistryObject<Item> LIGHT_GRAY_TURF = block(BlockblitzModBlocks.LIGHT_GRAY_TURF);
@@ -259,6 +259,9 @@ public class BlockblitzModItems {
 	public static final RegistryObject<Item> PINK_TURF_CARPET = block(BlockblitzModBlocks.PINK_TURF_CARPET);
 	public static final RegistryObject<Item> MOLD_LAVA = block(BlockblitzModBlocks.MOLD_LAVA);
 	public static final RegistryObject<Item> MOLD_INGOT = block(BlockblitzModBlocks.MOLD_INGOT);
+	public static final RegistryObject<Item> POLISHED_ANDESITE_WALL = block(BlockblitzModBlocks.POLISHED_ANDESITE_WALL);
+	public static final RegistryObject<Item> POLISHED_DIORITE_WALL = block(BlockblitzModBlocks.POLISHED_DIORITE_WALL);
+	public static final RegistryObject<Item> POLISHED_GRANITE_WALL = block(BlockblitzModBlocks.POLISHED_GRANITE_WALL);
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));

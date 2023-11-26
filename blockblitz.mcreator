@@ -58,7 +58,7 @@
     {
       "name": "AppleTrapdoor",
       "type": "block",
-      "sortid": 57,
+      "sortid": 58,
       "compiles": true,
       "locked_code": false,
       "registry_name": "apple_trapdoor",
@@ -76,7 +76,7 @@
     {
       "name": "AutumnPlant",
       "type": "plant",
-      "sortid": 128,
+      "sortid": 124,
       "compiles": true,
       "locked_code": false,
       "registry_name": "autumn_plant",
@@ -97,7 +97,7 @@
     {
       "name": "AppleButton",
       "type": "block",
-      "sortid": 58,
+      "sortid": 59,
       "compiles": true,
       "locked_code": false,
       "registry_name": "apple_button",
@@ -115,7 +115,7 @@
     {
       "name": "ApplePressurePlate",
       "type": "block",
-      "sortid": 59,
+      "sortid": 60,
       "compiles": true,
       "locked_code": false,
       "registry_name": "apple_pressure_plate",
@@ -205,7 +205,7 @@
     {
       "name": "Bluebell",
       "type": "plant",
-      "sortid": 129,
+      "sortid": 125,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bluebell",
@@ -225,7 +225,7 @@
     {
       "name": "Buttercup",
       "type": "plant",
-      "sortid": 130,
+      "sortid": 126,
       "compiles": true,
       "locked_code": false,
       "registry_name": "buttercup",
@@ -245,7 +245,7 @@
     {
       "name": "MapleBookshelf",
       "type": "block",
-      "sortid": 158,
+      "sortid": 162,
       "compiles": true,
       "locked_code": false,
       "registry_name": "maple_bookshelf",
@@ -293,7 +293,7 @@
     {
       "name": "MapleLeaves",
       "type": "block",
-      "sortid": 149,
+      "sortid": 143,
       "compiles": true,
       "locked_code": false,
       "registry_name": "maple_leaves",
@@ -332,7 +332,7 @@
     {
       "name": "MapleTrapdoor",
       "type": "block",
-      "sortid": 63,
+      "sortid": 64,
       "compiles": true,
       "locked_code": false,
       "registry_name": "maple_trapdoor",
@@ -350,7 +350,7 @@
     {
       "name": "MapleButton",
       "type": "block",
-      "sortid": 64,
+      "sortid": 65,
       "compiles": true,
       "locked_code": false,
       "registry_name": "maple_button",
@@ -368,7 +368,7 @@
     {
       "name": "MaplePressurePlate",
       "type": "block",
-      "sortid": 65,
+      "sortid": 66,
       "compiles": true,
       "locked_code": false,
       "registry_name": "maple_pressure_plate",
@@ -528,7 +528,7 @@
     {
       "name": "MulberryTrapdoor",
       "type": "block",
-      "sortid": 66,
+      "sortid": 67,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mulberry_trapdoor",
@@ -546,7 +546,7 @@
     {
       "name": "MulberryLeaves",
       "type": "block",
-      "sortid": 150,
+      "sortid": 144,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mulberry_leaves",
@@ -562,7 +562,7 @@
     {
       "name": "MulberryButton",
       "type": "block",
-      "sortid": 67,
+      "sortid": 68,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mulberry_button",
@@ -580,7 +580,7 @@
     {
       "name": "MulberryPressurePlate",
       "type": "block",
-      "sortid": 68,
+      "sortid": 69,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mulberry_pressure_plate",
@@ -597,7 +597,7 @@
     {
       "name": "MulberryBookshelf",
       "type": "block",
-      "sortid": 159,
+      "sortid": 163,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mulberry_bookshelf",
@@ -701,7 +701,7 @@
     {
       "name": "CopperSword",
       "type": "tool",
-      "sortid": 123,
+      "sortid": 166,
       "compiles": true,
       "locked_code": false,
       "registry_name": "copper_sword",
@@ -827,7 +827,7 @@
     {
       "name": "AmethystKnife",
       "type": "tool",
-      "sortid": 127,
+      "sortid": 169,
       "compiles": true,
       "locked_code": false,
       "registry_name": "amethyst_knife",
@@ -841,7 +841,7 @@
     {
       "name": "QuartzOre",
       "type": "block",
-      "sortid": 137,
+      "sortid": 131,
       "compiles": true,
       "locked_code": false,
       "registry_name": "quartz_ore",
@@ -861,7 +861,7 @@
     {
       "name": "DeepslateQuartzOre",
       "type": "block",
-      "sortid": 138,
+      "sortid": 132,
       "compiles": true,
       "locked_code": false,
       "registry_name": "deepslate_quartz_ore",
@@ -881,7 +881,7 @@
     {
       "name": "Tumbleweed",
       "type": "block",
-      "sortid": 132,
+      "sortid": 128,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tumbleweed",
@@ -897,7 +897,7 @@
     {
       "name": "AcaciaBookshelf",
       "type": "block",
-      "sortid": 160,
+      "sortid": 153,
       "compiles": true,
       "locked_code": false,
       "registry_name": "acacia_bookshelf",
@@ -913,7 +913,7 @@
     {
       "name": "BirchBookshelf",
       "type": "block",
-      "sortid": 162,
+      "sortid": 155,
       "compiles": true,
       "locked_code": false,
       "registry_name": "birch_bookshelf",
@@ -929,7 +929,7 @@
     {
       "name": "BambooBookshelf",
       "type": "block",
-      "sortid": 161,
+      "sortid": 154,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bamboo_bookshelf",
@@ -945,7 +945,7 @@
     {
       "name": "CherryBookshelf",
       "type": "block",
-      "sortid": 163,
+      "sortid": 156,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cherry_bookshelf",
@@ -961,7 +961,7 @@
     {
       "name": "CrimsonBookshelf",
       "type": "block",
-      "sortid": 164,
+      "sortid": 157,
       "compiles": true,
       "locked_code": false,
       "registry_name": "crimson_bookshelf",
@@ -977,7 +977,7 @@
     {
       "name": "DarkOakBookshelf",
       "type": "block",
-      "sortid": 165,
+      "sortid": 158,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dark_oak_bookshelf",
@@ -993,7 +993,7 @@
     {
       "name": "JungleBookshelf",
       "type": "block",
-      "sortid": 166,
+      "sortid": 159,
       "compiles": true,
       "locked_code": false,
       "registry_name": "jungle_bookshelf",
@@ -1009,7 +1009,7 @@
     {
       "name": "MangroveBookshelf",
       "type": "block",
-      "sortid": 167,
+      "sortid": 160,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mangrove_bookshelf",
@@ -1025,7 +1025,7 @@
     {
       "name": "SpruceBookshelf",
       "type": "block",
-      "sortid": 168,
+      "sortid": 164,
       "compiles": true,
       "locked_code": false,
       "registry_name": "spruce_bookshelf",
@@ -1041,7 +1041,7 @@
     {
       "name": "WarpedBookshelf",
       "type": "block",
-      "sortid": 169,
+      "sortid": 165,
       "compiles": true,
       "locked_code": false,
       "registry_name": "warped_bookshelf",
@@ -1070,7 +1070,7 @@
     {
       "name": "OilOre",
       "type": "block",
-      "sortid": 139,
+      "sortid": 133,
       "compiles": true,
       "locked_code": false,
       "registry_name": "oil_ore",
@@ -1184,7 +1184,7 @@
     {
       "name": "CottonPlant",
       "type": "plant",
-      "sortid": 131,
+      "sortid": 127,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cotton_plant",
@@ -1204,7 +1204,7 @@
     {
       "name": "DenimBlock",
       "type": "block",
-      "sortid": 135,
+      "sortid": 130,
       "compiles": true,
       "locked_code": false,
       "registry_name": "denim_block",
@@ -1220,7 +1220,7 @@
     {
       "name": "CottonBlock",
       "type": "block",
-      "sortid": 133,
+      "sortid": 129,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cotton_block",
@@ -1460,7 +1460,7 @@
     {
       "name": "TungstenOre",
       "type": "block",
-      "sortid": 141,
+      "sortid": 135,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tungsten_ore",
@@ -1480,7 +1480,7 @@
     {
       "name": "DeepslateTungstenOre",
       "type": "block",
-      "sortid": 142,
+      "sortid": 136,
       "compiles": true,
       "locked_code": false,
       "registry_name": "deepslate_tungsten_ore",
@@ -1718,7 +1718,7 @@
     {
       "name": "NiobiumOre",
       "type": "block",
-      "sortid": 143,
+      "sortid": 137,
       "compiles": true,
       "locked_code": false,
       "registry_name": "niobium_ore",
@@ -1738,7 +1738,7 @@
     {
       "name": "NiobiumDeepslateOre",
       "type": "block",
-      "sortid": 144,
+      "sortid": 138,
       "compiles": true,
       "locked_code": false,
       "registry_name": "niobium_deepslate_ore",
@@ -1828,7 +1828,7 @@
     {
       "name": "ChromeOre",
       "type": "block",
-      "sortid": 145,
+      "sortid": 139,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chrome_ore",
@@ -1848,7 +1848,7 @@
     {
       "name": "ChromeDeepslateOre",
       "type": "block",
-      "sortid": 146,
+      "sortid": 140,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chrome_deepslate_ore",
@@ -2275,7 +2275,7 @@
     {
       "name": "CalciteStairs",
       "type": "block",
-      "sortid": 45,
+      "sortid": 46,
       "compiles": true,
       "locked_code": false,
       "registry_name": "calcite_stairs",
@@ -2293,7 +2293,7 @@
     {
       "name": "CalciteSlab",
       "type": "block",
-      "sortid": 46,
+      "sortid": 47,
       "compiles": true,
       "locked_code": false,
       "registry_name": "calcite_slab",
@@ -2311,7 +2311,7 @@
     {
       "name": "CalciteWall",
       "type": "block",
-      "sortid": 47,
+      "sortid": 48,
       "compiles": true,
       "locked_code": false,
       "registry_name": "calcite_wall",
@@ -2330,7 +2330,7 @@
     {
       "name": "CalciteBricks",
       "type": "block",
-      "sortid": 48,
+      "sortid": 49,
       "compiles": true,
       "locked_code": false,
       "registry_name": "calcite_bricks",
@@ -2346,7 +2346,7 @@
     {
       "name": "CalciteBrickStairs",
       "type": "block",
-      "sortid": 49,
+      "sortid": 50,
       "compiles": true,
       "locked_code": false,
       "registry_name": "calcite_brick_stairs",
@@ -2364,7 +2364,7 @@
     {
       "name": "CalciteBrickSlab",
       "type": "block",
-      "sortid": 50,
+      "sortid": 51,
       "compiles": true,
       "locked_code": false,
       "registry_name": "calcite_brick_slab",
@@ -2382,7 +2382,7 @@
     {
       "name": "CalciteBrickWall",
       "type": "block",
-      "sortid": 51,
+      "sortid": 52,
       "compiles": true,
       "locked_code": false,
       "registry_name": "calcite_brick_wall",
@@ -2401,7 +2401,7 @@
     {
       "name": "ChiseledCalcite",
       "type": "block",
-      "sortid": 52,
+      "sortid": 53,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chiseled_calcite",
@@ -2417,7 +2417,7 @@
     {
       "name": "PolishedCalcite",
       "type": "block",
-      "sortid": 53,
+      "sortid": 54,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_calcite",
@@ -2433,7 +2433,7 @@
     {
       "name": "PolishedCalciteStairs",
       "type": "block",
-      "sortid": 54,
+      "sortid": 55,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_calcite_stairs",
@@ -2451,7 +2451,7 @@
     {
       "name": "PolishedCalciteSlab",
       "type": "block",
-      "sortid": 55,
+      "sortid": 56,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_calcite_slab",
@@ -2469,7 +2469,7 @@
     {
       "name": "PolishedCalciteWall",
       "type": "block",
-      "sortid": 56,
+      "sortid": 57,
       "compiles": true,
       "locked_code": false,
       "registry_name": "polished_calcite_wall",
@@ -2488,17 +2488,17 @@
     {
       "name": "Mold",
       "type": "block",
-      "sortid": 155,
+      "sortid": 152,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mold",
       "metadata": {
         "files": [
-          "src/main/resources/assets/blockblitz/models/block/mold.json",
-          "src/main/java/net/mcreator/blockblitz/block/MoldBlock.java",
           "src/main/resources/assets/blockblitz/blockstates/mold.json",
+          "src/main/java/net/mcreator/blockblitz/block/MoldBlock.java",
           "src/main/java/net/mcreator/blockblitz/block/entity/MoldBlockEntity.java",
-          "src/main/resources/assets/blockblitz/models/item/mold.json"
+          "src/main/resources/assets/blockblitz/models/item/mold.json",
+          "src/main/resources/assets/blockblitz/models/block/mold.json"
         ]
       },
       "path": "~/MoldStuff"
@@ -2534,7 +2534,7 @@
     {
       "name": "ChromeSword",
       "type": "tool",
-      "sortid": 126,
+      "sortid": 168,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chrome_sword",
@@ -2760,7 +2760,7 @@
     {
       "name": "AndesiteButton",
       "type": "block",
-      "sortid": 69,
+      "sortid": 70,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_button",
@@ -2791,7 +2791,7 @@
     {
       "name": "AndesitePressurePlate",
       "type": "block",
-      "sortid": 70,
+      "sortid": 71,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_pressure_plate",
@@ -2821,7 +2821,7 @@
     {
       "name": "DioriteButton",
       "type": "block",
-      "sortid": 71,
+      "sortid": 72,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_button",
@@ -2852,7 +2852,7 @@
     {
       "name": "DioritePressurePlate",
       "type": "block",
-      "sortid": 75,
+      "sortid": 74,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_pressure_plate",
@@ -2882,7 +2882,7 @@
     {
       "name": "GraniteButton",
       "type": "block",
-      "sortid": 76,
+      "sortid": 75,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_button",
@@ -2913,7 +2913,7 @@
     {
       "name": "GranitePressurePlate",
       "type": "block",
-      "sortid": 77,
+      "sortid": 76,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_pressure_plate",
@@ -3281,7 +3281,7 @@
     {
       "name": "AppleBookshelf",
       "type": "block",
-      "sortid": 156,
+      "sortid": 161,
       "compiles": true,
       "locked_code": false,
       "registry_name": "apple_bookshelf",
@@ -3576,7 +3576,7 @@
     {
       "name": "DeepslateOilOre",
       "type": "block",
-      "sortid": 140,
+      "sortid": 134,
       "compiles": true,
       "locked_code": false,
       "registry_name": "deepslate_oil_ore",
@@ -3865,7 +3865,7 @@
     {
       "name": "AppleLeaves",
       "type": "block",
-      "sortid": 147,
+      "sortid": 141,
       "compiles": true,
       "locked_code": false,
       "registry_name": "apple_leaves",
@@ -3912,7 +3912,7 @@
     {
       "name": "GappleLeaves",
       "type": "block",
-      "sortid": 148,
+      "sortid": 142,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gapple_leaves",
@@ -3957,7 +3957,7 @@
     {
       "name": "MapleSapling",
       "type": "plant",
-      "sortid": 153,
+      "sortid": 145,
       "compiles": true,
       "locked_code": false,
       "registry_name": "maple_sapling",
@@ -3973,7 +3973,7 @@
     {
       "name": "MulberrySapling",
       "type": "plant",
-      "sortid": 154,
+      "sortid": 146,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mulberry_sapling",
@@ -4073,7 +4073,7 @@
     {
       "name": "GappleButton",
       "type": "block",
-      "sortid": 61,
+      "sortid": 62,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gapple_button",
@@ -4091,7 +4091,7 @@
     {
       "name": "GapplePressurePlate",
       "type": "block",
-      "sortid": 62,
+      "sortid": 63,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gapple_pressure_plate",
@@ -4285,7 +4285,7 @@
     {
       "name": "GappleSapling",
       "type": "plant",
-      "sortid": 152,
+      "sortid": 147,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gapple_sapling",
@@ -4350,7 +4350,7 @@
     {
       "name": "GappleTrapdoor",
       "type": "block",
-      "sortid": 60,
+      "sortid": 61,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gapple_trapdoor",
@@ -4410,7 +4410,7 @@
     {
       "name": "CalcitePressurePlate",
       "type": "block",
-      "sortid": 79,
+      "sortid": 78,
       "compiles": true,
       "locked_code": false,
       "registry_name": "calcite_pressure_plate",
@@ -4463,7 +4463,7 @@
     {
       "name": "CalciteButton",
       "type": "block",
-      "sortid": 78,
+      "sortid": 77,
       "compiles": true,
       "locked_code": false,
       "registry_name": "calcite_button",
@@ -4481,7 +4481,7 @@
     {
       "name": "TuffButton",
       "type": "block",
-      "sortid": 80,
+      "sortid": 79,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tuff_button",
@@ -4499,7 +4499,7 @@
     {
       "name": "TuffPressurePlate",
       "type": "block",
-      "sortid": 81,
+      "sortid": 80,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tuff_pressure_plate",
@@ -4533,7 +4533,7 @@
     {
       "name": "GoldButton",
       "type": "block",
-      "sortid": 74,
+      "sortid": 81,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gold_button",
@@ -4862,7 +4862,7 @@
     {
       "name": "AppleSappling",
       "type": "plant",
-      "sortid": 151,
+      "sortid": 148,
       "compiles": true,
       "locked_code": false,
       "registry_name": "apple_sappling",
@@ -4982,7 +4982,7 @@
     {
       "name": "GoldDoor",
       "type": "block",
-      "sortid": 72,
+      "sortid": 45,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gold_door",
@@ -5018,7 +5018,7 @@
     {
       "name": "CottonCarpet",
       "type": "block",
-      "sortid": 134,
+      "sortid": 149,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cotton_carpet",
@@ -5034,7 +5034,7 @@
     {
       "name": "DenimCarpet",
       "type": "block",
-      "sortid": 136,
+      "sortid": 150,
       "compiles": true,
       "locked_code": false,
       "registry_name": "denim_carpet",
@@ -5359,7 +5359,7 @@
     {
       "name": "GoldenAppleBookshelf",
       "type": "block",
-      "sortid": 157,
+      "sortid": 151,
       "compiles": true,
       "locked_code": false,
       "registry_name": "golden_apple_bookshelf",
@@ -5561,7 +5561,7 @@
     {
       "name": "SteelSword",
       "type": "tool",
-      "sortid": 124,
+      "sortid": 167,
       "compiles": true,
       "locked_code": false,
       "registry_name": "steel_sword",
@@ -5696,7 +5696,7 @@
     {
       "name": "NiobiumSword",
       "type": "tool",
-      "sortid": 125,
+      "sortid": 123,
       "compiles": true,
       "locked_code": false,
       "registry_name": "niobium_sword",
@@ -5807,17 +5807,17 @@
     {
       "name": "MoldLava",
       "type": "block",
-      "sortid": 386,
+      "sortid": 388,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mold_lava",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/blockblitz/block/MoldLavaBlock.java",
-          "src/main/resources/assets/blockblitz/models/item/mold_lava.json",
+          "src/main/java/net/mcreator/blockblitz/block/entity/MoldLavaBlockEntity.java",
           "src/main/resources/assets/blockblitz/models/block/mold_lava.json",
-          "src/main/resources/assets/blockblitz/blockstates/mold_lava.json",
-          "src/main/java/net/mcreator/blockblitz/block/entity/MoldLavaBlockEntity.java"
+          "src/main/resources/assets/blockblitz/models/item/mold_lava.json",
+          "src/main/java/net/mcreator/blockblitz/block/MoldLavaBlock.java",
+          "src/main/resources/assets/blockblitz/blockstates/mold_lava.json"
         ]
       },
       "path": "~/MoldStuff"
@@ -5825,17 +5825,17 @@
     {
       "name": "MoldIngot",
       "type": "block",
-      "sortid": 387,
+      "sortid": 389,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mold_ingot",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/blockblitz/block/entity/MoldIngotBlockEntity.java",
           "src/main/resources/assets/blockblitz/models/block/mold_ingot.json",
-          "src/main/java/net/mcreator/blockblitz/block/MoldIngotBlock.java",
           "src/main/resources/assets/blockblitz/models/item/mold_ingot.json",
-          "src/main/resources/assets/blockblitz/blockstates/mold_ingot.json"
+          "src/main/resources/assets/blockblitz/blockstates/mold_ingot.json",
+          "src/main/java/net/mcreator/blockblitz/block/entity/MoldIngotBlockEntity.java",
+          "src/main/java/net/mcreator/blockblitz/block/MoldIngotBlock.java"
         ]
       },
       "path": "~/MoldStuff"
@@ -5843,7 +5843,7 @@
     {
       "name": "MoldOffUpdateTick",
       "type": "procedure",
-      "sortid": 388,
+      "sortid": 390,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mold_off_update_tick",
@@ -5875,7 +5875,7 @@
     {
       "name": "MoldOnUpdateTick",
       "type": "procedure",
-      "sortid": 389,
+      "sortid": 391,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mold_on_update_tick",
@@ -5907,7 +5907,7 @@
     {
       "name": "MoldIngotReset",
       "type": "procedure",
-      "sortid": 390,
+      "sortid": 393,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mold_ingot_reset",
@@ -5939,7 +5939,7 @@
     {
       "name": "NiobBlast",
       "type": "recipe",
-      "sortid": 391,
+      "sortid": 399,
       "compiles": true,
       "locked_code": false,
       "registry_name": "niob_blast",
@@ -5952,39 +5952,39 @@
     {
       "name": "GappleTree2",
       "type": "structure",
-      "sortid": 392,
+      "sortid": 394,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gapple_tree_2",
       "metadata": {
         "files": [
+          "src/main/resources/data/blockblitz/worldgen/configured_feature/gapple_tree_2.json",
           "src/main/java/net/mcreator/blockblitz/world/features/GappleTree2Feature.java",
           "src/main/resources/data/blockblitz/forge/biome_modifier/gapple_tree_2_biome_modifier.json",
-          "src/main/resources/data/blockblitz/worldgen/placed_feature/gapple_tree_2.json",
-          "src/main/resources/data/blockblitz/worldgen/configured_feature/gapple_tree_2.json"
+          "src/main/resources/data/blockblitz/worldgen/placed_feature/gapple_tree_2.json"
         ]
       }
     },
     {
       "name": "GappleTree4",
       "type": "structure",
-      "sortid": 393,
+      "sortid": 396,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gapple_tree_4",
       "metadata": {
         "files": [
+          "src/main/java/net/mcreator/blockblitz/world/features/GappleTree4Feature.java",
           "src/main/resources/data/blockblitz/forge/biome_modifier/gapple_tree_4_biome_modifier.json",
-          "src/main/resources/data/blockblitz/worldgen/configured_feature/gapple_tree_4.json",
           "src/main/resources/data/blockblitz/worldgen/placed_feature/gapple_tree_4.json",
-          "src/main/java/net/mcreator/blockblitz/world/features/GappleTree4Feature.java"
+          "src/main/resources/data/blockblitz/worldgen/configured_feature/gapple_tree_4.json"
         ]
       }
     },
     {
       "name": "GappleTree3",
       "type": "structure",
-      "sortid": 394,
+      "sortid": 395,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gapple_tree_3",
@@ -5992,15 +5992,15 @@
         "files": [
           "src/main/resources/data/blockblitz/worldgen/configured_feature/gapple_tree_3.json",
           "src/main/java/net/mcreator/blockblitz/world/features/GappleTree3Feature.java",
-          "src/main/resources/data/blockblitz/worldgen/placed_feature/gapple_tree_3.json",
-          "src/main/resources/data/blockblitz/forge/biome_modifier/gapple_tree_3_biome_modifier.json"
+          "src/main/resources/data/blockblitz/forge/biome_modifier/gapple_tree_3_biome_modifier.json",
+          "src/main/resources/data/blockblitz/worldgen/placed_feature/gapple_tree_3.json"
         ]
       }
     },
     {
       "name": "TungBlast",
       "type": "recipe",
-      "sortid": 395,
+      "sortid": 397,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tung_blast",
@@ -6013,7 +6013,7 @@
     {
       "name": "ChromeBlast",
       "type": "recipe",
-      "sortid": 396,
+      "sortid": 398,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chrome_blast",
@@ -6026,7 +6026,7 @@
     {
       "name": "RBlackTurfCarpet",
       "type": "recipe",
-      "sortid": 397,
+      "sortid": 411,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_black_turf_carpet",
@@ -6039,7 +6039,7 @@
     {
       "name": "RCyanTurf",
       "type": "recipe",
-      "sortid": 398,
+      "sortid": 402,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_cyan_turf",
@@ -6052,7 +6052,7 @@
     {
       "name": "RBlackTurf",
       "type": "recipe",
-      "sortid": 399,
+      "sortid": 395,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_black_turf",
@@ -6065,7 +6065,7 @@
     {
       "name": "RLightBlueTurf",
       "type": "recipe",
-      "sortid": 400,
+      "sortid": 403,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_light_blue_turf",
@@ -6078,7 +6078,7 @@
     {
       "name": "RPinkTurf",
       "type": "recipe",
-      "sortid": 401,
+      "sortid": 407,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_pink_turf",
@@ -6091,7 +6091,7 @@
     {
       "name": "RLightGrayTurf",
       "type": "recipe",
-      "sortid": 402,
+      "sortid": 391,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_light_gray_turf",
@@ -6104,7 +6104,7 @@
     {
       "name": "RYellowTurfCarpet",
       "type": "recipe",
-      "sortid": 403,
+      "sortid": 415,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_yellow_turf_carpet",
@@ -6117,7 +6117,7 @@
     {
       "name": "RGreenTurf",
       "type": "recipe",
-      "sortid": 404,
+      "sortid": 401,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_green_turf",
@@ -6130,7 +6130,7 @@
     {
       "name": "RCyanTurfCarpet",
       "type": "recipe",
-      "sortid": 405,
+      "sortid": 418,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_cyan_turf_carpet",
@@ -6156,7 +6156,7 @@
     {
       "name": "ROrangeTurfCarpet",
       "type": "recipe",
-      "sortid": 407,
+      "sortid": 414,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_orange_turf_carpet",
@@ -6169,7 +6169,7 @@
     {
       "name": "RBrownTurf",
       "type": "recipe",
-      "sortid": 408,
+      "sortid": 396,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_brown_turf",
@@ -6182,7 +6182,7 @@
     {
       "name": "RWhiteTurf",
       "type": "recipe",
-      "sortid": 409,
+      "sortid": 390,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_white_turf",
@@ -6195,7 +6195,7 @@
     {
       "name": "RRedTurf",
       "type": "recipe",
-      "sortid": 410,
+      "sortid": 397,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_red_turf",
@@ -6208,7 +6208,7 @@
     {
       "name": "RGrayTurf",
       "type": "recipe",
-      "sortid": 411,
+      "sortid": 394,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_gray_turf",
@@ -6221,7 +6221,7 @@
     {
       "name": "RBlueTurf",
       "type": "recipe",
-      "sortid": 412,
+      "sortid": 404,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_blue_turf",
@@ -6234,7 +6234,7 @@
     {
       "name": "RGrayTurfCarpet",
       "type": "recipe",
-      "sortid": 413,
+      "sortid": 410,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_gray_turf_carpet",
@@ -6247,7 +6247,7 @@
     {
       "name": "RMagentaTurfCarpet",
       "type": "recipe",
-      "sortid": 414,
+      "sortid": 422,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_magenta_turf_carpet",
@@ -6260,7 +6260,7 @@
     {
       "name": "RPurpleTurfCarpet",
       "type": "recipe",
-      "sortid": 415,
+      "sortid": 421,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_purple_turf_carpet",
@@ -6273,7 +6273,7 @@
     {
       "name": "RBlueTurfCarpet",
       "type": "recipe",
-      "sortid": 416,
+      "sortid": 420,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_blue_turf_carpet",
@@ -6286,7 +6286,7 @@
     {
       "name": "RLightGrayTurfCarpet",
       "type": "recipe",
-      "sortid": 417,
+      "sortid": 409,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_light_gray_turf_carpet",
@@ -6299,7 +6299,7 @@
     {
       "name": "RWhiteTurfCarpet",
       "type": "recipe",
-      "sortid": 418,
+      "sortid": 408,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_white_turf_carpet",
@@ -6312,7 +6312,7 @@
     {
       "name": "ROrangeTurf",
       "type": "recipe",
-      "sortid": 419,
+      "sortid": 398,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_orange_turf",
@@ -6325,7 +6325,7 @@
     {
       "name": "RPinkTurfCarpet",
       "type": "recipe",
-      "sortid": 420,
+      "sortid": 423,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_pink_turf_carpet",
@@ -6338,7 +6338,7 @@
     {
       "name": "RRedTurfCarpet",
       "type": "recipe",
-      "sortid": 421,
+      "sortid": 413,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_red_turf_carpet",
@@ -6351,7 +6351,7 @@
     {
       "name": "RYellowTurf",
       "type": "recipe",
-      "sortid": 422,
+      "sortid": 399,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_yellow_turf",
@@ -6364,7 +6364,7 @@
     {
       "name": "RLightBlueTurfCarpet",
       "type": "recipe",
-      "sortid": 423,
+      "sortid": 419,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_light_blue_turf_carpet",
@@ -6377,7 +6377,7 @@
     {
       "name": "RLimeTurf",
       "type": "recipe",
-      "sortid": 424,
+      "sortid": 400,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_lime_turf",
@@ -6390,7 +6390,7 @@
     {
       "name": "RGreenTurfCarpet",
       "type": "recipe",
-      "sortid": 425,
+      "sortid": 417,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_green_turf_carpet",
@@ -6403,7 +6403,7 @@
     {
       "name": "RLimeTurfCarpet",
       "type": "recipe",
-      "sortid": 426,
+      "sortid": 416,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_lime_turf_carpet",
@@ -6416,7 +6416,7 @@
     {
       "name": "RBrownTurfCarpet",
       "type": "recipe",
-      "sortid": 427,
+      "sortid": 412,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_brown_turf_carpet",
@@ -6429,13 +6429,109 @@
     {
       "name": "RPurpleTurf",
       "type": "recipe",
-      "sortid": 428,
+      "sortid": 405,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_purple_turf",
       "metadata": {
         "files": [
           "src/main/resources/data/blockblitz/recipes/r_purple_turf.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedGraniteWall",
+      "type": "block",
+      "sortid": 426,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_granite_wall",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/blockblitz/models/block/polished_granite_wall_inventory.json",
+          "src/main/resources/assets/blockblitz/models/block/polished_granite_wall_side_tall.json",
+          "src/main/resources/assets/blockblitz/blockstates/polished_granite_wall.json",
+          "src/main/resources/assets/blockblitz/models/item/polished_granite_wall.json",
+          "src/main/resources/assets/blockblitz/models/block/polished_granite_wall_post.json",
+          "src/main/resources/assets/blockblitz/models/block/polished_granite_wall.json",
+          "src/main/java/net/mcreator/blockblitz/block/PolishedGraniteWallBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "PolishedDioriteWall",
+      "type": "block",
+      "sortid": 425,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_diorite_wall",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/blockblitz/models/item/polished_diorite_wall.json",
+          "src/main/resources/assets/blockblitz/models/block/polished_diorite_wall_inventory.json",
+          "src/main/resources/assets/blockblitz/models/block/polished_diorite_wall.json",
+          "src/main/resources/assets/blockblitz/models/block/polished_diorite_wall_side_tall.json",
+          "src/main/resources/assets/blockblitz/models/block/polished_diorite_wall_post.json",
+          "src/main/java/net/mcreator/blockblitz/block/PolishedDioriteWallBlock.java",
+          "src/main/resources/assets/blockblitz/blockstates/polished_diorite_wall.json"
+        ]
+      }
+    },
+    {
+      "name": "PolishedAndesiteWall",
+      "type": "block",
+      "sortid": 424,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_andesite_wall",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/blockblitz/blockstates/polished_andesite_wall.json",
+          "src/main/resources/assets/blockblitz/models/block/polished_andesite_wall.json",
+          "src/main/resources/assets/blockblitz/models/block/polished_andesite_wall_post.json",
+          "src/main/resources/assets/blockblitz/models/block/polished_andesite_wall_inventory.json",
+          "src/main/resources/assets/blockblitz/models/item/polished_andesite_wall.json",
+          "src/main/java/net/mcreator/blockblitz/block/PolishedAndesiteWallBlock.java",
+          "src/main/resources/assets/blockblitz/models/block/polished_andesite_wall_side_tall.json"
+        ]
+      }
+    },
+    {
+      "name": "RLimeTurfAlt",
+      "type": "recipe",
+      "sortid": 445,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_lime_turf_alt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_lime_turf_alt.json"
+        ]
+      }
+    },
+    {
+      "name": "RPurpleTurfAlt",
+      "type": "recipe",
+      "sortid": 446,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_purple_turf_alt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_purple_turf_alt.json"
+        ]
+      }
+    },
+    {
+      "name": "RredTurfAlt",
+      "type": "recipe",
+      "sortid": 440,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rred_turf_alt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/rred_turf_alt.json"
         ]
       }
     },
@@ -6462,6 +6558,162 @@
       "metadata": {
         "files": [
           "src/main/resources/data/forge/tags/items/alloys.json"
+        ]
+      }
+    },
+    {
+      "name": "RPinkTurfAlt",
+      "type": "recipe",
+      "sortid": 435,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_pink_turf_alt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_pink_turf_alt.json"
+        ]
+      }
+    },
+    {
+      "name": "ROrangeTurfAlt",
+      "type": "recipe",
+      "sortid": 443,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_orange_turf_alt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_orange_turf_alt.json"
+        ]
+      }
+    },
+    {
+      "name": "RYellowTurfAlt",
+      "type": "recipe",
+      "sortid": 444,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_yellow_turf_alt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_yellow_turf_alt.json"
+        ]
+      }
+    },
+    {
+      "name": "TungstenAdvancement",
+      "type": "achievement",
+      "sortid": 447,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungsten_advancement",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/advancements/tungsten_advancement.json"
+        ]
+      }
+    },
+    {
+      "name": "RLGrayTurfAlt",
+      "type": "recipe",
+      "sortid": 436,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rl_gray_turf_alt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/rl_gray_turf_alt.json"
+        ]
+      }
+    },
+    {
+      "name": "RCyanTurfAlt",
+      "type": "recipe",
+      "sortid": 432,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_cyan_turf_alt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_cyan_turf_alt.json"
+        ]
+      }
+    },
+    {
+      "name": "RGrayTurfAlt",
+      "type": "recipe",
+      "sortid": 441,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_gray_turf_alt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_gray_turf_alt.json"
+        ]
+      }
+    },
+    {
+      "name": "RLightBlueTurfAlt",
+      "type": "recipe",
+      "sortid": 434,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_light_blue_turf_alt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_light_blue_turf_alt.json"
+        ]
+      }
+    },
+    {
+      "name": "RGreenTurfAlt",
+      "type": "recipe",
+      "sortid": 437,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_green_turf_alt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_green_turf_alt.json"
+        ]
+      }
+    },
+    {
+      "name": "NiobiumAdvancement",
+      "type": "achievement",
+      "sortid": 448,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "niobium_advancement",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/advancements/niobium_advancement.json"
+        ]
+      }
+    },
+    {
+      "name": "RBlueTurfAlt",
+      "type": "recipe",
+      "sortid": 442,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_blue_turf_alt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_blue_turf_alt.json"
+        ]
+      }
+    },
+    {
+      "name": "RBlackTurfAlt",
+      "type": "recipe",
+      "sortid": 433,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_black_turf_alt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/blockblitz/recipes/r_black_turf_alt.json"
         ]
       }
     },
@@ -6501,97 +6753,6 @@
       }
     },
     {
-      "name": "RCyanTurfAlt",
-      "type": "recipe",
-      "sortid": 432,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "r_cyan_turf_alt",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/blockblitz/recipes/r_cyan_turf_alt.json"
-        ]
-      }
-    },
-    {
-      "name": "RBlackTurfAlt",
-      "type": "recipe",
-      "sortid": 433,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "r_black_turf_alt",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/blockblitz/recipes/r_black_turf_alt.json"
-        ]
-      }
-    },
-    {
-      "name": "RLightBlueTurfAlt",
-      "type": "recipe",
-      "sortid": 434,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "r_light_blue_turf_alt",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/blockblitz/recipes/r_light_blue_turf_alt.json"
-        ]
-      }
-    },
-    {
-      "name": "RPinkTurfAlt",
-      "type": "recipe",
-      "sortid": 435,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "r_pink_turf_alt",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/blockblitz/recipes/r_pink_turf_alt.json"
-        ]
-      }
-    },
-    {
-      "name": "RLGrayTurfAlt",
-      "type": "recipe",
-      "sortid": 436,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "rl_gray_turf_alt",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/blockblitz/recipes/rl_gray_turf_alt.json"
-        ]
-      }
-    },
-    {
-      "name": "RGreenTurfAlt",
-      "type": "recipe",
-      "sortid": 437,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "r_green_turf_alt",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/blockblitz/recipes/r_green_turf_alt.json"
-        ]
-      }
-    },
-    {
-      "name": "RMagentaTurfAlt",
-      "type": "recipe",
-      "sortid": 438,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "r_magenta_turf_alt",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/blockblitz/recipes/r_magenta_turf_alt.json"
-        ]
-      }
-    },
-    {
       "name": "RBrownTurfAlt",
       "type": "recipe",
       "sortid": 439,
@@ -6605,119 +6766,15 @@
       }
     },
     {
-      "name": "RredTurfAlt",
+      "name": "RMagentaTurfAlt",
       "type": "recipe",
-      "sortid": 440,
+      "sortid": 438,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rred_turf_alt",
+      "registry_name": "r_magenta_turf_alt",
       "metadata": {
         "files": [
-          "src/main/resources/data/blockblitz/recipes/rred_turf_alt.json"
-        ]
-      }
-    },
-    {
-      "name": "RGrayTurfAlt",
-      "type": "recipe",
-      "sortid": 441,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "r_gray_turf_alt",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/blockblitz/recipes/r_gray_turf_alt.json"
-        ]
-      }
-    },
-    {
-      "name": "RBlueTurfAlt",
-      "type": "recipe",
-      "sortid": 442,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "r_blue_turf_alt",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/blockblitz/recipes/r_blue_turf_alt.json"
-        ]
-      }
-    },
-    {
-      "name": "ROrangeTurfAlt",
-      "type": "recipe",
-      "sortid": 443,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "r_orange_turf_alt",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/blockblitz/recipes/r_orange_turf_alt.json"
-        ]
-      }
-    },
-    {
-      "name": "RYellowTurfAlt",
-      "type": "recipe",
-      "sortid": 444,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "r_yellow_turf_alt",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/blockblitz/recipes/r_yellow_turf_alt.json"
-        ]
-      }
-    },
-    {
-      "name": "RLimeTurfAlt",
-      "type": "recipe",
-      "sortid": 445,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "r_lime_turf_alt",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/blockblitz/recipes/r_lime_turf_alt.json"
-        ]
-      }
-    },
-    {
-      "name": "RPurpleTurfAlt",
-      "type": "recipe",
-      "sortid": 446,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "r_purple_turf_alt",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/blockblitz/recipes/r_purple_turf_alt.json"
-        ]
-      }
-    },
-    {
-      "name": "TungstenAdvancement",
-      "type": "achievement",
-      "sortid": 447,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "tungsten_advancement",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/blockblitz/advancements/tungsten_advancement.json"
-        ]
-      }
-    },
-    {
-      "name": "NiobiumAdvancement",
-      "type": "achievement",
-      "sortid": 448,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "niobium_advancement",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/blockblitz/advancements/niobium_advancement.json"
+          "src/main/resources/data/blockblitz/recipes/r_magenta_turf_alt.json"
         ]
       }
     }
@@ -6739,12 +6796,13 @@
       "block.blockblitz.chiseled_calcite": "Chiseled Calcite",
       "block.blockblitz.black_turf": "Gray Turf",
       "block.blockblitz.chrome_deepslate_ore": "Chrome Deepslate Ore",
-      "item.blockblitz.niobium_pickaxe": "Niobium Pickaxe",
       "block.blockblitz.maple_trapdoor": "Кленовый люк",
+      "item.blockblitz.niobium_pickaxe": "Niobium Pickaxe",
       "block.blockblitz.calcite_slab": "Calcite Slab",
       "block.blockblitz.denim_carpet": "Denim Block",
       "block.blockblitz.granite_button": "Granite Button",
       "block.blockblitz.apple_door": "Яблочная дверь",
+      "block.blockblitz.polished_andesite_wall": "Polished Andesite Wall",
       "block.blockblitz.raw_niobium_block": "Block of Raw Niobium",
       "block.blockblitz.deepslate_turquoise_ore": "Deepslate Turquoise Ore",
       "block.blockblitz.maple_log": "Кленовое бревно",
@@ -6754,7 +6812,6 @@
       "block.blockblitz.golden_grate": "Golden Grate",
       "item.blockblitz.raw_tungsten": "Сырой вольфрам",
       "block.blockblitz.cotton_plant": "Хлопковое растение",
-      "advancements.tungsten_advancement.descr": "Obtain Tungsten",
       "block.blockblitz.block_of_chrome": "Block Of Chrome",
       "block.blockblitz.polished_calcite": "Polished Calcite",
       "block.blockblitz.spruce_bookshelf": "Еловая книжная полка",
@@ -6766,19 +6823,19 @@
       "block.blockblitz.birch_bookshelf": "Берёзовая книжная полка",
       "item.blockblitz.turquoise": "Бирюза",
       "block.blockblitz.light_gray_turf": "White Turf",
-      "block.blockblitz.niobium_ore": "Ниобиевая руда",
       "block.blockblitz.calcite_brick_wall": "Calcite Brick Wall",
+      "block.blockblitz.niobium_ore": "Ниобиевая руда",
       "block.blockblitz.light_blue_turf_carpet": "Cyan Turf Carpet",
       "biome.blockblitz.autumn_forest": "Осенний лес",
-      "block.blockblitz.block_of_aluminium": "Блок алюминия",
       "block.blockblitz.apple_log": "Яблочное бревно",
+      "block.blockblitz.block_of_aluminium": "Блок алюминия",
       "block.blockblitz.diorite_pressure_plate": "Diorite Pressure Plate",
       "block.blockblitz.brown_turf_carpet": "Black Turf Carpet",
       "block.blockblitz.oil_ore": "Маслянная руда",
       "block.blockblitz.apple_bookshelf": "Apple Bookshelf",
       "block.blockblitz.gray_turf": "Light Gray Turf",
-      "item.blockblitz.steel_hoe": "Steel Hoe",
       "block.blockblitz.mulberry_wood": "Mulberry Wood",
+      "item.blockblitz.steel_hoe": "Steel Hoe",
       "block.blockblitz.pink_turf": "Yellow Turf",
       "block.blockblitz.maple_bookshelf": "Кленовая книжная полка",
       "block.blockblitz.black_turf_carpet": "Gray Turf Carpet",
@@ -6792,8 +6849,8 @@
       "item.blockblitz.amethyst_hoe": "Аметистовая мотыга",
       "item.blockblitz.chrome_ingot": "Chrome Ingot",
       "block.blockblitz.deepslate_button": "Gold Button",
-      "block.blockblitz.aluminium_ore": "Алюминиевая руда",
       "block.blockblitz.apple_stairs": "Яблочные ступеньки",
+      "block.blockblitz.aluminium_ore": "Алюминиевая руда",
       "block.blockblitz.acacia_bookshelf": "Книжная полка из акации",
       "item.blockblitz.turquoise_powder": "Порошок бирюзы",
       "block.blockblitz.aerogel_block": "Блок аэрогеля",
@@ -6840,7 +6897,7 @@
       "item.blockblitz.steel_pickaxe": "Steel Pickaxe",
       "block.blockblitz.mulberry_sapling": "Mulberry Sapling",
       "block.blockblitz.orange_turf": "Red Turf",
-      "advancements.tungsten_advancement.title": "Not Quite Netherite",
+      "block.blockblitz.polished_diorite_wall": "Polished Andesite Wall",
       "block.blockblitz.raw_chrome_block": "Block of Raw Chrome",
       "item.blockblitz.chrome_pickaxe": "Chrome Pickaxe",
       "block.blockblitz.gapple_stairs": "Golden Apple Planks",
@@ -6849,6 +6906,7 @@
       "block.blockblitz.turquoise_ore": "Руда бирюзы",
       "item.blockblitz.copper_shovel": "Медная лопата",
       "item.blockblitz.oshi_hit_track": "хит от dj оши 2023",
+      "block.blockblitz.polished_granite_wall": "Polished Diorite Wall",
       "block.blockblitz.apple_fence": "Яблочный забор",
       "block.blockblitz.crimson_bookshelf": "кримзовая полочка с книжками",
       "block.blockblitz.gapple_sapling": "Golden Apple Sapling",
@@ -6903,18 +6961,15 @@
       "block.blockblitz.gapple_fence_gate": "Golden Apple Planks",
       "block.blockblitz.cotton_block": "Хлопковый блок",
       "block.blockblitz.obsidian_pressure_plate": "Obsidian Button",
-      "advancements.niobium_advancement.descr": "Smith a Niobium pickaxe",
       "block.blockblitz.andesite_pressure_plate": "Andesite Pressure Plate",
       "block.blockblitz.gapple_wood": "Gapple Wood",
       "block.blockblitz.mulberry_pressure_plate": "Шелковиная нажимная плита",
       "block.blockblitz.quartz_button": "Deepslate Button",
-      "advancements.casting_advancement.title": "master combiner",
       "block.blockblitz.mulberry_leaves": "Шелковичные листья ",
       "item.blockblitz.niobium_ingot": "Ниобиевый слиток",
       "block.blockblitz.purple_turf_carpet": "Blue Turf Carpet",
       "item.blockblitz.copper_sword": "Медный меч",
       "item.blockblitz.chrome_sword": "Chrome Sword",
-      "advancements.niobium_advancement.title": "The Supreme",
       "block.blockblitz.calcite_wall": "Calcite Wall",
       "block.blockblitz.apple_slab": "Яблочная плита",
       "block.blockblitz.obsidian_button": "Deepslate Button",
@@ -6930,7 +6985,6 @@
       "block.blockblitz.denim_block": "Джинсовый блок",
       "item.blockblitz.steel_shovel": "Steel Shovel",
       "block.blockblitz.block_of_steel": "Стальной блок",
-      "advancements.casting_advancement.descr": "Make your first alloy in the mold",
       "block.blockblitz.red_turf_carpet": "Brown Turf Carpet",
       "block.blockblitz.gapple_fence": "Golden Apple Planks",
       "block.blockblitz.polished_calcite_stairs": "Polished Calcite Stairs",
@@ -6969,13 +7023,14 @@
       "block.blockblitz.chiseled_calcite": "Chiseled Calcite",
       "block.blockblitz.black_turf": "Gray Turf",
       "block.blockblitz.chrome_deepslate_ore": "Chrome Deepslate Ore",
-      "block.blockblitz.maple_trapdoor": "Klapa klonu",
       "item.blockblitz.niobium_pickaxe": "Niobium Pickaxe",
+      "block.blockblitz.maple_trapdoor": "Klapa klonu",
       "block.blockblitz.birch_ladder": "Acacia Ladder",
       "block.blockblitz.calcite_slab": "Calcite Slab",
       "block.blockblitz.denim_carpet": "Denim Block",
       "block.blockblitz.granite_button": "Granite Button",
       "block.blockblitz.apple_door": "Drzwi z jabłoni",
+      "block.blockblitz.polished_andesite_wall": "Polished Andesite Wall",
       "block.blockblitz.raw_niobium_block": "Block of Raw Niobium",
       "block.blockblitz.maple_log": "Kłoda klonowa",
       "item.blockblitz.chrome_hoe": "Chrome Hoe",
@@ -6984,7 +7039,6 @@
       "item.blockblitz.raw_tungsten": "Raw Tungsten",
       "block.blockblitz.cotton_plant": "Cotton Plant",
       "block.blockblitz.warped_ladder": "Acacia Ladder",
-      "advancements.tungsten_advancement.descr": "Obtain Tungsten",
       "block.blockblitz.block_of_chrome": "Block Of Chrome",
       "block.blockblitz.polished_calcite": "Polished Calcite",
       "block.blockblitz.spruce_bookshelf": "Półka na książki ze świerku",
@@ -6999,15 +7053,15 @@
       "block.blockblitz.calcite_brick_wall": "Calcite Brick Wall",
       "block.blockblitz.light_blue_turf_carpet": "Cyan Turf Carpet",
       "biome.blockblitz.autumn_forest": "Jesienny las",
-      "block.blockblitz.block_of_aluminium": "Block Of Aluminium",
       "block.blockblitz.apple_log": "Kłoda z jabłoni",
+      "block.blockblitz.block_of_aluminium": "Block Of Aluminium",
       "block.blockblitz.diorite_pressure_plate": "Diorite Pressure Plate",
       "block.blockblitz.brown_turf_carpet": "Black Turf Carpet",
       "block.blockblitz.oil_ore": "Ruda ropy",
       "block.blockblitz.apple_bookshelf": "Apple Bookshelf",
       "block.blockblitz.gray_turf": "Light Gray Turf",
-      "item.blockblitz.steel_hoe": "Steel Hoe",
       "block.blockblitz.mulberry_wood": "Mulberry Wood",
+      "item.blockblitz.steel_hoe": "Steel Hoe",
       "block.blockblitz.pink_turf": "Yellow Turf",
       "block.blockblitz.maple_bookshelf": "Klonowa półka na książki ",
       "block.blockblitz.black_turf_carpet": "Gray Turf Carpet",
@@ -7016,14 +7070,14 @@
       "block.blockblitz.mulberry_planks": "Deska morwowa",
       "block.blockblitz.maple_wood": "Maple Wood",
       "block.blockblitz.gapple_door": "Golden Apple Door",
-      "block.blockblitz.magenta_turf_carpet": "Purple Turf Carpet",
       "block.blockblitz.cherry_ladder": "Acacia Ladder",
+      "block.blockblitz.magenta_turf_carpet": "Purple Turf Carpet",
       "block.blockblitz.polished_calcite_wall": "Polished Calcite Wall",
       "item.blockblitz.amethyst_hoe": "Ametystowa motyka",
       "item.blockblitz.chrome_ingot": "Chrome Ingot",
       "block.blockblitz.deepslate_button": "Gold Button",
-      "block.blockblitz.aluminium_ore": "Aluminium Ore",
       "block.blockblitz.apple_stairs": "Schody z jabłoni",
+      "block.blockblitz.aluminium_ore": "Aluminium Ore",
       "block.blockblitz.acacia_bookshelf": "Półka na książki z akacji",
       "block.blockblitz.aerogel_block": "Aerogel Block",
       "block.blockblitz.orange_turf_carpet": "Red Turf Carpet",
@@ -7070,7 +7124,7 @@
       "item.blockblitz.steel_pickaxe": "Steel Pickaxe",
       "block.blockblitz.mulberry_sapling": "Mulberry Sapling",
       "block.blockblitz.orange_turf": "Red Turf",
-      "advancements.tungsten_advancement.title": "Not Quite Netherite",
+      "block.blockblitz.polished_diorite_wall": "Polished Andesite Wall",
       "block.blockblitz.raw_chrome_block": "Raw Chrome Block",
       "item.blockblitz.chrome_pickaxe": "Chrome Pickaxe",
       "block.blockblitz.gapple_stairs": "Golden Apple Planks",
@@ -7078,6 +7132,7 @@
       "block.blockblitz.blue_turf": "Yellow Turf",
       "item.blockblitz.copper_shovel": "Miedziana łopata",
       "item.blockblitz.oshi_hit_track": "Oshi Hit Track",
+      "block.blockblitz.polished_granite_wall": "Polished Diorite Wall",
       "block.blockblitz.apple_fence": "Płot z jabłoni",
       "block.blockblitz.crimson_bookshelf": "Półka na książki z karmazynowego drewna",
       "block.blockblitz.gapple_sapling": "Golden Apple Sapling",
@@ -7134,19 +7189,16 @@
       "block.blockblitz.gapple_fence_gate": "Golden Apple Planks",
       "block.blockblitz.cotton_block": "Cotton Block",
       "block.blockblitz.obsidian_pressure_plate": "Obsidian Button",
-      "advancements.niobium_advancement.descr": "Smith a Niobium pickaxe",
       "block.blockblitz.andesite_pressure_plate": "Andesite Pressure Plate",
       "block.blockblitz.gapple_wood": "Gapple Wood",
       "block.blockblitz.dark_oak_ladder": "Acacia Ladder",
       "block.blockblitz.mulberry_pressure_plate": "Morwowa płyta dociskowa",
       "block.blockblitz.quartz_button": "Deepslate Button",
-      "advancements.casting_advancement.title": "master combiner",
       "block.blockblitz.mulberry_leaves": "Liście morwowe",
       "item.blockblitz.niobium_ingot": "Niobium Ingot",
       "block.blockblitz.purple_turf_carpet": "Blue Turf Carpet",
       "item.blockblitz.copper_sword": "Miedziany miecz",
       "item.blockblitz.chrome_sword": "Chrome Sword",
-      "advancements.niobium_advancement.title": "The Supreme",
       "block.blockblitz.calcite_wall": "Calcite Wall",
       "block.blockblitz.apple_slab": "Półpłytka z jabłoni",
       "block.blockblitz.obsidian_button": "Deepslate Button",
@@ -7165,7 +7217,6 @@
       "block.blockblitz.block_of_steel": "Block Of Steel",
       "item.blockblitz.aluminium_ingot": "Aluminium Ingot",
       "block.blockblitz.maple_ladder": "Acacia Ladder",
-      "advancements.casting_advancement.descr": "Make your first alloy in the mold",
       "block.blockblitz.red_turf_carpet": "Brown Turf Carpet",
       "block.blockblitz.gapple_fence": "Golden Apple Planks",
       "block.blockblitz.polished_calcite_stairs": "Polished Calcite Stairs",
@@ -7211,6 +7262,7 @@
       "block.blockblitz.denim_carpet": "Denim Block",
       "block.blockblitz.granite_button": "Granite Button",
       "block.blockblitz.apple_door": "Apple Door",
+      "block.blockblitz.polished_andesite_wall": "Polished Andesite Wall",
       "block.blockblitz.raw_niobium_block": "Block of Raw Niobium",
       "block.blockblitz.deepslate_turquoise_ore": "Deepslate Turquoise Ore",
       "item.blockblitz.chrome_hoe": "Chrome Hoe",
@@ -7378,13 +7430,11 @@
       "block.blockblitz.gapple_fence_gate": "Golden Apple Gate",
       "block.blockblitz.cotton_block": "Cotton Block",
       "block.blockblitz.obsidian_pressure_plate": "Obsidian Pressure Plate",
-      "advancements.niobium_advancement.descr": "Upgrade your Steel Pickaxe with Niobium",
       "block.blockblitz.andesite_pressure_plate": "Andesite Pressure Plate",
       "block.blockblitz.gapple_wood": "Golden Apple Wood",
       "block.blockblitz.dark_oak_ladder": "Dark Oak Ladder",
       "block.blockblitz.mulberry_pressure_plate": "Mulberry Pressure Plate",
       "block.blockblitz.quartz_button": "Quartz Button",
-      "advancements.casting_advancement.title": "Master Caster",
       "block.blockblitz.mulberry_leaves": "Mulberry Leaves",
       "item.blockblitz.niobium_ingot": "Niobium Ingot",
       "block.blockblitz.purple_turf_carpet": "Purple Turf Carpet",
@@ -7410,7 +7460,6 @@
       "block.blockblitz.block_of_steel": "Block Of Steel",
       "item.blockblitz.aluminium_ingot": "Aluminium Ingot",
       "block.blockblitz.maple_ladder": "Maple Ladder",
-      "advancements.casting_advancement.descr": "Make an alloy in a mold",
       "block.blockblitz.red_turf_carpet": "Red Turf Carpet",
       "block.blockblitz.gapple_fence": "Golden Apple Fence",
       "block.blockblitz.polished_calcite_stairs": "Polished Calcite Stairs",
@@ -7458,6 +7507,7 @@
       "block.blockblitz.denim_carpet": "Denim Block",
       "block.blockblitz.granite_button": "Granite Button",
       "block.blockblitz.apple_door": "Puerta de Manzano",
+      "block.blockblitz.polished_andesite_wall": "Polished Andesite Wall",
       "block.blockblitz.raw_niobium_block": "Block of Raw Niobium",
       "block.blockblitz.deepslate_turquoise_ore": "Deepslate Turquoise Ore",
       "item.blockblitz.chrome_hoe": "Chrome Hoe",
@@ -7558,6 +7608,7 @@
       "item.blockblitz.steel_pickaxe": "Steel Pickaxe",
       "block.blockblitz.mulberry_sapling": "Mulberry Sapling",
       "block.blockblitz.orange_turf": "Red Turf",
+      "block.blockblitz.polished_diorite_wall": "Polished Andesite Wall",
       "advancements.tungsten_advancement.title": "Not Quite Netherite",
       "block.blockblitz.raw_chrome_block": "Raw Chrome Block",
       "item.blockblitz.chrome_pickaxe": "Chrome Pickaxe",
@@ -7567,6 +7618,7 @@
       "block.blockblitz.turquoise_ore": "Mena de Turquesa",
       "item.blockblitz.copper_shovel": "Pala de Cobre",
       "item.blockblitz.oshi_hit_track": "Oshi Hit Track",
+      "block.blockblitz.polished_granite_wall": "Polished Diorite Wall",
       "block.blockblitz.apple_fence": "Valla de Manzano",
       "block.blockblitz.crimson_bookshelf": "Librería de Carmesí",
       "block.blockblitz.gapple_sapling": "Golden Apple Sapling",
@@ -7705,6 +7757,7 @@
       "block.blockblitz.denim_carpet": "Denim Block",
       "block.blockblitz.granite_button": "Granite Button",
       "block.blockblitz.apple_door": "Apfelholztür",
+      "block.blockblitz.polished_andesite_wall": "Polished Andesite Wall",
       "block.blockblitz.raw_niobium_block": "Block of Raw Niobium",
       "block.blockblitz.deepslate_turquoise_ore": "Deepslate Turquoise Ore",
       "item.blockblitz.chrome_hoe": "Chrome Hoe",
@@ -7805,6 +7858,7 @@
       "item.blockblitz.steel_pickaxe": "Steel Pickaxe",
       "block.blockblitz.mulberry_sapling": "Mulberry Sapling",
       "block.blockblitz.orange_turf": "Red Turf",
+      "block.blockblitz.polished_diorite_wall": "Polished Andesite Wall",
       "advancements.tungsten_advancement.title": "Not Quite Netherite",
       "block.blockblitz.raw_chrome_block": "Raw Chrome Block",
       "item.blockblitz.chrome_pickaxe": "Chrome Pickaxe",
@@ -7814,6 +7868,7 @@
       "block.blockblitz.turquoise_ore": "Türkiserz",
       "item.blockblitz.copper_shovel": "Kupferschaufel",
       "item.blockblitz.oshi_hit_track": "Oshi Hit Track",
+      "block.blockblitz.polished_granite_wall": "Polished Diorite Wall",
       "block.blockblitz.apple_fence": "Apfelholzzaun",
       "block.blockblitz.crimson_bookshelf": "Purpurholzbücherregal",
       "block.blockblitz.gapple_sapling": "Golden Apple Sapling",
