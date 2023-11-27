@@ -3,9 +3,9 @@
   "_type": "block",
   "definition": {
     "texture": "calcitepolish",
-    "textureTop": "",
+    "textureTop": "calcitepolish",
     "textureLeft": "",
-    "textureFront": "",
+    "textureFront": "calcitepolishslab",
     "textureRight": "",
     "textureBack": "",
     "renderType": 11,

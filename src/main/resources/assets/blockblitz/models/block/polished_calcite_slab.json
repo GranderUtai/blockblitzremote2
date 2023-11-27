@@ -3,7 +3,7 @@
   "textures": {
     "bottom": "blockblitz:block/calcitepolish",
     "top": "blockblitz:block/calcitepolish",
-    "side": "blockblitz:block/calcitepolish"
+    "side": "blockblitz:block/calcitepolishslab"
   },
   "render_type": "solid"
 }
