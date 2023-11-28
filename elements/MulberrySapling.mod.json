@@ -62,7 +62,7 @@
       "value": ""
     },
     "dropAmount": 1,
-    "forceTicking": false,
+    "forceTicking": true,
     "emissiveRendering": false,
     "hasTileEntity": false,
     "isReplaceable": false,
@@ -83,6 +83,9 @@
     "restrictionBiomes": [],
     "generationType": "Flower",
     "patchSize": 64,
-    "generateAtAnyHeight": false
+    "generateAtAnyHeight": false,
+    "onTickUpdate": {
+      "name": "MulberrySaplingTik"
+    }
   }
 }

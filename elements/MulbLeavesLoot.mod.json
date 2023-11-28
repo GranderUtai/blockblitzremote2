@@ -5,7 +5,7 @@
     "type": "Block",
     "pools": [
       {
-        "minrolls": 0,
+        "minrolls": 1,
         "maxrolls": 1,
         "minbonusrolls": 1,
         "maxbonusrolls": 1,
@@ -14,9 +14,23 @@
           {
             "type": "item",
             "item": {
-              "value": "CUSTOM:MapleSapling"
+              "value": "CUSTOM:MulberrySapling"
             },
             "weight": 15,
+            "minCount": 0,
+            "maxCount": 1,
+            "minEnchantmentLevel": 0,
+            "maxEnchantmentLevel": 0,
+            "affectedByFortune": false,
+            "explosionDecay": false,
+            "silkTouchMode": 0
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:Mulberries"
+            },
+            "weight": 50,
             "minCount": 0,
             "maxCount": 1,
             "minEnchantmentLevel": 0,
@@ -28,7 +42,7 @@
         ]
       }
     ],
-    "name": "blocks/maple_leaves",
+    "name": "blocks/mulberry_leaves",
     "namespace": "mod"
   }
 }

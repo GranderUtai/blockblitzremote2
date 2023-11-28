@@ -22,12 +22,15 @@ import net.minecraft.server.level.ServerLevel;
 import net.minecraft.core.Direction;
 import net.minecraft.core.BlockPos;
 
+import net.mcreator.blockblitz.procedures.MapleTreeTickProcedure;
+
 import java.util.List;
 import java.util.Collections;
 
 public class MapleSaplingBlock extends FlowerBlock implements BonemealableBlock {
 	public MapleSaplingBlock() {
-		super(() -> MobEffects.MOVEMENT_SPEED, 100, BlockBehaviour.Properties.of().mapColor(MapColor.PLANT).sound(SoundType.GRASS).instabreak().noCollission().offsetType(BlockBehaviour.OffsetType.NONE).pushReaction(PushReaction.DESTROY));
+		super(() -> MobEffects.MOVEMENT_SPEED, 100,
+				BlockBehaviour.Properties.of().mapColor(MapColor.PLANT).randomTicks().sound(SoundType.GRASS).instabreak().noCollission().offsetType(BlockBehaviour.OffsetType.NONE).pushReaction(PushReaction.DESTROY));
 	}
 
 	@Override
@@ -57,6 +60,12 @@ public class MapleSaplingBlock extends FlowerBlock implements BonemealableBlock 
 		if (!dropsOriginal.isEmpty())
 			return dropsOriginal;
 		return Collections.singletonList(new ItemStack(this));
+	}
+
+	@Override
+	public void tick(BlockState blockstate, ServerLevel world, BlockPos pos, RandomSource random) {
+		super.tick(blockstate, world, pos, random);
+		MapleTreeTickProcedure.execute(world, pos.getX(), pos.getY(), pos.getZ());
 	}
 
 	@Override

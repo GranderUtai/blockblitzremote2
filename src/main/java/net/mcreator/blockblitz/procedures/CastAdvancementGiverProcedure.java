@@ -9,7 +9,6 @@ import net.minecraft.world.level.LevelAccessor;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.server.level.ServerPlayer;
 import net.minecraft.resources.ResourceLocation;
-import net.minecraft.network.chat.Component;
 import net.minecraft.core.BlockPos;
 import net.minecraft.advancements.AdvancementProgress;
 import net.minecraft.advancements.Advancement;
@@ -43,8 +42,6 @@ public class CastAdvancementGiverProcedure {
 						_player.getAdvancements().award(_adv, criteria);
 				}
 			}
-			if (!world.isClientSide() && world.getServer() != null)
-				world.getServer().getPlayerList().broadcastSystemMessage(Component.literal("added advancement"), false);
 		}
 	}
 }
