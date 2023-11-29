@@ -13,7 +13,7 @@ public class ChromeSwordItem extends SwordItem {
 	public ChromeSwordItem() {
 		super(new Tier() {
 			public int getUses() {
-				return 100;
+				return 300;
 			}
 
 			public float getSpeed() {

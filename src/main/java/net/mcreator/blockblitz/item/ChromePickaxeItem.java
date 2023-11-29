@@ -13,7 +13,7 @@ public class ChromePickaxeItem extends PickaxeItem {
 	public ChromePickaxeItem() {
 		super(new Tier() {
 			public int getUses() {
-				return 1000;
+				return 300;
 			}
 
 			public float getSpeed() {

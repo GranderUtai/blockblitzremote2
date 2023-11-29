@@ -13,7 +13,7 @@ public class ChromeHoeItem extends HoeItem {
 	public ChromeHoeItem() {
 		super(new Tier() {
 			public int getUses() {
-				return 1000;
+				return 300;
 			}
 
 			public float getSpeed() {

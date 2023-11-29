@@ -13,7 +13,7 @@ public class ChromeAxeItem extends AxeItem {
 	public ChromeAxeItem() {
 		super(new Tier() {
 			public int getUses() {
-				return 100;
+				return 300;
 			}
 
 			public float getSpeed() {
